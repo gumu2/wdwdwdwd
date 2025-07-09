@@ -1,0 +1,714 @@
+[
+  {
+    "id": "manakula-vinayagar-temple",
+    "name": "Manakula Vinayagar Temple",
+    "type": "Temple",
+    "typeColor": "bg-orange-100 text-orange-800",
+    "state": "Puducherry",
+    "location": "Manakula Vinayagar Koil St, White Town, Puducherry",
+    "description": "A very famous and ancient temple dedicated to Lord Ganesha (Vinayagar), located in the heart of Puducherry's French Quarter. It is known for its vibrant atmosphere and the elephant Lakshmi who often blesses devotees. The temple represents a unique cultural juxtaposition of traditional South Indian temple architecture in the French Quarter.",
+    "image": "https://i.pinimg.com/736x/7e/fc/95/7efc953cfc099fab170d520436c20c7b.jpg",
+    "timings": "Morning: 5:30 AM to 12:30 PM, Evening: 4:00 PM to 9:00 PM",
+    "prasad": "Ganesha prasadam, Modak, Traditional sweets",
+    "amenities": [
+      "Spacious mandapams for devotees",
+      "Elephant Lakshmi blessings",
+      "Counters for offerings",
+      "Resting areas with shade",
+      "Cultural event spaces",
+      "Tourist information"
+    ],
+    "festivals": [
+      "Ganesh Chaturthi",
+      "Vinayaka Chaturthi",
+      "Brahmotsavam",
+      "Tamil festivals",
+      "French Quarter cultural events"
+    ],
+    "contact": "+91 413 2334567",
+    "nearestTransport": {
+      "airport": "Puducherry Airport (PNY) - 7 km, Chennai International Airport (MAA) - 150 km",
+      "railway": "Puducherry Railway Station (PDY) - 2 km",
+      "bus": "Puducherry Bus Stand - 1.5 km"
+    },
+    "nearbyAttractions": [
+      "Raj Niwas",
+      "French Consulate",
+      "Promenade Beach",
+      "Auroville",
+      "French Quarter heritage buildings"
+    ],
+    "nearbyHotels": [
+      "Hotel Atithi",
+      "The Promenade",
+      "Villa Shanti",
+      "French Quarter guesthouses"
+    ],
+    "nearbyRestaurants": [
+      "Cafe des Arts",
+      "Villa Shanti Restaurant",
+      "Surguru Restaurant",
+      "French Quarter cafes"
+    ],
+    "specialFeatures": [
+      "Ancient temple with centuries-old history",
+      "Elephant Lakshmi blessings",
+      "French Quarter location",
+      "Colorful gopuram with deity sculptures",
+      "Cultural juxtaposition",
+      "Miraculous reappearance legend"
+    ]
+  },
+  {
+    "id": "thirunallar-saniswaran-temple",
+    "name": "Thirunallar Saniswaran Temple",
+    "type": "Temple",
+    "typeColor": "bg-orange-100 text-orange-800",
+    "state": "Puducherry",
+    "location": "Thirunallar, Karaikal",
+    "description": "A very famous and highly revered temple dedicated to Lord Saneeswara (Saturn). It is one of the Navagraha temples and attracts devotees seeking relief from the malefic effects of Shani. The temple showcases Dravidian architecture typical of Chola-era temples, with gopurams, mandapams, and the sacred Nala Theertham tank.",
+    "image": "https://i.pinimg.com/736x/97/19/af/9719afd227847869e2bf93253acec2fb.jpg",
+    "timings": "Morning: 6:00 AM to 12:00 PM, Evening: 4:00 PM to 8:00 PM",
+    "prasad": "Saturn-specific offerings, Sesame seeds, Black cloth prasadam",
+    "amenities": [
+      "Large prayer areas for devotees",
+      "Nala Theertham changing rooms",
+      "Sacred tank bathing facilities",
+      "Ample parking space",
+      "Information and guidance centers",
+      "Astrological consultation"
+    ],
+    "festivals": [
+      "Shani Peyarchi (Saturn transit)",
+      "Brahmotsavam",
+      "Nala Theertham festival",
+      "Amavasya special prayers",
+      "Saneeswara Jayanti"
+    ],
+    "contact": "+91 4368 234567",
+    "nearestTransport": {
+      "airport": "Tiruchirapalli International Airport (TRZ) - 150 km, Puducherry Airport (PNY) - 160 km",
+      "railway": "Karaikal Railway Station (KIK) - 5 km",
+      "bus": "Karaikal to Thirunallar - regular services"
+    },
+    "nearbyAttractions": [
+      "Karaikal town",
+      "Karaikal Beach",
+      "Nagore Dargah",
+      "Tranquebar",
+      "Poompuhar"
+    ],
+    "nearbyHotels": [
+      "Karaikal hotels",
+      "Temple guest houses",
+      "Local lodges",
+      "Pilgrim accommodations"
+    ],
+    "nearbyRestaurants": [
+      "Temple prasadam centers",
+      "Karaikal restaurants",
+      "Traditional South Indian eateries",
+      "Vegetarian restaurants"
+    ],
+    "specialFeatures": [
+      "One of the Navagraha temples",
+      "Chola-era Dravidian architecture",
+      "Sacred Nala Theertham tank",
+      "King Nala Mahabharata connection",
+      "Saturn transit celebrations",
+      "Astrological significance"
+    ]
+  },
+  {
+    "id": "kamakshi-amman-temple-puducherry",
+    "name": "Kamakshi Amman Temple",
+    "type": "Temple",
+    "typeColor": "bg-orange-100 text-orange-800",
+    "state": "Puducherry",
+    "location": "MG Road, Mudaliarpet, Puducherry",
+    "description": "A significant temple dedicated to Goddess Kamakshi, a form of Parvati. It is known for its beautiful architecture and vibrant festivals. The temple showcases traditional South Indian Dravidian architecture with a gopuram, mandapams, and the sanctum housing the beautifully sculpted idol of Goddess Kamakshi.",
+    "image": "https://i.pinimg.com/736x/ec/97/48/ec9748a013e4b4b347961e52ae0d6ef9.jpg",
+    "timings": "Morning: 6:00 AM to 12:00 PM, Evening: 4:00 PM to 8:30 PM",
+    "prasad": "Kamakshi prasadam, Traditional offerings, Goddess-specific sweets",
+    "amenities": [
+      "Spacious mandapams for gatherings",
+      "Well-proportioned gopuram",
+      "Counters for offerings",
+      "Resting areas for devotees",
+      "Festival celebration spaces",
+      "Cultural program venues"
+    ],
+    "festivals": [
+      "Navaratri",
+      "Kamakshi Jayanti",
+      "Devi festivals",
+      "Brahmotsavam",
+      "Tamil cultural festivals"
+    ],
+    "contact": "+91 413 2345678",
+    "nearestTransport": {
+      "airport": "Puducherry Airport (PNY) - 8 km, Chennai International Airport (MAA) - 150 km",
+      "railway": "Puducherry Railway Station (PDY) - 3 km",
+      "bus": "Mudaliarpet Bus Stop - 1 km"
+    },
+    "nearbyAttractions": [
+      "Puducherry Museum",
+      "Botanical Garden",
+      "Chunnambar Boat House",
+      "Paradise Beach",
+      "Auroville"
+    ],
+    "nearbyHotels": [
+      "Hotel Atithi",
+      "The Promenade",
+      "Mudaliarpet accommodations",
+      "Local guesthouses"
+    ],
+    "nearbyRestaurants": [
+      "Mudaliarpet restaurants",
+      "Traditional South Indian eateries",
+      "Local vegetarian restaurants",
+      "Temple prasadam centers"
+    ],
+    "specialFeatures": [
+      "Goddess Kamakshi as beauty and power",
+      "Traditional Dravidian architecture",
+      "Vibrant festival celebrations",
+      "Community religious center",
+      "Cultural preservation",
+      "Beautiful deity sculptures"
+    ]
+  },
+  {
+    "id": "arulmigu-dandayudhapani-temple",
+    "name": "Arulmigu Dandayudhapani Temple",
+    "type": "Temple",
+    "typeColor": "bg-orange-100 text-orange-800",
+    "state": "Puducherry",
+    "location": "Puducherry",
+    "description": "A temple dedicated to Lord Murugan (Dandayudhapani), serving the Tamil community in Puducherry. The temple is known for its traditional Tamil architecture and cultural significance.",
+    "image": "https://content.jdmagicbox.com/comp/palani/i7/9999p4545.4545.0908101726.jpg",
+    "timings": "Morning: 6:00 AM to 12:00 PM, Evening: 4:00 PM to 8:00 PM",
+    "prasad": "Murugan prasadam, Traditional offerings, Temple sweets",
+    "amenities": [
+      "Traditional Tamil architecture",
+      "Festival celebration areas",
+      "Community gathering spaces",
+      "Religious education facilities",
+      "Cultural preservation center",
+      "Devotional atmosphere"
+    ],
+    "festivals": [
+      "Skanda Sashti",
+      "Thaipusam",
+      "Panguni Uthiram",
+      "Tamil festivals",
+      "Murugan celebrations"
+    ],
+    "contact": "+91 413 2456789",
+    "nearestTransport": {
+      "airport": "Puducherry Airport (PNY) - 8 km",
+      "railway": "Puducherry Railway Station (PDY) - 3 km",
+      "bus": "Puducherry city buses - nearby"
+    },
+    "nearbyAttractions": [
+      "Puducherry city attractions",
+      "Tamil cultural centers",
+      "Local markets",
+      "Heritage sites"
+    ],
+    "nearbyHotels": [
+      "Puducherry city hotels",
+      "Local accommodations",
+      "Cultural area guesthouses"
+    ],
+    "nearbyRestaurants": [
+      "Tamil cuisine restaurants",
+      "Traditional South Indian eateries",
+      "Local vegetarian restaurants"
+    ],
+    "specialFeatures": [
+      "Dedicated to Lord Murugan",
+      "Tamil community cultural center",
+      "Traditional architecture",
+      "Cultural significance",
+      "Festival celebrations",
+      "Community religious hub"
+    ]
+  },
+  {
+    "id": "jamia-mosque-puducherry",
+    "name": "Jamia Mosque",
+    "type": "Mosque",
+    "typeColor": "bg-green-100 text-green-800",
+    "state": "Puducherry",
+    "location": "M.G. Road, Pudupalayam, Puducherry",
+    "description": "The oldest and most prominent mosque in Puducherry, located on the busy Mahatma Gandhi Road. It serves as a central place of worship for the Muslim community and is known for its serene atmosphere despite its central location. The mosque features traditional Indo-Islamic architectural elements with local influences.",
+    "image": "https://cdn.britannica.com/09/189809-050-FAC505B0/Jama-Masjid-Delhi.jpg",
+    "timings": "Five daily prayers, Friday Juma prayers especially well-attended",
+    "prasad": "Community Iftar meals, Charitable food distribution",
+    "amenities": [
+      "Spacious main prayer hall",
+      "Large courtyard for gatherings",
+      "Ablution facilities (Wudu)",
+      "Separate area for women",
+      "Community service center",
+      "Religious education facilities"
+    ],
+    "festivals": [
+      "Eid al-Fitr",
+      "Eid al-Adha",
+      "Milad-un-Nabi",
+      "Ramadan special prayers",
+      "Islamic New Year"
+    ],
+    "contact": "+91 413 2346789",
+    "nearestTransport": {
+      "airport": "Puducherry Airport (PNY) - 7 km, Chennai International Airport (MAA) - 150 km",
+      "railway": "Puducherry Railway Station (PDY) - 2-3 km",
+      "bus": "M.G. Road Bus Stop - nearby"
+    },
+    "nearbyAttractions": [
+      "M.G. Road commercial area",
+      "Puducherry Museum",
+      "Gandhi Statue",
+      "French Quarter",
+      "Promenade Beach"
+    ],
+    "nearbyHotels": [
+      "M.G. Road hotels",
+      "Hotel Atithi",
+      "The Promenade",
+      "Commercial area accommodations"
+    ],
+    "nearbyRestaurants": [
+      "Halal restaurants",
+      "M.G. Road eateries",
+      "Multi-cuisine restaurants",
+      "Traditional Muslim cuisine"
+    ],
+    "specialFeatures": [
+      "Oldest mosque in Puducherry",
+      "17th-18th century foundation",
+      "Indo-Islamic architectural style",
+      "Central location significance",
+      "Community hub for Muslims",
+      "French colonial period witness"
+    ]
+  },
+  {
+    "id": "meeran-mosque-puducherry",
+    "name": "Meeran Mosque",
+    "type": "Mosque",
+    "typeColor": "bg-green-100 text-green-800",
+    "state": "Puducherry",
+    "location": "M.G. Road, Pudupalayam, Puducherry",
+    "description": "Another historically significant mosque in Puducherry, known for its unique architectural features, including a distinctive tower. It holds a revered status within the local Muslim community and is said to be even older than the Jamia Mosque by some accounts, possibly dating back to the late 17th century.",
+    "image": "https://images.wanderon.in/blogs/new/2024/06/meeran-mosque-pondicherry.jpg",
+    "timings": "Five daily prayers, special congregational prayers during festivals",
+    "prasad": "Community meals during festivals, Charitable distributions",
+    "amenities": [
+      "Prayer hall for congregational prayers",
+      "Unique tapering tower/minaret",
+      "Ablution facilities",
+      "Community gathering spaces",
+      "Religious education center",
+      "Welfare initiative facilities"
+    ],
+    "festivals": [
+      "Eid al-Fitr",
+      "Eid al-Adha",
+      "Milad-un-Nabi",
+      "Ramadan congregations",
+      "Islamic calendar observances"
+    ],
+    "contact": "+91 413 2347890",
+    "nearestTransport": {
+      "airport": "Puducherry Airport (PNY) - 7 km, Chennai International Airport (MAA) - 150 km",
+      "railway": "Puducherry Railway Station (PDY) - 2-3 km",
+      "bus": "M.G. Road vicinity - nearby"
+    },
+    "nearbyAttractions": [
+      "Jamia Mosque",
+      "M.G. Road commercial area",
+      "French Quarter",
+      "Promenade Beach",
+      "Puducherry Museum"
+    ],
+    "nearbyHotels": [
+      "M.G. Road hotels",
+      "Commercial area accommodations",
+      "Hotel Atithi",
+      "Local guesthouses"
+    ],
+    "nearbyRestaurants": [
+      "Halal restaurants",
+      "Traditional Muslim cuisine",
+      "M.G. Road eateries",
+      "Multi-cuisine options"
+    ],
+    "specialFeatures": [
+      "Possibly older than Jamia Mosque",
+      "Distinctive tapering tower/minaret",
+      "Late 17th century origins",
+      "Unique architectural identity",
+      "Historical preservation",
+      "Community welfare focus"
+    ]
+  },
+  {
+    "id": "masjid-e-rahmania-puducherry",
+    "name": "Masjid-e-Rahmania",
+    "type": "Mosque",
+    "typeColor": "bg-green-100 text-green-800",
+    "state": "Puducherry",
+    "location": "Puducherry",
+    "description": "A mosque serving the Muslim community in Puducherry, known for its community service programs and religious education initiatives.",
+    "image": "https://i.pinimg.com/736x/82/64/86/8264861719e43959a49c30bc538498a7.jpg",
+    "timings": "Five daily prayers, special congregational prayers",
+    "prasad": "Community meals, Charitable distributions",
+    "amenities": [
+      "Prayer hall",
+      "Community center",
+      "Islamic education facilities",
+      "Youth programs",
+      "Social service initiatives",
+      "Religious guidance"
+    ],
+    "festivals": [
+      "Eid al-Fitr",
+      "Eid al-Adha",
+      "Milad-un-Nabi",
+      "Ramadan programs",
+      "Community celebrations"
+    ],
+    "contact": "+91 413 2567890",
+    "nearestTransport": {
+      "airport": "Puducherry Airport (PNY) - varies",
+      "railway": "Puducherry Railway Station (PDY) - varies",
+      "bus": "Puducherry city buses - nearby"
+    },
+    "nearbyAttractions": [
+      "Puducherry city attractions",
+      "Local markets",
+      "Community centers",
+      "Cultural sites"
+    ],
+    "nearbyHotels": [
+      "Puducherry city hotels",
+      "Local accommodations",
+      "Community guesthouses"
+    ],
+    "nearbyRestaurants": [
+      "Halal restaurants",
+      "Local Muslim cuisine",
+      "Community dining",
+      "Traditional eateries"
+    ],
+    "specialFeatures": [
+      "Community service focus",
+      "Islamic education programs",
+      "Youth development activities",
+      "Social service initiatives",
+      "Religious guidance center",
+      "Cultural preservation"
+    ]
+  },
+  {
+    "id": "basilica-sacred-heart-jesus",
+    "name": "Basilica of the Sacred Heart of Jesus",
+    "type": "Church",
+    "typeColor": "bg-purple-100 text-purple-800",
+    "state": "Puducherry",
+    "location": "South Boulevard, Near Railway Station, Puducherry",
+    "description": "An imposing and architecturally magnificent Roman Catholic basilica, renowned for its Gothic revival style and stained-glass panels depicting the life of Christ. It is a major pilgrimage site and a prominent landmark in Puducherry. Construction began in 1902 and was completed in 1907, elevated to basilica status in 2011.",
+    "image": "https://pondicherrytourism.co.in/images/places-to-visit/header/basilica-of-the-sacred-heart-of-jesus-puducherry-tourism-entry-fee-timings-holidays-reviews-header.jpg",
+    "timings": "Daily Holy Mass in English, Tamil, and sometimes French",
+    "prasad": "Holy Communion, Blessed bread, Sacred offerings",
+    "amenities": [
+      "Large nave and altar seating",
+      "Confessionals for reconciliation",
+      "Gift shop with religious articles",
+      "Resting areas and outdoor seating",
+      "Heritage and cultural center",
+      "Pilgrimage facilities"
+    ],
+    "festivals": [
+      "Christmas",
+      "Easter",
+      "Good Friday",
+      "Feast of the Sacred Heart of Jesus",
+      "French colonial heritage celebrations"
+    ],
+    "contact": "+91 413 2348901",
+    "nearestTransport": {
+      "airport": "Puducherry Airport (PNY) - 6 km, Chennai International Airport (MAA) - 150 km",
+      "railway": "Puducherry Railway Station (PDY) - few hundred meters",
+      "bus": "Railway Station Bus Stop - walking distance"
+    },
+    "nearbyAttractions": [
+      "Puducherry Railway Station",
+      "French Quarter",
+      "Promenade Beach",
+      "Raj Niwas",
+      "Auroville"
+    ],
+    "nearbyHotels": [
+      "Railway Station area hotels",
+      "The Promenade",
+      "Hotel Atithi",
+      "Heritage accommodations"
+    ],
+    "nearbyRestaurants": [
+      "Railway Station area restaurants",
+      "French cuisine eateries",
+      "Multi-cuisine restaurants",
+      "Christian community dining"
+    ],
+    "specialFeatures": [
+      "Basilica status since 2011",
+      "Neo-Gothic architectural style",
+      "Soaring spires and grand facade",
+      "Extensive stained-glass windows",
+      "French colonial period construction",
+      "Major pilgrimage destination"
+    ]
+  },
+  {
+    "id": "immaculate-conception-cathedral",
+    "name": "Immaculate Conception Cathedral",
+    "type": "Church",
+    "typeColor": "bg-purple-100 text-purple-800",
+    "state": "Puducherry",
+    "location": "Mission Street, White Town, Puducherry",
+    "description": "The principal church of the Roman Catholic Archdiocese of Puducherry and Cuddalore. It is an elegant colonial-era church with a long history, serving as a significant spiritual and historical site in the French Quarter. Built between 1770 and 1791, it is one of the oldest and most significant churches in Puducherry.",
+    "image": "https://i.pinimg.com/736x/2d/3d/7c/2d3d7c9137357bd72416bd70b65f4623.jpg",
+    "timings": "Daily Holy Mass in various languages, special Archbishop services",
+    "prasad": "Holy Communion, Blessed items, Cathedral offerings",
+    "amenities": [
+      "Large nave with ample seating",
+      "Confessionals available",
+      "Archbishop's seat",
+      "Colonial architecture viewing",
+      "Religious art displays",
+      "Pastoral care center"
+    ],
+    "festivals": [
+      "Feast of the Immaculate Conception",
+      "Christmas",
+      "Easter",
+      "Good Friday",
+      "Archbishop special celebrations"
+    ],
+    "contact": "+91 413 2349012",
+    "nearestTransport": {
+      "airport": "Puducherry Airport (PNY) - 7 km, Chennai International Airport (MAA) - 150 km",
+      "railway": "Puducherry Railway Station (PDY) - 2 km",
+      "bus": "White Town Bus Stop - nearby"
+    },
+    "nearbyAttractions": [
+      "French Consulate",
+      "Mission Street heritage buildings",
+      "Promenade Beach",
+      "French Quarter",
+      "Raj Niwas"
+    ],
+    "nearbyHotels": [
+      "White Town heritage hotels",
+      "Villa Shanti",
+      "The Promenade",
+      "French Quarter guesthouses"
+    ],
+    "nearbyRestaurants": [
+      "Mission Street cafes",
+      "French Quarter restaurants",
+      "Heritage dining establishments",
+      "Colonial cuisine eateries"
+    ],
+    "specialFeatures": [
+      "Archdiocese cathedral status",
+      "Built 1770-1791",
+      "Colonial and classical architecture",
+      "Archbishop's seat",
+      "French Quarter heart location",
+      "Extensive pastoral programs"
+    ]
+  },
+  {
+    "id": "our-lady-angels-church",
+    "name": "Our Lady of Angels Church",
+    "type": "Church",
+    "typeColor": "bg-purple-100 text-purple-800",
+    "state": "Puducherry",
+    "location": "Rue Dumas, White Town, Puducherry",
+    "description": "The only church in Puducherry that offers services in French, making it a unique spiritual and cultural landmark. It is known for its beautiful architecture and tranquil atmosphere in the French Quarter. The current structure was built in 1855, replacing an earlier Capuchin chapel from 1707.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Eglise_de_Notre_Dame_des_Anges_-_our_Lady_of_Holy_Angels_-_Pondicherry.JPG/960px-Eglise_de_Notre_Dame_des_Anges_-_our_Lady_of_Holy_Angels_-_Pondicherry.JPG",
+    "timings": "Regular Holy Mass including services in French",
+    "prasad": "Holy Communion, French liturgical offerings, Blessed items",
+    "amenities": [
+      "Comfortable seating arrangements",
+      "French language services",
+      "Classical Roman architecture viewing",
+      "Peaceful prayer environment",
+      "Cultural heritage center",
+      "Bay of Bengal proximity"
+    ],
+    "festivals": [
+      "Christmas (French traditions)",
+      "Easter",
+      "Good Friday",
+      "French Catholic celebrations",
+      "Our Lady of Angels feast"
+    ],
+    "contact": "+91 413 2350123",
+    "nearestTransport": {
+      "airport": "Puducherry Airport (PNY) - 8 km, Chennai International Airport (MAA) - 150 km",
+      "railway": "Puducherry Railway Station (PDY) - 3 km",
+      "bus": "Rue Dumas area - nearby"
+    },
+    "nearbyAttractions": [
+      "Puducherry Promenade",
+      "French Consulate",
+      "Bay of Bengal",
+      "French Quarter heritage walk",
+      "White Town colonial buildings"
+    ],
+    "nearbyHotels": [
+      "Promenade area hotels",
+      "Villa Shanti",
+      "The Promenade",
+      "Rue Dumas accommodations"
+    ],
+    "nearbyRestaurants": [
+      "French cuisine restaurants",
+      "Promenade cafes",
+      "Bay view dining",
+      "French Quarter eateries"
+    ],
+    "specialFeatures": [
+      "Only church offering French Mass",
+      "Classical Roman architecture",
+      "Built 1855, replacing 1707 chapel",
+      "Beautiful white facade with twin towers",
+      "Prominent dome design",
+      "French cultural preservation"
+    ]
+  },
+  {
+    "id": "st-andrews-church-puducherry",
+    "name": "St. Andrew's Church",
+    "type": "Church",
+    "typeColor": "bg-purple-100 text-purple-800",
+    "state": "Puducherry",
+    "location": "Puducherry",
+    "description": "A Protestant church serving the Christian community in Puducherry, known for its simple architecture and community-focused ministry.",
+    "image": "https://i.pinimg.com/736x/76/b2/95/76b2950332cebee854b4cea04b530c1e.jpg",
+    "timings": "Sunday services and regular prayer meetings",
+    "prasad": "Holy Communion, Prayer offerings, Fellowship meals",
+    "amenities": [
+      "Simple church architecture",
+      "Community hall",
+      "Sunday school facilities",
+      "Prayer meeting rooms",
+      "Fellowship areas",
+      "Protestant worship style"
+    ],
+    "festivals": [
+      "Christmas",
+      "Easter",
+      "Good Friday",
+      "Protestant celebrations",
+      "Community festivals"
+    ],
+    "contact": "+91 413 2678901",
+    "nearestTransport": {
+      "airport": "Puducherry Airport (PNY) - varies",
+      "railway": "Puducherry Railway Station (PDY) - varies",
+      "bus": "Puducherry city buses - nearby"
+    },
+    "nearbyAttractions": [
+      "Puducherry city attractions",
+      "Local community centers",
+      "Cultural sites",
+      "Heritage areas"
+    ],
+    "nearbyHotels": [
+      "Puducherry city hotels",
+      "Local accommodations",
+      "Community guesthouses"
+    ],
+    "nearbyRestaurants": [
+      "Local restaurants",
+      "Community dining",
+      "Multi-cuisine eateries"
+    ],
+    "specialFeatures": [
+      "Protestant denomination",
+      "Community-focused ministry",
+      "Simple worship style",
+      "Fellowship emphasis",
+      "Local community service",
+      "Educational programs"
+    ]
+  },
+  {
+    "id": "gurudwara-sahib-puducherry",
+    "name": "Gurudwara Sahib, Puducherry",
+    "type": "Gurudwara",
+    "typeColor": "bg-blue-100 text-blue-800",
+    "state": "Puducherry",
+    "location": "No. 17, Chetty Street, Puducherry",
+    "description": "The primary Sikh place of worship in Puducherry, serving the local Sikh community and visitors. It provides a peaceful sanctuary for prayer and community gathering. The Gurudwara features traditional Sikh architecture with a central dome, and emphasizes community service through Langar and religious education.",
+    "image": "https://content.jdmagicbox.com/v2/comp/chennai/32/044p4119032/catalogue/gurudwara-sikh-temple-t-nagar-chennai-gurudwaras-qe0x80-250.jpg",
+    "timings": "Morning and evening prayers, Kirtan, Sunday Diwan congregation",
+    "prasad": "Langar (community kitchen), Karah Prasad",
+    "amenities": [
+      "Main Darbar Sahib prayer hall",
+      "Langar Hall for community meals",
+      "Residential facilities for granthis",
+      "Community education center",
+      "Washrooms and toilets",
+      "Parking facilities"
+    ],
+    "festivals": [
+      "Guru Nanak Jayanti",
+      "Guru Gobind Singh Jayanti",
+      "Baisakhi",
+      "Vaisakhi",
+      "Diwali celebrations"
+    ],
+    "contact": "+91 413 2351234",
+    "nearestTransport": {
+      "airport": "Puducherry Airport (PNY) - 7 km, Chennai International Airport (MAA) - 150 km",
+      "railway": "Puducherry Railway Station (PDY) - 2 km",
+      "bus": "Chetty Street area - nearby"
+    },
+    "nearbyAttractions": [
+      "French Quarter",
+      "Promenade Beach",
+      "Raj Niwas",
+      "Puducherry Museum",
+      "Auroville"
+    ],
+    "nearbyHotels": [
+      "Chetty Street accommodations",
+      "Hotel Atithi",
+      "The Promenade",
+      "Local guesthouses"
+    },
+    "nearbyRestaurants": [
+      "Gurudwara Langar",
+      "Punjabi cuisine restaurants",
+      "Multi-cuisine eateries",
+      "Community dining halls"
+    ],
+    "specialFeatures": [
+      "Primary Sikh center in Puducherry",
+      "Traditional Sikh architecture",
+      "Central dome and Nishan Sahib",
+      "Community service emphasis",
+      "Religious education programs",
+      "Interfaith harmony promotion"
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "about": {
+    "title": "About Sanskriti Dharohar",
+    "description": "Sanskriti Dharohar is a digital platform dedicated to preserving and showcasing India's rich religious heritage. Our mission is to document, celebrate, and share the diverse spiritual traditions that have shaped our cultural landscape for millennia.",
+    "mission": "To create awareness about India's magnificent religious architecture, traditions, and cultural significance while promoting heritage conservation.",
+    "vision": "A comprehensive digital repository that serves as a bridge between ancient wisdom and modern accessibility."
+  },
+  "team": [
+    {
+      "name": "Dr. Rajesh Sharma",
+      "role": "Heritage Researcher",
+      "description": "Expert in Indian religious architecture with 15+ years of research experience."
+    },
+    {
+      "name": "Priya Patel",
+      "role": "Cultural Documentation Lead",
+      "description": "Specializes in documenting and preserving cultural traditions across India."
+    },
+    {
+      "name": "Arjun Krishnan",
+      "role": "Digital Preservation Specialist",
+      "description": "Technology expert focused on creating accessible digital heritage experiences."
+    }
+  ]
+}

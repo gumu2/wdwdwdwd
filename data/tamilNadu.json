@@ -1,0 +1,1485 @@
+[
+  {
+    "id": "brihadeeswarar-temple-thanjavur",
+    "name": "Brihadeeswarar Temple, Thanjavur",
+    "type": "Temple",
+    "typeColor": "bg-orange-100 text-orange-800",
+    "state": "Tamil Nadu",
+    "location": "Thanjavur",
+    "description": "Also known as the \"Big Temple,\" this Shiva temple is a UNESCO World Heritage Site and one of the finest examples of Dravidian architecture. Built in 1010 CE by Raja Raja Chola I, this temple showcases the grandeur of the Chola dynasty. The 216-feet vimana (sanctum tower) is made from a single granite block, and its shadow never falls on the ground at noon.",
+    "image": "https://static.wixstatic.com/media/35364f_5b5ce4ffb5684f46922e67664a63fe93~mv2.jpg/v1/fill/w_980,h_653,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/35364f_5b5ce4ffb5684f46922e67664a63fe93~mv2.jpg",
+    "timings": "Morning: 6:00 AM to 12:30 PM, Evening: 4:00 PM to 8:30 PM",
+    "prasad": "Panchamirtham, Coconut Rice, Traditional offerings",
+    "amenities": [
+      "Temple museum displaying Chola-era artifacts",
+      "Restrooms and parking facilities",
+      "Small shopping area",
+      "Nearby accommodation and eateries",
+      "Guided tours available",
+      "Archaeological significance displays"
+    ],
+    "festivals": [
+      "Maha Shivaratri",
+      "Brahmotsavam",
+      "Arudra Darshan",
+      "Chola Festival",
+      "Annual temple festival"
+    ],
+    "contact": "+91 4362 274677",
+    "nearestTransport": {
+      "airport": "Tiruchirapalli International Airport (TRZ) - 60 km",
+      "railway": "Thanjavur Railway Station (TJ) - 2 km",
+      "bus": "Thanjavur Bus Stand - 1.5 km"
+    },
+    "nearbyAttractions": [
+      "Thanjavur Maratha Palace",
+      "Saraswathi Mahal Library",
+      "Rajarajan Manimandapam",
+      "Art Gallery",
+      "Royal Museum"
+    ],
+    "nearbyHotels": [
+      "Hotel Sangam",
+      "Hotel Parisutham",
+      "TTDC Hotel Tamil Nadu",
+      "Ideal River View Resort"
+    ],
+    "nearbyRestaurants": [
+      "Sathars Restaurant",
+      "Hotel Valli",
+      "Annapoorna Restaurant",
+      "Local South Indian eateries"
+    ],
+    "specialFeatures": [
+      "UNESCO World Heritage Site",
+      "216-feet vimana made from single granite block",
+      "Shadow never falls on ground at noon",
+      "Gigantic monolithic Nandi statue (13 feet high, 16 feet long)",
+      "Exquisite frescoes and inscriptions",
+      "Finest example of Dravidian architecture"
+    ]
+  },
+  {
+    "id": "meenakshi-amman-temple-madurai",
+    "name": "Meenakshi Amman Temple, Madurai",
+    "type": "Temple",
+    "typeColor": "bg-orange-100 text-orange-800",
+    "state": "Tamil Nadu",
+    "location": "Madurai",
+    "description": "This grand temple, dedicated to Goddess Meenakshi (a form of Parvati) and Lord Sundareswarar (Shiva), is one of the most visited temples in India. Initially built in the 6th century and expanded by the Nayak rulers in the 16th century, the temple complex covers 14 acres and features 14 towering gopurams, adorned with over 33,000 colorful sculptures.",
+    "image": "https://www.abhibus.com/blog/wp-content/uploads/2023/04/Madurai-Meenakshi-Temple-History-Timings-How-to-Reach.jpg",
+    "timings": "Morning: 5:00 AM to 12:30 PM, Evening: 4:00 PM to 9:30 PM",
+    "prasad": "Meenakshi Prasadam, Panchamirtham, Temple sweets",
+    "amenities": [
+      "Shops selling souvenirs and religious items",
+      "Restrooms and prasadam counters",
+      "Temple museum",
+      "Cultural performances",
+      "Guided temple tours",
+      "Hall of Thousand Pillars"
+    ],
+    "festivals": [
+      "Chithirai Festival",
+      "Meenakshi Thirukalyanam",
+      "Navarathri",
+      "Float Festival",
+      "Avani Moola Festival"
+    ],
+    "contact": "+91 452 2341360",
+    "website": "https://www.maduraimeenakshi.org",
+    "nearestTransport": {
+      "airport": "Madurai International Airport (IXM) - 12 km",
+      "railway": "Madurai Junction (MDU) - 2 km",
+      "bus": "Madurai Periyar Bus Stand - 1 km"
+    },
+    "nearbyAttractions": [
+      "Thirumalai Nayakkar Mahal",
+      "Gandhi Memorial Museum",
+      "Vaigai Dam",
+      "Alagar Koil",
+      "Pazhamudir Solai"
+    ],
+    "nearbyHotels": [
+      "Heritage Madurai",
+      "Hotel Sangam",
+      "The Gateway Hotel Pasumalai",
+      "Hotel Royal Court"
+    ],
+    "nearbyRestaurants": [
+      "Murugan Idli Shop",
+      "Kumar Mess",
+      "Konar Mess",
+      "Arya Bhavan"
+    ],
+    "specialFeatures": [
+      "Over 2,500 years of history",
+      "14 towering gopurams with 33,000+ sculptures",
+      "Hall of Thousand Pillars with musical columns",
+      "Covers 14 acres of temple complex",
+      "Architectural masterpiece of Dravidian style",
+      "One of most visited temples in India"
+    ]
+  },
+  {
+    "id": "ramanathaswamy-temple-rameswaram",
+    "name": "Ramanathaswamy Temple, Rameswaram",
+    "type": "Temple",
+    "typeColor": "bg-orange-100 text-orange-800",
+    "state": "Tamil Nadu",
+    "location": "Rameswaram",
+    "description": "One of the 12 Jyotirlinga temples, this temple is considered a sacred pilgrimage site for Hindus, especially for those completing the Char Dham Yatra. Believed to have been consecrated by Lord Rama himself after returning from Lanka, the temple is renowned for its 1,200-meter-long pillared corridor, the longest of any Hindu temple, with 1,212 intricately carved pillars.",
+    "image": "https://www.justahotels.com/wp-content/uploads/2024/02/Ramanathaswamy-Temple.jpg",
+    "timings": "Morning: 5:00 AM to 1:00 PM, Evening: 3:00 PM to 9:00 PM",
+    "prasad": "Panchamirtham, Coconut offerings, Sacred water",
+    "amenities": [
+      "Bathing ghats for spiritual cleansing",
+      "Lodging facilities",
+      "Prasadam counters and puja services",
+      "Transport facilities to nearby sites",
+      "22 holy water wells (Theerthams)",
+      "Ritual bathing arrangements"
+    ],
+    "festivals": [
+      "Maha Shivaratri",
+      "Ramalinga Pratishta",
+      "Thirukalyanam",
+      "Arudra Darshan",
+      "Annual Brahmotsavam"
+    ],
+    "contact": "+91 4573 221223",
+    "nearestTransport": {
+      "airport": "Madurai International Airport (IXM) - 175 km",
+      "railway": "Rameswaram Railway Station (RMM) - 1 km",
+      "bus": "Rameswaram Bus Stand - 1 km"
+    },
+    "nearbyAttractions": [
+      "Dhanushkodi Beach",
+      "Pamban Bridge",
+      "Abdul Kalam Memorial",
+      "Agni Theertham",
+      "Gandhamadhana Parvatham"
+    ],
+    "nearbyHotels": [
+      "Hotel Tamil Nadu (TTDC)",
+      "Daiwik Hotels",
+      "Hotel Vinayaga",
+      "Jiwan Residency"
+    ],
+    "nearbyRestaurants": [
+      "Hotel Aryaas",
+      "Ahaan Restaurant",
+      "Gujarat Bhavan",
+      "Local seafood restaurants"
+    ],
+    "specialFeatures": [
+      "One of 12 Jyotirlinga temples",
+      "Longest pillared corridor (1,200 meters)",
+      "1,212 intricately carved pillars",
+      "22 holy water wells with unique properties",
+      "Consecrated by Lord Rama",
+      "Essential for Char Dham Yatra completion"
+    ]
+  },
+  {
+    "id": "shore-temple-mahabalipuram",
+    "name": "Shore Temple, Mahabalipuram",
+    "type": "Temple",
+    "typeColor": "bg-orange-100 text-orange-800",
+    "state": "Tamil Nadu",
+    "location": "Mahabalipuram",
+    "description": "A UNESCO World Heritage Site, this temple is a striking example of Pallava architecture, known for its coastal location and monolithic carvings. Built in the 8th century by Narasimhavarman II (Rajasimha), it is one of the oldest structural temples in South India. The temple is believed to be part of the legendary \"Seven Pagodas,\" six of which are submerged under the sea.",
+    "image": "https://s7ap1.scene7.com/is/image/incredibleindia/1-shore-temple-mamallapuram-2-attr-hero?qlt=82&ts=1726654555333",
+    "timings": "Sunrise to Sunset (6:00 AM to 6:00 PM)",
+    "prasad": "Traditional offerings, Coconut prasadam",
+    "amenities": [
+      "Nearby beach access",
+      "Guided tours available",
+      "Archaeological museum",
+      "Sound and light show",
+      "Parking facilities",
+      "Tourist information center"
+    ],
+    "festivals": [
+      "Mamallapuram Dance Festival",
+      "Shivaratri",
+      "Cultural festivals",
+      "Heritage celebrations"
+    ],
+    "contact": "+91 4114 242226",
+    "nearestTransport": {
+      "airport": "Chennai International Airport (MAA) - 60 km",
+      "railway": "Chengalpattu Railway Station (CGL) - 30 km",
+      "bus": "Mahabalipuram Bus Stand - 1 km"
+    },
+    "nearbyAttractions": [
+      "Five Rathas",
+      "Arjuna's Penance",
+      "Krishna's Butter Ball",
+      "Lighthouse",
+      "Tiger Cave"
+    ],
+    "nearbyHotels": [
+      "Radisson Blu Resort Temple Bay",
+      "InterContinental Chennai Mahabalipuram Resort",
+      "Ideal Beach Resort",
+      "Hotel Mamalla Heritage"
+    ],
+    "nearbyRestaurants": [
+      "Moonrakers Restaurant",
+      "Sea Shore Garden Restaurant",
+      "Wharf Restaurant",
+      "Local seafood eateries"
+    ],
+    "specialFeatures": [
+      "UNESCO World Heritage Site",
+      "One of oldest structural temples in South India",
+      "Part of legendary \"Seven Pagodas\"",
+      "Striking coastal location",
+      "Finest example of Pallava architecture",
+      "Monolithic carvings and sculptures"
+    ]
+  },
+  {
+    "id": "airavatesvara-temple-darasuram",
+    "name": "Airavatesvara Temple, Darasuram",
+    "type": "Temple",
+    "typeColor": "bg-orange-100 text-orange-800",
+    "state": "Tamil Nadu",
+    "location": "Darasuram, near Kumbakonam",
+    "description": "A UNESCO-listed temple, this is one of the \"Great Living Chola Temples\" known for its intricate miniature sculptures and chariot-shaped design. Built by Rajaraja Chola II in the 12th century, this temple is dedicated to Lord Shiva. The temple is named after Airavata, the white elephant of Indra, who is said to have worshipped Shiva here.",
+    "image": "https://i.pinimg.com/736x/6c/1d/09/6c1d0949c453ac543800e0a854c804e1.jpg",
+    "timings": "Morning: 6:00 AM to 12:00 PM, Evening: 4:00 PM to 8:00 PM",
+    "prasad": "Panchamirtham, Traditional offerings",
+    "amenities": [
+      "Well-maintained gardens",
+      "Informative signboards",
+      "Local markets selling religious items",
+      "Nearby lodging facilities",
+      "Parking area",
+      "Archaeological significance displays"
+    ],
+    "festivals": [
+      "Shivaratri",
+      "Brahmotsavam",
+      "Chola heritage festivals",
+      "Annual temple celebrations"
+    ],
+    "contact": "+91 435 2421567",
+    "nearestTransport": {
+      "airport": "Tiruchirapalli International Airport (TRZ) - 90 km",
+      "railway": "Kumbakonam Railway Station (KMU) - 4 km",
+      "bus": "Kumbakonam Bus Stand - 4 km"
+    },
+    "nearbyAttractions": [
+      "Kumbakonam Temples",
+      "Swamimalai Murugan Temple",
+      "Mahamaham Tank",
+      "Sarangapani Temple",
+      "Adi Kumbeswarar Temple"
+    ],
+    "nearbyHotels": [
+      "Hotel Raya's",
+      "Pandyan Hotel",
+      "Hotel Chandra Park",
+      "Local guesthouses"
+    ],
+    "nearbyRestaurants": [
+      "Arya Bhavan",
+      "Hotel Raya's Restaurant",
+      "Local South Indian eateries",
+      "Traditional vegetarian restaurants"
+    ],
+    "specialFeatures": [
+      "UNESCO World Heritage Site",
+      "One of Great Living Chola Temples",
+      "Chariot-shaped architectural design",
+      "Stone steps produce musical notes",
+      "Intricate miniature sculptures",
+      "Named after Airavata, Indra's elephant"
+    ]
+  },
+  {
+    "id": "gangaikonda-cholapuram-temple",
+    "name": "Gangaikonda Cholapuram Temple, Jayankondam",
+    "type": "Temple",
+    "typeColor": "bg-orange-100 text-orange-800",
+    "state": "Tamil Nadu",
+    "location": "Jayankondam",
+    "description": "Built by Rajendra Chola I in the 11th century, this temple symbolizes Chola dominance and architectural excellence. It follows the architectural style of Brihadeeswarar Temple but is slightly smaller. The temple features an elaborate sanctum, intricate sculptures, and a massive Nandi statue. It also has a sacred well said to contain water from the Ganges.",
+    "image": "https://i.pinimg.com/736x/c3/dc/8f/c3dc8f71f51786d8899e3be8d4acd756.jpg",
+    "timings": "Morning: 6:00 AM to 12:00 PM, Evening: 4:00 PM to 8:00 PM",
+    "prasad": "Panchamirtham, Sacred offerings",
+    "amenities": [
+      "Information plaques detailing temple history",
+      "Peaceful village setting",
+      "Basic amenities available",
+      "Parking facilities",
+      "Sacred well access"
+    ],
+    "festivals": [
+      "Shivaratri",
+      "Chola heritage celebrations",
+      "Annual temple festival",
+      "Brahmotsavam"
+    ],
+    "contact": "+91 4374 267890",
+    "nearestTransport": {
+      "airport": "Tiruchirapalli International Airport (TRZ) - 85 km",
+      "railway": "Jayankondam Railway Station - 2 km",
+      "bus": "Jayankondam Bus Stand - 2 km"
+    },
+    "nearbyAttractions": [
+      "Chola heritage sites",
+      "Local village temples",
+      "Historical monuments",
+      "Rural countryside"
+    ],
+    "nearbyHotels": [
+      "Local guesthouses",
+      "Budget accommodations",
+      "Nearby town hotels"
+    ],
+    "nearbyRestaurants": [
+      "Local eateries",
+      "Traditional South Indian restaurants",
+      "Village food stalls"
+    ],
+    "specialFeatures": [
+      "Built by Rajendra Chola I",
+      "Symbolizes Chola architectural excellence",
+      "Sacred well with Ganges water",
+      "Massive Nandi statue",
+      "Elaborate sanctum design",
+      "Historical significance of Chola empire"
+    ]
+  },
+  {
+    "id": "sri-ranganathaswamy-temple-srirangam",
+    "name": "Sri Ranganathaswamy Temple, Srirangam",
+    "type": "Temple",
+    "typeColor": "bg-orange-100 text-orange-800",
+    "state": "Tamil Nadu",
+    "location": "Srirangam, Trichy",
+    "description": "The largest functioning temple in India and one of the most important Vishnu temples, covering 156 acres. Dating back to the 1st century BCE, the temple has been expanded by the Cholas, Pandyas, and Vijayanagar rulers. The 21 gopurams (towers) are beautifully sculpted, with the Rajagopuram standing 73 meters tall.",
+    "image": "https://i.pinimg.com/736x/7a/7f/d9/7a7fd9d8682ee89d2e38b4b18dc63801.jpg",
+    "timings": "Morning: 6:00 AM to 12:00 PM, Evening: 3:30 PM to 9:00 PM",
+    "prasad": "Tirupati Laddu, Puliyodarai, Curd Rice",
+    "amenities": [
+      "Extensive temple premises with multiple shrines",
+      "Cultural performances",
+      "Religious discourse halls",
+      "Accommodation facilities",
+      "Prasadam counters",
+      "Temple museum"
+    ],
+    "festivals": [
+      "Vaikunta Ekadasi",
+      "Brahmotsavam",
+      "Panguni Uthiram",
+      "Chithirai Festival",
+      "Annual celebrations"
+    ],
+    "contact": "+91 431 2431085",
+    "website": "https://www.srirangam.org",
+    "nearestTransport": {
+      "airport": "Tiruchirapalli International Airport (TRZ) - 15 km",
+      "railway": "Srirangam Railway Station (SRGM) - 2 km",
+      "bus": "Srirangam Bus Stand - 1 km"
+    },
+    "nearbyAttractions": [
+      "Rock Fort Temple",
+      "Jambukeswarar Temple",
+      "Kallanai Dam",
+      "Mukkombu",
+      "St. Joseph's Church"
+    ],
+    "nearbyHotels": [
+      "Hotel Sangam",
+      "Femina Hotel",
+      "Hotel Ashby",
+      "Temple accommodation"
+    ],
+    "nearbyRestaurants": [
+      "Bhimas Paradise",
+      "Hotel Sangam Restaurant",
+      "Annapoorna Restaurant",
+      "Temple prasadam halls"
+    ],
+    "specialFeatures": [
+      "Largest functioning temple in India",
+      "Covers 156 acres",
+      "21 beautifully sculpted gopurams",
+      "Rajagopuram stands 73 meters tall",
+      "Dating back to 1st century BCE",
+      "Most important Vishnu temple"
+    ]
+  },
+  {
+    "id": "thillai-nataraja-temple-chidambaram",
+    "name": "Thillai Nataraja Temple, Chidambaram",
+    "type": "Temple",
+    "typeColor": "bg-orange-100 text-orange-800",
+    "state": "Tamil Nadu",
+    "location": "Chidambaram",
+    "description": "A temple dedicated to Lord Shiva in his cosmic dance form (Nataraja), famous for its connection to Bharatanatyam dance. Built by the Cholas in the 9th century, the temple represents the Akasha (Ether) element. It has a golden-roofed sanctum and 108 dance poses carved in the temple corridors. The \"Chidambara Rahasyam\" is a significant spiritual element.",
+    "image": "https://i.pinimg.com/736x/6b/44/4b/6b444b24940d03f120dbeef50164f2f7.jpg",
+    "timings": "Morning: 6:00 AM to 12:00 PM, Evening: 5:00 PM to 10:00 PM",
+    "prasad": "Panchamirtham, Sacred ash, Temple offerings",
+    "amenities": [
+      "Cultural events and performances",
+      "Bharatanatyam dance performances",
+      "Temple museum",
+      "Accommodation facilities",
+      "Prasadam counters",
+      "Dance pose galleries"
+    ],
+    "festivals": [
+      "Natyanjali Festival",
+      "Arudra Darshan",
+      "Shivaratri",
+      "Margazhi Festival",
+      "Annual Brahmotsavam"
+    ],
+    "contact": "+91 4144 222226",
+    "nearestTransport": {
+      "airport": "Puducherry Airport (PNY) - 65 km",
+      "railway": "Chidambaram Railway Station (CDM) - 2 km",
+      "bus": "Chidambaram Bus Stand - 1.5 km"
+    },
+    "nearbyAttractions": [
+      "Pichavaram Mangrove Forest",
+      "Thillai Kali Temple",
+      "Annamalai University",
+      "Porto Novo",
+      "Cuddalore beaches"
+    ],
+    "nearbyHotels": [
+      "Hotel Saradharam",
+      "Hotel Akshaya",
+      "Star Lodge",
+      "Temple guest houses"
+    ],
+    "nearbyRestaurants": [
+      "Hotel Saradharam Restaurant",
+      "Annapoorna Restaurant",
+      "Local South Indian eateries",
+      "Traditional vegetarian restaurants"
+    ],
+    "specialFeatures": [
+      "Dedicated to Nataraja (cosmic dance form)",
+      "Represents Akasha (Ether) element",
+      "Golden-roofed sanctum",
+      "108 dance poses carved in corridors",
+      "Connection to Bharatanatyam dance",
+      "Chidambara Rahasyam spiritual significance"
+    ]
+  },
+  {
+    "id": "ekambareswarar-temple-kanchipuram",
+    "name": "Ekambareswarar Temple, Kanchipuram",
+    "type": "Temple",
+    "typeColor": "bg-orange-100 text-orange-800",
+    "state": "Tamil Nadu",
+    "location": "Kanchipuram",
+    "description": "One of the largest Shiva temples in India, this temple represents the Earth element (Prithvi) among the Pancha Bhoota Stalas. Built by the Pallavas and expanded by Cholas and Vijayanagar rulers, it features a 172-feet-high gopuram and a sacred mango tree over 3,500 years old that bears four different types of mangoes, representing the four Vedas.",
+    "image": "https://i.pinimg.com/736x/5d/d2/7a/5dd27a22a365384110cd33f91881f59c.jpg",
+    "timings": "Morning: 5:30 AM to 12:30 PM, Evening: 4:00 PM to 9:00 PM",
+    "prasad": "Panchamirtham, Mango offerings, Sacred prasadam",
+    "amenities": [
+      "Large temple tank for rituals",
+      "Shops selling religious artifacts",
+      "Resting areas and guest accommodations",
+      "Sacred mango tree viewing",
+      "Underground sanctum access",
+      "Parking facilities"
+    ],
+    "festivals": [
+      "Panguni Uthiram",
+      "Shivaratri",
+      "Brahmotsavam",
+      "Mango festival",
+      "Annual celebrations"
+    ],
+    "contact": "+91 4427 222334",
+    "nearestTransport": {
+      "airport": "Chennai International Airport (MAA) - 75 km",
+      "railway": "Kanchipuram Railway Station (CJ) - 2 km",
+      "bus": "Kanchipuram Bus Stand - 1.5 km"
+    },
+    "nearbyAttractions": [
+      "Kanchi Kamakoti Peetham",
+      "Ulagalantha Perumal Temple",
+      "Silk Saree Shops",
+      "Varadaraja Perumal Temple",
+      "Kamakshi Amman Temple"
+    ],
+    "nearbyHotels": [
+      "Hotel Baboo Soorya",
+      "GRT Regency",
+      "Hotel Rama Krishna",
+      "Temple guest houses"
+    ],
+    "nearbyRestaurants": [
+      "Saravana Bhavan",
+      "Hotel Baboo Soorya Restaurant",
+      "Annapoorna Restaurant",
+      "Local vegetarian eateries"
+    ],
+    "specialFeatures": [
+      "One of largest Shiva temples in India",
+      "Represents Earth element (Prithvi)",
+      "172-feet-high gopuram",
+      "3,500-year-old sacred mango tree",
+      "Four different mango types representing Vedas",
+      "Underground Shiva lingam chamber"
+    ]
+  },
+  {
+    "id": "jambukeswarar-temple-thiruvanaikaval",
+    "name": "Jambukeswarar Temple, Thiruvanaikaval",
+    "type": "Temple",
+    "typeColor": "bg-orange-100 text-orange-800",
+    "state": "Tamil Nadu",
+    "location": "Thiruvanaikaval, near Trichy",
+    "description": "Dedicated to Lord Shiva in the form of Jambukeswarar (associated with the water element), this temple is known for its unique architectural style and underground water spring beneath the main sanctum. Built by the Cholas in the 2nd century CE, the sanctum constantly has water flowing around the lingam, believed to originate from an underground spring connected to the Kaveri River.",
+    "image": "https://www.mahashivratri.org/images/jambukeswarar-temple.jpg",
+    "timings": "Morning: 6:00 AM to 12:30 PM, Evening: 4:00 PM to 8:30 PM",
+    "prasad": "Sacred water, Panchamirtham, Temple offerings",
+    "amenities": [
+      "Special darshan and puja services",
+      "Nearby markets selling religious souvenirs",
+      "Cultural events and spiritual discourses",
+      "Water spring viewing area",
+      "Parking facilities",
+      "Temple tank"
+    ],
+    "festivals": [
+      "Aadi Pooram",
+      "Shivaratri",
+      "Brahmotsavam",
+      "Float Festival",
+      "Annual celebrations"
+    ],
+    "contact": "+91 431 2770234",
+    "nearestTransport": {
+      "airport": "Tiruchirapalli International Airport (TRZ) - 8 km",
+      "railway": "Tiruchirapalli Junction (TPJ) - 6 km",
+      "bus": "Thiruvanaikaval Bus Stand - 1 km"
+    },
+    "nearbyAttractions": [
+      "Srirangam Temple",
+      "Rock Fort Temple",
+      "Kallanai Dam",
+      "Mukkombu",
+      "Kaveri River"
+    ],
+    "nearbyHotels": [
+      "Hotel Sangam",
+      "Femina Hotel",
+      "Hotel Ashby",
+      "Local accommodations"
+    ],
+    "nearbyRestaurants": [
+      "Bhimas Paradise",
+      "Hotel Sangam Restaurant",
+      "Local South Indian restaurants",
+      "Traditional eateries"
+    ],
+    "specialFeatures": [
+      "Represents Water element (Pancha Bhoota Stala)",
+      "Underground water spring beneath sanctum",
+      "Constant water flow around lingam",
+      "Connected to Kaveri River",
+      "Architectural layout symbolizes human body",
+      "Goddess Akhilandeshwari shrine with diamond crown"
+    ]
+  },
+  {
+    "id": "st-thomas-cathedral-chennai",
+    "name": "St. Thomas Cathedral, Chennai",
+    "type": "Church",
+    "typeColor": "bg-purple-100 text-purple-800",
+    "state": "Tamil Nadu",
+    "location": "Santhome, Chennai",
+    "description": "Built over the tomb of St. Thomas the Apostle, this cathedral is one of only three churches in the world built over the tomb of an apostle. The current neo-Gothic structure was built in 1893 by the British, replacing an earlier Portuguese church from 1523. It houses the relics of St. Thomas and is a major pilgrimage site.",
+    "image": "https://i.pinimg.com/736x/6f/4a/49/6f4a4945a214ee51c1020a1761dce632.jpg",
+    "timings": "Daily: 6:00 AM to 8:00 PM, Mass timings vary",
+    "prasad": "Holy Communion, Blessed items, Prayer offerings",
+    "amenities": [
+      "Museum with St. Thomas artifacts",
+      "Tomb of St. Thomas viewing",
+      "Prayer halls and chapels",
+      "Parking facilities",
+      "Religious bookstore",
+      "Guided tours available"
+    ],
+    "festivals": [
+      "Feast of St. Thomas (July 3)",
+      "Christmas",
+      "Easter",
+      "Good Friday",
+      "Apostle celebrations"
+    ],
+    "contact": "+91 44 2498 2305",
+    "nearestTransport": {
+      "airport": "Chennai International Airport (MAA) - 15 km",
+      "railway": "Chennai Beach Railway Station (MSB) - 8 km",
+      "bus": "Santhome Bus Stop - 1 km"
+    },
+    "nearbyAttractions": [
+      "Marina Beach",
+      "Kapaleeshwarar Temple",
+      "San Thome Beach",
+      "Luz Church",
+      "Elliot's Beach"
+    ],
+    "nearbyHotels": [
+      "The Leela Palace Chennai",
+      "ITC Grand Chola",
+      "Taj Coromandel",
+      "Santhome area hotels"
+    ],
+    "nearbyRestaurants": [
+      "Marina Beach restaurants",
+      "Santhome local eateries",
+      "Coastal cuisine restaurants",
+      "Multi-cuisine options"
+    ],
+    "specialFeatures": [
+      "Built over tomb of St. Thomas the Apostle",
+      "One of only three such churches worldwide",
+      "Neo-Gothic architecture from 1893",
+      "Houses relics of St. Thomas",
+      "Major Christian pilgrimage site",
+      "Museum with apostolic artifacts"
+    ]
+  },
+  {
+    "id": "our-lady-of-good-health-velankanni",
+    "name": "Basilica of Our Lady of Good Health, Velankanni",
+    "type": "Church",
+    "typeColor": "bg-purple-100 text-purple-800",
+    "state": "Tamil Nadu",
+    "location": "Velankanni, Nagapattinam District",
+    "description": "Known as the \"Lourdes of the East,\" this basilica is one of the most visited Catholic pilgrimage sites in India. The church is famous for miraculous healings and attracts millions of pilgrims annually. The current structure was built in Gothic style and elevated to basilica status in 1962.",
+    "image": "https://i.pinimg.com/736x/b2/da/0e/b2da0ee45c1e6fe16dc816f8c767697f.jpg",
+    "timings": "Daily: 5:00 AM to 9:00 PM, Multiple masses daily",
+    "prasad": "Holy Communion, Blessed oil, Miraculous medals",
+    "amenities": [
+      "Large basilica with multiple altars",
+      "Miracle museum",
+      "Pilgrimage facilities",
+      "Accommodation for pilgrims",
+      "Medical center",
+      "Candle lighting areas"
+    ],
+    "festivals": [
+      "Feast of Our Lady of Good Health (September 8)",
+      "Christmas",
+      "Easter",
+      "Good Friday",
+      "Annual novena"
+    ],
+    "contact": "+91 4365 258271",
+    "website": "https://www.velankannishrine.org",
+    "nearestTransport": {
+      "airport": "Tiruchirapalli International Airport (TRZ) - 150 km",
+      "railway": "Velankanni Railway Station (VLK) - 1 km",
+      "bus": "Velankanni Bus Stand - 1 km"
+    },
+    "nearbyAttractions": [
+      "Velankanni Beach",
+      "Our Lady's Tank",
+      "Nagapattinam",
+      "Point Calimere Wildlife Sanctuary"
+    ],
+    "nearbyHotels": [
+      "Hotel Sea Gate",
+      "Clinton Park Inn",
+      "Pilgrimage guest houses",
+      "Beach resorts"
+    ],
+    "nearbyRestaurants": [
+      "Pilgrimage restaurants",
+      "Coastal cuisine eateries",
+      "Vegetarian restaurants",
+      "Local seafood"
+    ],
+    "specialFeatures": [
+      "Known as \"Lourdes of the East\"",
+      "Famous for miraculous healings",
+      "Millions of annual pilgrims",
+      "Gothic architectural style",
+      "Basilica status since 1962",
+      "International pilgrimage destination"
+    ]
+  },
+  {
+    "id": "st-josephs-cathedral-trichy",
+    "name": "St. Joseph's Cathedral, Trichy",
+    "type": "Church",
+    "typeColor": "bg-purple-100 text-purple-800",
+    "state": "Tamil Nadu",
+    "location": "Trichy",
+    "description": "The cathedral church of the Roman Catholic Diocese of Trichy, serving as the mother church for Catholics in the region. Built in colonial style, it is an important spiritual and administrative center.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Aerial_view_of_Our_Lourdes_church_in_Tiruchirapalli_2.jpg/960px-Aerial_view_of_Our_Lourdes_church_in_Tiruchirapalli_2.jpg",
+    "timings": "Daily: 6:00 AM to 7:00 PM, Mass timings vary",
+    "prasad": "Holy Communion, Blessed items, Cathedral offerings",
+    "amenities": [
+      "Cathedral nave and altar",
+      "Bishop's residence",
+      "Diocesan offices",
+      "Parking facilities",
+      "Religious education center",
+      "Community hall"
+    ],
+    "festivals": [
+      "Christmas",
+      "Easter",
+      "Good Friday",
+      "Feast of St. Joseph",
+      "Diocese celebrations"
+    ],
+    "contact": "+91 431 2414 567",
+    "nearestTransport": {
+      "airport": "Tiruchirapalli International Airport (TRZ) - 8 km",
+      "railway": "Tiruchirapalli Junction (TPJ) - 3 km",
+      "bus": "Trichy Central Bus Stand - 2 km"
+    },
+    "nearbyAttractions": [
+      "Rock Fort Temple",
+      "Srirangam Temple",
+      "Kallanai Dam",
+      "St. Joseph's College"
+    ],
+    "nearbyHotels": [
+      "Hotel Sangam",
+      "Femina Hotel",
+      "Grand Gardenia",
+      "Cathedral area accommodations"
+    ],
+    "nearbyRestaurants": [
+      "Cathedral area restaurants",
+      "Trichy local cuisine",
+      "Multi-cuisine eateries",
+      "Traditional South Indian"
+    ],
+    "specialFeatures": [
+      "Cathedral of Trichy Diocese",
+      "Colonial architectural style",
+      "Mother church for regional Catholics",
+      "Diocesan administrative center",
+      "Bishop's seat",
+      "Educational institution connections"
+    ]
+  },
+  {
+    "id": "st-marys-church-kodaikanal",
+    "name": "St. Mary's Church, Kodaikanal",
+    "type": "Church",
+    "typeColor": "bg-purple-100 text-purple-800",
+    "state": "Tamil Nadu",
+    "location": "Kodaikanal",
+    "description": "A beautiful hill station church built during the British colonial period. Known for its serene location amidst the Palani Hills and serving both local and tourist Christian communities.",
+    "image": "https://www.trawell.in/admin/images/upload/67139544la-saleth-church.jpg",
+    "timings": "Daily: 7:00 AM to 6:00 PM, Sunday services",
+    "prasad": "Holy Communion, Blessed items, Prayer offerings",
+    "amenities": [
+      "Hill station church atmosphere",
+      "Beautiful mountain views",
+      "Peaceful prayer environment",
+      "Tourist-friendly services",
+      "Parking facilities",
+      "Cool climate worship"
+    ],
+    "festivals": [
+      "Christmas",
+      "Easter",
+      "Good Friday",
+      "Hill station celebrations",
+      "Tourist season services"
+    ],
+    "contact": "+91 4542 241 234",
+    "nearestTransport": {
+      "airport": "Madurai International Airport (IXM) - 120 km",
+      "railway": "Kodai Road Railway Station (KQN) - 80 km",
+      "bus": "Kodaikanal Bus Stand - 2 km"
+    },
+    "nearbyAttractions": [
+      "Kodaikanal Lake",
+      "Bryant Park",
+      "Coaker's Walk",
+      "Pillar Rocks",
+      "Bear Shola Falls"
+    ],
+    "nearbyHotels": [
+      "The Carlton",
+      "Sterling Kodai Lake",
+      "Hill Country Resort",
+      "Local guesthouses"
+    ],
+    "nearbyRestaurants": [
+      "Hill station restaurants",
+      "Multi-cuisine eateries",
+      "Local cafes",
+      "Tourist restaurants"
+    ],
+    "specialFeatures": [
+      "Colonial period construction",
+      "Hill station location",
+      "Palani Hills setting",
+      "Tourist and local community service",
+      "Cool climate worship",
+      "Mountain view church"
+    ]
+  },
+  {
+    "id": "holy-cross-church-tuticorin",
+    "name": "Holy Cross Church, Tuticorin",
+    "type": "Church",
+    "typeColor": "bg-purple-100 text-purple-800",
+    "state": "Tamil Nadu",
+    "location": "Tuticorin (Thoothukudi)",
+    "description": "A significant Catholic church in the port city of Tuticorin, serving the coastal Christian community. Known for its maritime connections and fishing community congregation.",
+    "image": "https://www.kanyakumarians.com/data/catalog/Thoothukudi/Manappad/seekanpaul_a.jpg",
+    "timings": "Daily: 6:00 AM to 7:00 PM, Mass timings vary",
+    "prasad": "Holy Communion, Blessed items, Maritime blessings",
+    "amenities": [
+      "Coastal church atmosphere",
+      "Fishing community services",
+      "Maritime blessing ceremonies",
+      "Community hall",
+      "Parking facilities",
+      "Port city location"
+    ],
+    "festivals": [
+      "Christmas",
+      "Easter",
+      "Good Friday",
+      "Feast of Holy Cross",
+      "Maritime festivals"
+    ],
+    "contact": "+91 461 2345 678",
+    "nearestTransport": {
+      "airport": "Tuticorin Airport (TCR) - 10 km",
+      "railway": "Tuticorin Railway Station (TN) - 3 km",
+      "bus": "Tuticorin Bus Stand - 2 km"
+    },
+    "nearbyAttractions": [
+      "Tuticorin Port",
+      "Roche Park",
+      "Tuticorin Beach",
+      "Our Lady of Snows Church"
+    ],
+    "nearbyHotels": [
+      "Hotel Sugam",
+      "Hotel Tamil Nadu",
+      "Port area hotels",
+      "Coastal accommodations"
+    ],
+    "nearbyRestaurants": [
+      "Coastal cuisine restaurants",
+      "Seafood specialties",
+      "Port area eateries",
+      "Local Tamil cuisine"
+    ],
+    "specialFeatures": [
+      "Port city location",
+      "Fishing community focus",
+      "Maritime blessing traditions",
+      "Coastal Christian heritage",
+      "Community service emphasis",
+      "Pearl diving history connections"
+    ]
+  },
+  {
+    "id": "thousand-lights-mosque-chennai",
+    "name": "Thousand Lights Mosque, Chennai",
+    "type": "Mosque",
+    "typeColor": "bg-green-100 text-green-800",
+    "state": "Tamil Nadu",
+    "location": "Thousand Lights, Chennai",
+    "description": "One of the largest and most prominent mosques in Chennai, built in 1810. The mosque gets its name from the area \"Thousand Lights\" and is known for its beautiful Indo-Islamic architecture with multiple domes and minarets.",
+    "image": "https://i.pinimg.com/736x/9b/bf/56/9bbf562726ac1771972ede808dbbde0b.jpg",
+    "timings": "Five daily prayers, Friday Juma prayers especially well-attended",
+    "prasad": "Community Iftar meals, Charitable food distribution",
+    "amenities": [
+      "Large prayer hall with multiple domes",
+      "Separate women's prayer area",
+      "Ablution facilities (Wudu)",
+      "Community hall for gatherings",
+      "Islamic education center",
+      "Parking facilities"
+    ],
+    "festivals": [
+      "Eid al-Fitr",
+      "Eid al-Adha",
+      "Milad-un-Nabi",
+      "Ramadan special prayers",
+      "Islamic New Year"
+    ],
+    "contact": "+91 44 2811 2345",
+    "nearestTransport": {
+      "airport": "Chennai International Airport (MAA) - 12 km",
+      "railway": "Chennai Central Railway Station (MAS) - 5 km",
+      "bus": "Thousand Lights Bus Stop - 1 km"
+    },
+    "nearbyAttractions": [
+      "Thousand Lights area",
+      "Express Estate",
+      "Nungambakkam",
+      "T. Nagar shopping district"
+    ],
+    "nearbyHotels": [
+      "Chennai city center hotels",
+      "Thousand Lights accommodations",
+      "Business hotels",
+      "Budget lodges"
+    ],
+    "nearbyRestaurants": [
+      "Halal restaurants",
+      "Chennai local cuisine",
+      "Multi-cuisine eateries",
+      "Traditional Muslim food"
+    ],
+    "specialFeatures": [
+      "Built in 1810",
+      "One of largest mosques in Chennai",
+      "Indo-Islamic architecture",
+      "Multiple domes and minarets",
+      "Central Muslim community hub",
+      "Historical significance"
+    ]
+  },
+  {
+    "id": "wallajah-mosque-trichy",
+    "name": "Wallajah Mosque, Trichy",
+    "type": "Mosque",
+    "typeColor": "bg-green-100 text-green-800",
+    "state": "Tamil Nadu",
+    "location": "Trichy",
+    "description": "A historic mosque built during the Nawab of Arcot period, showcasing Mughal architectural influences. It serves as an important religious center for the Muslim community in Trichy.",
+    "image": "https://www.trawell.in/admin/images/upload/705432662Wallaja_Masque_Main.jpg",
+    "timings": "Five daily prayers, special Friday congregations",
+    "prasad": "Community meals during festivals, Charitable distributions",
+    "amenities": [
+      "Historic prayer hall",
+      "Mughal architectural features",
+      "Community gathering spaces",
+      "Ablution facilities",
+      "Islamic education programs",
+      "Cultural heritage preservation"
+    ],
+    "festivals": [
+      "Eid al-Fitr",
+      "Eid al-Adha",
+      "Milad-un-Nabi",
+      "Ramadan observances",
+      "Historical commemorations"
+    ],
+    "contact": "+91 431 2456 789",
+    "nearestTransport": {
+      "airport": "Tiruchirapalli International Airport (TRZ) - 8 km",
+      "railway": "Tiruchirapalli Junction (TPJ) - 3 km",
+      "bus": "Trichy Central Bus Stand - 2 km"
+    },
+    "nearbyAttractions": [
+      "Rock Fort Temple",
+      "Srirangam Temple",
+      "Kallanai Dam",
+      "Trichy city center"
+    ],
+    "nearbyHotels": [
+      "Hotel Sangam",
+      "Femina Hotel",
+      "Trichy city hotels",
+      "Heritage accommodations"
+    ],
+    "nearbyRestaurants": [
+      "Halal restaurants",
+      "Trichy local cuisine",
+      "Traditional Muslim eateries",
+      "Multi-cuisine options"
+    ],
+    "specialFeatures": [
+      "Built during Nawab of Arcot period",
+      "Mughal architectural influences",
+      "Historical significance",
+      "Cultural heritage site",
+      "Community religious center",
+      "Traditional Islamic design"
+    ]
+  },
+  {
+    "id": "nagore-dargah",
+    "name": "Nagore Dargah",
+    "type": "Mosque",
+    "typeColor": "bg-green-100 text-green-800",
+    "state": "Tamil Nadu",
+    "location": "Nagore, Nagapattinam District",
+    "description": "A famous Islamic shrine and dargah dedicated to the 16th-century Sufi saint Hazrat Shahul Hamid. Known for its annual Kanduri festival, it attracts devotees from various faiths and is considered one of the most important Islamic pilgrimage sites in South India.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Nagore_dargah.jpg",
+    "timings": "Open 24 hours, special prayers during festivals",
+    "prasad": "Blessed food (Tabarruk), Kanduri feast, Charitable meals",
+    "amenities": [
+      "Shrine of Hazrat Shahul Hamid",
+      "Large prayer halls",
+      "Pilgrimage facilities",
+      "Accommodation for devotees",
+      "Community kitchen",
+      "Festival celebration areas"
+    ],
+    "festivals": [
+      "Kanduri Festival (14-day annual festival)",
+      "Eid al-Fitr",
+      "Eid al-Adha",
+      "Milad-un-Nabi",
+      "Sufi celebrations"
+    ],
+    "contact": "+91 4365 245 123",
+    "nearestTransport": {
+      "airport": "Tiruchirapalli International Airport (TRZ) - 160 km",
+      "railway": "Nagore Railway Station (NGT) - 1 km",
+      "bus": "Nagore Bus Stand - 1 km"
+    },
+    "nearbyAttractions": [
+      "Velankanni Church",
+      "Nagapattinam",
+      "Point Calimere",
+      "Coastal areas"
+    ],
+    "nearbyHotels": [
+      "Pilgrimage guest houses",
+      "Nagore accommodations",
+      "Coastal hotels",
+      "Budget lodges"
+    ],
+    "nearbyRestaurants": [
+      "Dargah community kitchen",
+      "Halal restaurants",
+      "Coastal cuisine",
+      "Pilgrimage food centers"
+    ],
+    "specialFeatures": [
+      "Shrine of 16th-century Sufi saint",
+      "Famous annual Kanduri festival",
+      "Interfaith pilgrimage site",
+      "Important Islamic shrine in South India",
+      "Sufi spiritual traditions",
+      "Miraculous healing beliefs"
+    ]
+  },
+  {
+    "id": "jama-masjid-madurai",
+    "name": "Jama Masjid, Madurai",
+    "type": "Mosque",
+    "typeColor": "bg-green-100 text-green-800",
+    "state": "Tamil Nadu",
+    "location": "Madurai",
+    "description": "The main mosque in Madurai, serving the Muslim community in this historic temple city. Built during the medieval period, it represents the Islamic heritage of the region.",
+    "image": "https://www.trawell.in/admin/images/upload/137275215Kazhimar-Big-Mosque.jpg",
+    "timings": "Five daily prayers, Friday Juma prayers",
+    "prasad": "Community Iftar, Festival meals",
+    "amenities": [
+      "Main prayer hall",
+      "Community gathering courtyard",
+      "Ablution facilities",
+      "Islamic education center",
+      "Community service programs",
+      "Cultural activities"
+    ],
+    "festivals": [
+      "Eid al-Fitr",
+      "Eid al-Adha",
+      "Milad-un-Nabi",
+      "Ramadan congregations",
+      "Islamic celebrations"
+    ],
+    "contact": "+91 452 2345 678",
+    "nearestTransport": {
+      "airport": "Madurai International Airport (IXM) - 12 km",
+      "railway": "Madurai Junction (MDU) - 3 km",
+      "bus": "Madurai Periyar Bus Stand - 2 km"
+    },
+    "nearbyAttractions": [
+      "Meenakshi Amman Temple",
+      "Thirumalai Nayakkar Mahal",
+      "Gandhi Memorial Museum",
+      "Madurai city center"
+    ],
+    "nearbyHotels": [
+      "Heritage Madurai",
+      "Hotel Sangam",
+      "Madurai city hotels",
+      "Budget accommodations"
+    ],
+    "nearbyRestaurants": [
+      "Halal restaurants",
+      "Madurai local cuisine",
+      "Traditional Muslim food",
+      "Multi-cuisine eateries"
+    ],
+    "specialFeatures": [
+      "Main mosque of Madurai",
+      "Medieval period construction",
+      "Islamic heritage preservation",
+      "Community religious center",
+      "Cultural integration",
+      "Historic temple city location"
+    ]
+  },
+  {
+    "id": "masjid-e-khadria-coimbatore",
+    "name": "Masjid-e-Khadria, Coimbatore",
+    "type": "Mosque",
+    "typeColor": "bg-green-100 text-green-800",
+    "state": "Tamil Nadu",
+    "location": "Coimbatore",
+    "description": "A prominent mosque in the industrial city of Coimbatore, serving the large Muslim population. Known for its community service programs and religious education initiatives.",
+    "image": "https://i.pinimg.com/736x/3a/5b/3e/3a5b3e9884f632b176ecaf8b6a79aa37.jpg",
+    "timings": "Five daily prayers, special congregational prayers",
+    "prasad": "Community meals, Charitable distributions",
+    "amenities": [
+      "Large prayer hall",
+      "Community center",
+      "Islamic education facilities",
+      "Youth programs",
+      "Social service initiatives",
+      "Modern amenities"
+    ],
+    "festivals": [
+      "Eid al-Fitr",
+      "Eid al-Adha",
+      "Milad-un-Nabi",
+      "Ramadan programs",
+      "Community celebrations"
+    ],
+    "contact": "+91 422 2456 789",
+    "nearestTransport": {
+      "airport": "Coimbatore International Airport (CJB) - 12 km",
+      "railway": "Coimbatore Junction (CBE) - 5 km",
+      "bus": "Coimbatore Central Bus Stand - 3 km"
+    },
+    "nearbyAttractions": [
+      "Marudamalai Temple",
+      "VOC Park",
+      "Brookefields Mall",
+      "Coimbatore city attractions"
+    ],
+    "nearbyHotels": [
+      "Coimbatore city hotels",
+      "Business accommodations",
+      "Industrial area lodges",
+      "Modern hotels"
+    ],
+    "nearbyRestaurants": [
+      "Halal restaurants",
+      "Coimbatore cuisine",
+      "Multi-cuisine eateries",
+      "Industrial area food"
+    ],
+    "specialFeatures": [
+      "Industrial city location",
+      "Large Muslim community service",
+      "Modern facilities",
+      "Community development focus",
+      "Educational initiatives",
+      "Social service programs"
+    ]
+  },
+  {
+    "id": "gurudwara-guru-nanak-dham-rameswaram",
+    "name": "Gurudwara Guru Nanak Dham, Rameswaram",
+    "type": "Gurudwara",
+    "typeColor": "bg-blue-100 text-blue-800",
+    "state": "Tamil Nadu",
+    "location": "Rameswaram",
+    "description": "Gurudwara Guru Nanak Dham is a significant Sikh pilgrimage site built to commemorate Guru Nanak Dev Ji's visit to Rameswaram during his travels (Udasis). This gurdwara stands as a symbol of Sikh faith and interfaith harmony, serving as a spiritual center for devotees and travelers visiting this sacred town.",
+    "image": "https://www.worldgurudwaras.com/wp-content/uploads/2809.jpg",
+    "timings": "Early morning to evening (specific times vary)",
+    "prasad": "Langar (community kitchen), Karah Prasad",
+    "amenities": [
+      "Langar hall (community kitchen)",
+      "Prayer hall",
+      "Accommodation for pilgrims",
+      "Restroom facilities",
+      "Parking area",
+      "Community service facilities"
+    ],
+    "festivals": [
+      "Guru Nanak Jayanti",
+      "Baisakhi",
+      "Guru Gobind Singh Jayanti",
+      "Diwali",
+      "Hola Mohalla"
+    ],
+    "contact": "+91 4573 221445",
+    "nearestTransport": {
+      "airport": "Madurai International Airport (IXM) - 174 km",
+      "railway": "Rameswaram Railway Station (RMM) - 2 km",
+      "bus": "Rameswaram Bus Stand - 1.5 km"
+    },
+    "nearbyAttractions": [
+      "Ramanathaswamy Temple",
+      "Pamban Bridge",
+      "Dhanushkodi Beach",
+      "Abdul Kalam Memorial",
+      "Agni Theertham"
+    ],
+    "nearbyHotels": [
+      "Hotel Tamil Nadu (TTDC)",
+      "Daiwik Hotels",
+      "Hotel Vinayaga",
+      "Jiwan Residency"
+    ],
+    "nearbyRestaurants": [
+      "Gurudwara Langar",
+      "Hotel Aryaas",
+      "Ahaan Restaurant",
+      "Local vegetarian restaurants"
+    ],
+    "specialFeatures": [
+      "Commemorates Guru Nanak's visit to Rameswaram",
+      "Symbol of interfaith harmony",
+      "Community service and langar",
+      "Spiritual discussions and teachings",
+      "Serves both Sikhs and other faiths",
+      "Historical significance of Guru's travels"
+    ]
+  },
+  {
+    "id": "gurudwara-sahib-chennai",
+    "name": "Gurudwara Sahib, Chennai",
+    "type": "Gurudwara",
+    "typeColor": "bg-blue-100 text-blue-800",
+    "state": "Tamil Nadu",
+    "location": "Chennai",
+    "description": "The main Gurudwara in Chennai, serving the Sikh community in Tamil Nadu's capital city. It provides spiritual guidance, community services, and maintains Sikh traditions in this major metropolitan area.",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/a6/a0/00/chennai-gurudwara-sahib.jpg?w=700&h=400&s=1",
+    "timings": "Early morning to evening prayers",
+    "prasad": "Langar (community kitchen), Karah Prasad",
+    "amenities": [
+      "Darbar Sahib (prayer hall)",
+      "Langar hall for community meals",
+      "Community center",
+      "Religious education facilities",
+      "Guest accommodation",
+      "Parking facilities"
+    ],
+    "festivals": [
+      "Guru Nanak Jayanti",
+      "Baisakhi",
+      "Guru Gobind Singh Jayanti",
+      "Diwali",
+      "Hola Mohalla"
+    ],
+    "contact": "+91 44 2345 6789",
+    "nearestTransport": {
+      "airport": "Chennai International Airport (MAA) - varies by location",
+      "railway": "Chennai Central Railway Station (MAS) - varies",
+      "bus": "Chennai city buses - nearby"
+    },
+    "nearbyAttractions": [
+      "Marina Beach",
+      "Fort St. George",
+      "Kapaleeshwarar Temple",
+      "Chennai city attractions"
+    ],
+    "nearbyHotels": [
+      "Chennai city hotels",
+      "Metropolitan accommodations",
+      "Business hotels",
+      "Various lodging options"
+    ],
+    "nearbyRestaurants": [
+      "Gurudwara Langar",
+      "Punjabi restaurants",
+      "Chennai multi-cuisine",
+      "Vegetarian eateries"
+    ],
+    "specialFeatures": [
+      "Main Sikh center in Chennai",
+      "Metropolitan community service",
+      "Cultural preservation",
+      "Religious education programs",
+      "Community gathering place",
+      "Interfaith dialogue"
+    ]
+  },
+  {
+    "id": "gurudwara-sahib-coimbatore",
+    "name": "Gurudwara Sahib, Coimbatore",
+    "type": "Gurudwara",
+    "typeColor": "bg-blue-100 text-blue-800",
+    "state": "Tamil Nadu",
+    "location": "Coimbatore",
+    "description": "A Gurudwara serving the Sikh community in the industrial city of Coimbatore. It provides spiritual services and community support in this important commercial center of Tamil Nadu.",
+    "image": "https://content.jdmagicbox.com/comp/coimbatore/f8/0422px422.x422.180411021158.p6f8/catalogue/gurudwara-singh-sabha-rs-puram-coimbatore-coimbatore-gurudwaras-yssavtvqhk.jpg",
+    "timings": "Morning and evening prayers",
+    "prasad": "Langar (community kitchen), Karah Prasad",
+    "amenities": [
+      "Prayer hall",
+      "Langar facilities",
+      "Community center",
+      "Religious education",
+      "Social service programs",
+      "Modern amenities"
+    ],
+    "festivals": [
+      "Guru Nanak Jayanti",
+      "Baisakhi",
+      "Guru Gobind Singh Jayanti",
+      "Diwali",
+      "Community celebrations"
+    ],
+    "contact": "+91 422 2567 890",
+    "nearestTransport": {
+      "airport": "Coimbatore International Airport (CJB) - 15 km",
+      "railway": "Coimbatore Junction (CBE) - 8 km",
+      "bus": "Coimbatore Central Bus Stand - 5 km"
+    },
+    "nearbyAttractions": [
+      "Marudamalai Temple",
+      "Siruvani Waterfalls",
+      "VOC Park",
+      "Industrial areas"
+    ],
+    "nearbyHotels": [
+      "Coimbatore city hotels",
+      "Industrial area accommodations",
+      "Business hotels",
+      "Budget lodges"
+    ],
+    "nearbyRestaurants": [
+      "Gurudwara Langar",
+      "Punjabi cuisine",
+      "Coimbatore local food",
+      "Multi-cuisine restaurants"
+    ],
+    "specialFeatures": [
+      "Industrial city Sikh center",
+      "Business community service",
+      "Modern facilities",
+      "Community development",
+      "Educational programs",
+      "Commercial area location"
+    ]
+  },
+  {
+    "id": "gurudwara-sahib-madurai",
+    "name": "Gurudwara Sahib, Madurai",
+    "type": "Gurudwara",
+    "typeColor": "bg-blue-100 text-blue-800",
+    "state": "Tamil Nadu",
+    "location": "Madurai",
+    "description": "A Gurudwara in the historic temple city of Madurai, serving the local Sikh community. It provides spiritual services in this culturally rich city known for its ancient temples.",
+    "image": "https://content.jdmagicbox.com/comp/rameswaram/p2/9999p4573.4573.200629005140.a7p2/catalogue/sri-guru-nanak-dham-rameswaram-gurudwaras-yb1uqv5du0-250.jpg",
+    "timings": "Morning and evening prayers",
+    "prasad": "Langar (community kitchen), Karah Prasad",
+    "amenities": [
+      "Prayer hall",
+      "Community facilities",
+      "Basic amenities",
+      "Religious education",
+      "Cultural programs",
+      "Interfaith dialogue"
+    ],
+    "festivals": [
+      "Guru Nanak Jayanti",
+      "Baisakhi",
+      "Guru Gobind Singh Jayanti",
+      "Sikh festivals",
+      "Cultural celebrations"
+    ],
+    "contact": "+91 452 2678 901",
+    "nearestTransport": {
+      "airport": "Madurai International Airport (IXM) - 15 km",
+      "railway": "Madurai Junction (MDU) - 5 km",
+      "bus": "Madurai Periyar Bus Stand - 3 km"
+    },
+    "nearbyAttractions": [
+      "Meenakshi Amman Temple",
+      "Thirumalai Nayakkar Mahal",
+      "Gandhi Memorial Museum",
+      "Historic city center"
+    ],
+    "nearbyHotels": [
+      "Madurai heritage hotels",
+      "Temple city accommodations",
+      "Cultural area lodges",
+      "Historic city hotels"
+    ],
+    "nearbyRestaurants": [
+      "Gurudwara Langar",
+      "Madurai local cuisine",
+      "Traditional restaurants",
+      "Cultural area eateries"
+    ],
+    "specialFeatures": [
+      "Historic temple city location",
+      "Cultural diversity",
+      "Interfaith harmony",
+      "Heritage city service",
+      "Community integration",
+      "Religious tolerance"
+    ]
+  },
+  {
+    "id": "gurudwara-sahib-salem",
+    "name": "Gurudwara Sahib, Salem",
+    "type": "Gurudwara",
+    "typeColor": "bg-blue-100 text-blue-800",
+    "state": "Tamil Nadu",
+    "location": "Salem",
+    "description": "A Gurudwara serving the Sikh community in Salem, an important industrial and educational center. It provides religious services and community support in this growing city.",
+    "image": "https://www.worldgurudwaras.com/wp-content/uploads/2021/02/sgag-salem-4.jpg",
+    "timings": "Morning and evening prayers",
+    "prasad": "Langar (community kitchen), Karah Prasad",
+    "amenities": [
+      "Prayer hall",
+      "Community center",
+      "Basic facilities",
+      "Religious education",
+      "Social programs",
+      "Youth activities"
+    ],
+    "festivals": [
+      "Guru Nanak Jayanti",
+      "Baisakhi",
+      "Guru Gobind Singh Jayanti",
+      "Community festivals"
+    ],
+    "contact": "+91 427 2789 012",
+    "nearestTransport": {
+      "airport": "Salem Airport (SXV) - 20 km",
+      "railway": "Salem Junction (SA) - 5 km",
+      "bus": "Salem Central Bus Stand - 3 km"
+    },
+    "nearbyAttractions": [
+      "Yercaud Hill Station",
+      "Mettur Dam",
+      "Sugavaneswarar Temple",
+      "Salem Steel Plant"
+    ],
+    "nearbyHotels": [
+      "Salem city hotels",
+      "Industrial area accommodations",
+      "Hill station nearby",
+      "Educational area lodges"
+    ],
+    "nearbyRestaurants": [
+      "Gurudwara Langar",
+      "Salem local cuisine",
+      "Multi-cuisine restaurants",
+      "Industrial area food"
+    ],
+    "specialFeatures": [
+      "Industrial and educational center",
+      "Growing city community",
+      "Modern facilities",
+      "Youth engagement",
+      "Educational connections",
+      "Industrial area service"
+    ]
+  }
+]

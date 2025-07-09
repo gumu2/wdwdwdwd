@@ -1,0 +1,2214 @@
+[
+  {
+    "id": "hawa-mahal",
+    "name": "Hawa Mahal",
+    "state": "rajasthan",
+    "type": "temple",
+    "location": "Jaipur, Rajasthan",
+    "image": "https://images.pexels.com/photos/3581368/pexels-photo-3581368.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "The Palace of Winds, a stunning example of Rajput architecture with 953 small windows called jharokhas.",
+    "timings": "9:00 AM - 4:30 PM",
+    "entryFee": "₹50 for Indians, ₹200 for foreigners",
+    "bestTime": "October to March",
+    "facilities": ["Parking", "Audio Guide", "Museum", "Cafeteria"],
+    "address": "Hawa Mahal Rd, Badi Choupad, J.D.A. Market, Pink City, Jaipur, Rajasthan 302002",
+    "howToReach": "Jaipur Airport is 13 km away. Well connected by road and rail.",
+    "nearbyHotels": ["Taj Rambagh Palace", "The Oberoi Rajvilas", "Hotel Pearl Palace"],
+    "festivals": "Teej Festival, Gangaur Festival",
+    "photography": "Photography allowed with additional charges"
+  },
+  {
+    "id": "city-palace-jaipur",
+    "name": "City Palace Jaipur",
+    "state": "rajasthan",
+    "type": "temple",
+    "location": "Jaipur, Rajasthan",
+    "image": "https://images.pexels.com/photos/3581368/pexels-photo-3581368.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "A magnificent palace complex that served as the seat of the Maharaja of Jaipur.",
+    "timings": "9:30 AM - 5:00 PM",
+    "entryFee": "₹75 for Indians, ₹300 for foreigners",
+    "bestTime": "October to March",
+    "facilities": ["Parking", "Museum", "Audio Guide", "Restaurant"],
+    "address": "Tulsi Marg, Gangori Bazaar, J.D.A. Market, Pink City, Jaipur, Rajasthan 302002",
+    "howToReach": "Located in the heart of Jaipur, easily accessible by auto-rickshaw and taxi.",
+    "nearbyHotels": ["Samode Haveli", "Alsisar Haveli", "Hotel Bissau Palace"],
+    "festivals": "Diwali celebrations, Holi festival",
+    "photography": "Photography allowed in courtyards, restrictions in museum areas"
+  },
+  {
+    "id": "taj-mahal",
+    "name": "Taj Mahal",
+    "state": "uttar-pradesh",
+    "type": "mosque",
+    "location": "Agra, Uttar Pradesh",
+    "image": "https://images.pexels.com/photos/1583339/pexels-photo-1583339.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "A UNESCO World Heritage Site and symbol of eternal love, built by Emperor Shah Jahan.",
+    "timings": "Sunrise to Sunset (Closed on Fridays)",
+    "entryFee": "₹50 for Indians, ₹1100 for foreigners",
+    "bestTime": "October to March",
+    "facilities": ["Parking", "Security", "Audio Guide", "Battery Van"],
+    "address": "Dharmapuri, Forest Colony, Tajganj, Agra, Uttar Pradesh 282001",
+    "howToReach": "Agra Airport is 7 km away. Well connected by train and road.",
+    "nearbyHotels": ["The Oberoi Amarvilas", "ITC Mughal", "Hotel Taj Resorts"],
+    "festivals": "Taj Mahotsav (February)",
+    "photography": "Photography allowed, no tripods inside main mausoleum"
+  },
+  {
+    "id": "red-fort-agra",
+    "name": "Agra Fort",
+    "state": "uttar-pradesh",
+    "type": "mosque",
+    "location": "Agra, Uttar Pradesh",
+    "image": "https://images.pexels.com/photos/1583339/pexels-photo-1583339.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "A UNESCO World Heritage Site, this red sandstone fort was the main residence of the Mughal emperors.",
+    "timings": "6:00 AM - 6:00 PM",
+    "entryFee": "₹40 for Indians, ₹550 for foreigners",
+    "bestTime": "October to March",
+    "facilities": ["Parking", "Audio Guide", "Museum", "Restrooms"],
+    "address": "Rakabganj, Agra, Uttar Pradesh 282003",
+    "howToReach": "2.5 km from Taj Mahal, easily accessible by auto-rickshaw.",
+    "nearbyHotels": ["Trident Agra", "Courtyard by Marriott", "Hotel Atulyaa Taj"],
+    "festivals": "Mughal heritage festivals",
+    "photography": "Photography allowed in most areas"
+  },
+  {
+    "id": "padmanabhaswamy-temple",
+    "name": "Padmanabhaswamy Temple",
+    "state": "kerala",
+    "type": "temple",
+    "location": "Thiruvananthapuram, Kerala",
+    "image": "https://images.pexels.com/photos/962464/pexels-photo-962464.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "Ancient temple dedicated to Lord Vishnu, known as the richest temple in the world.",
+    "timings": "3:30 AM - 4:45 AM, 6:30 AM - 7:00 AM, 8:30 AM - 10:00 AM, 10:30 AM - 11:10 AM, 11:45 AM - 12:00 PM, 5:00 PM - 6:15 PM, 6:45 PM - 7:20 PM",
+    "entryFee": "Free",
+    "bestTime": "October to March",
+    "facilities": ["Parking", "Drinking Water", "Restrooms"],
+    "address": "West Nada, Fort, East Fort, Thiruvananthapuram, Kerala 695023",
+    "howToReach": "Thiruvananthapuram Airport is 6 km away. Well connected by road and rail.",
+    "nearbyHotels": ["Taj Green Cove Resort", "The Leela Kovalam", "Vivanta Thiruvananthapuram"],
+    "festivals": "Navaratri, Alpashy festival",
+    "photography": "Photography not allowed inside the temple"
+  },
+  {
+    "id": "st-francis-church",
+    "name": "St. Francis Church",
+    "state": "kerala",
+    "type": "church",
+    "location": "Kochi, Kerala",
+    "image": "https://images.pexels.com/photos/962464/pexels-photo-962464.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "The oldest European church in India, where Vasco da Gama was originally buried.",
+    "timings": "9:00 AM - 5:30 PM",
+    "entryFee": "Free",
+    "bestTime": "October to March",
+    "facilities": ["Parking", "Museum", "Souvenir Shop"],
+    "address": "K.B. Jacob Rd, Fort Kochi, Kochi, Kerala 682001",
+    "howToReach": "Kochi Airport is 40 km away. Ferry services available from Ernakulam.",
+    "nearbyHotels": ["Brunton Boatyard", "The Old Harbour Hotel", "Forte Kochi"],
+    "festivals": "Christmas, Easter celebrations",
+    "photography": "Photography allowed"
+  },
+  {
+    "id": "meenakshi-temple",
+    "name": "Meenakshi Amman Temple",
+    "state": "tamil-nadu",
+    "type": "temple",
+    "location": "Madurai, Tamil Nadu",
+    "image": "https://images.pexels.com/photos/3811082/pexels-photo-3811082.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "Historic temple dedicated to Goddess Meenakshi with stunning Dravidian architecture.",
+    "timings": "5:00 AM - 12:30 PM, 4:00 PM - 9:30 PM",
+    "entryFee": "Free",
+    "bestTime": "October to March",
+    "facilities": ["Parking", "Audio Guide", "Prasadam Counter", "Restrooms"],
+    "address": "Madurai Main, Madurai, Tamil Nadu 625001",
+    "howToReach": "Madurai Airport is 12 km away. Well connected by road and rail.",
+    "nearbyHotels": ["The Gateway Hotel Pasumalai", "Heritage Madurai", "Hotel Supreme"],
+    "festivals": "Meenakshi Thirukalyanam, Chithirai Festival",
+    "photography": "Photography allowed in outer areas, restrictions in sanctum"
+  },
+  {
+    "id": "brihadeeswarar-temple",
+    "name": "Brihadeeswarar Temple",
+    "state": "tamil-nadu",
+    "type": "temple",
+    "location": "Thanjavur, Tamil Nadu",
+    "image": "https://images.pexels.com/photos/3811082/pexels-photo-3811082.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "UNESCO World Heritage Site built by Cholas, architectural marvel of South India.",
+    "timings": "6:00 AM - 12:30 PM, 4:00 PM - 8:30 PM",
+    "entryFee": "Free",
+    "bestTime": "October to March",
+    "facilities": ["Parking", "Museum", "Audio Guide", "Cafeteria"],
+    "address": "Balasubrahmanyam Rd, Thanjavur, Tamil Nadu 613007",
+    "howToReach": "Trichy Airport is 60 km away. Well connected by road and rail.",
+    "nearbyHotels": ["Sangam Hotel", "Hotel Parisutham", "Ideal River View Resort"],
+    "festivals": "Maha Shivaratri, Brahmotsavam",
+    "photography": "Photography allowed with restrictions in certain areas"
+  },
+  {
+    "id": "mysore-palace",
+    "name": "Mysore Palace",
+    "state": "karnataka",
+    "type": "temple",
+    "location": "Mysore, Karnataka",
+    "image": "https://images.pexels.com/photos/4825701/pexels-photo-4825701.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "Royal palace complex with Indo-Saracenic architecture, former seat of the Wodeyar dynasty.",
+    "timings": "10:00 AM - 5:30 PM",
+    "entryFee": "₹70 for Indians, ₹200 for foreigners",
+    "bestTime": "October to March",
+    "facilities": ["Parking", "Audio Guide", "Museum", "Light Show"],
+    "address": "Sayyaji Rao Rd, Agrahara, Chamrajpura, Mysuru, Karnataka 570001",
+    "howToReach": "Mysore Airport is 12 km away. Well connected by road and rail.",
+    "nearbyHotels": ["Lalitha Mahal Palace Hotel", "The Windflower Resort", "Hotel Mayura Hoysala"],
+    "festivals": "Dasara Festival (September/October)",
+    "photography": "Photography allowed in courtyards, additional charges for camera"
+  },
+  {
+    "id": "hampi-virupaksha",
+    "name": "Virupaksha Temple",
+    "state": "karnataka",
+    "type": "temple",
+    "location": "Hampi, Karnataka",
+    "image": "https://images.pexels.com/photos/4825701/pexels-photo-4825701.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "UNESCO World Heritage Site, ancient temple in the ruins of Vijayanagara capital.",
+    "timings": "6:00 AM - 6:30 PM",
+    "entryFee": "Free",
+    "bestTime": "October to March",
+    "facilities": ["Parking", "Guide Services", "Restrooms"],
+    "address": "Hampi, Karnataka 583239",
+    "howToReach": "Hubli Airport is 160 km away. Hospet railway station is 13 km away.",
+    "nearbyHotels": ["Evolve Back Hampi", "Kishkinda Heritage Resort", "Hotel Malligi"],
+    "festivals": "Hampi Festival (November), Virupaksha Car Festival",
+    "photography": "Photography allowed"
+  },
+  {
+    "id": "tarakeswar-temple",
+    "name": "Tarakeswar Temple",
+    "type": "Temple",
+    "typeColor": "bg-orange-100 text-orange-800",
+    "state": "West Bengal",
+    "location": "Tarakeswar, Hooghly",
+    "description": "Tarakeswar Temple is one of the most revered Shiva temples in West Bengal, dedicated to Lord Taraknath (Shiva). This ancient temple attracts millions of devotees annually, especially during the holy month of Shravan. The temple is famous for its spiritual significance and the belief that prayers here fulfill devotees' wishes.",
+    "image": "/Babataraknathtemple.jpg",
+    "timings": "4:00 AM - 10:00 PM (Daily)",
+    "prasad": "Panchamrita, Bel leaves, Sacred ash (Vibhuti), Kheer, Fruits",
+    "amenities": [
+      "Free parking facility",
+      "Drinking water stations",
+      "Restrooms and washrooms",
+      "Shoe keeping facility",
+      "Prasad distribution counter",
+      "Medical aid center",
+      "Lost and found office",
+      "Wheelchair accessibility",
+      "CCTV surveillance",
+      "Audio system for prayers",
+      "Donation counters",
+      "Information desk"
+    ],
+    "festivals": [
+      "Maha Shivaratri (February/March)",
+      "Shravan Somvar (July/August)",
+      "Kartik Purnima (October/November)",
+      "Gajan Festival (April)",
+      "Poila Boishakh (Bengali New Year)",
+      "Durga Puja (September/October)"
+    ],
+    "contact": "+91 3212 255 789",
+    "website": "http://tarakeshwartemple.org",
+    "nearestTransport": {
+      "railway": "Tarakeswar Railway Station (1 km)",
+      "airport": "Netaji Subhas Chandra Bose International Airport, Kolkata (65 km)",
+      "bus": "Tarakeswar Bus Stand (500 meters)"
+    },
+    "nearbyAttractions": [
+      "Kamarpukur (Birthplace of Sri Ramakrishna) - 8 km",
+      "Jairambati (Birthplace of Sarada Devi) - 15 km",
+      "Arambagh - 12 km",
+      "Hooghly River Ghats - 20 km",
+      "Bandel Church - 25 km"
+    ],
+    "nearbyHotels": [
+      "Hotel Tarakeswar Palace",
+      "Guesthouse Shiva Residency",
+      "Dharamshala Taraknath",
+      "Hotel Ganges View",
+      "Pilgrim Rest House"
+    ],
+    "nearbyRestaurants": [
+      "Annapurna Restaurant",
+      "Bhojanalaya Taraknath",
+      "Prasad Bhandar",
+      "Local Bengali Thali Centers",
+      "Tea Stalls near Temple"
+    ],
+    "specialFeatures": [
+      "Ancient Shiva Lingam believed to be self-manifested",
+      "Famous for fulfilling devotees' wishes",
+      "Architectural blend of Bengali and Mughal styles",
+      "Sacred pond (Tarakeswar Dighi) for holy bath",
+      "Historical significance dating back to 1729",
+      "Annual Gajan festival with traditional rituals",
+      "Meditation halls for spiritual practices",
+      "Library with religious texts and scriptures"
+    ]
+  },
+  {
+    "id": "dakshineswar-temple",
+    "name": "Dakshineswar Kali Temple",
+    "type": "Temple",
+    "typeColor": "bg-orange-100 text-orange-800",
+    "state": "West Bengal",
+    "location": "Dakshineswar, Kolkata",
+    "description": "Dakshineswar Kali Temple is a magnificent temple complex dedicated to Goddess Kali, built by Rani Rashmoni in 1855. This temple gained worldwide fame as the place where Sri Ramakrishna Paramahamsa served as a priest and had his divine visions. The temple complex includes the main Kali temple and twelve Shiva temples.",
+    "image": "https://samtours.in/wp-content/uploads/2024/04/dakshineswar-kali-temple.webp",
+    "timings": "6:00 AM - 12:30 PM, 3:00 PM - 8:30 PM",
+    "prasad": "Khichuri, Labra, Payesh, Fruits, Sweets",
+    "amenities": [
+      "Large parking area",
+      "Boat service from Belur Math",
+      "Prasad distribution hall",
+      "Drinking water facility",
+      "Clean restrooms",
+      "Shoe keeping counter",
+      "Photography allowed in certain areas",
+      "Wheelchair accessible paths",
+      "First aid center",
+      "Information center",
+      "Donation office",
+      "Security arrangements"
+    ],
+    "festivals": [
+      "Kali Puja (October/November)",
+      "Durga Puja (September/October)",
+      "Poila Boishakh (Bengali New Year)",
+      "Dol Purnima (Holi)",
+      "Jagaddhatri Puja",
+      "Ramakrishna Jayanti"
+    ],
+    "contact": "+91 33 2654 4510",
+    "website": "http://dakshineswar.org",
+    "nearestTransport": {
+      "railway": "Dakshineswar Railway Station (500 meters)",
+      "airport": "Netaji Subhas Chandra Bose International Airport (25 km)",
+      "bus": "Dakshineswar Bus Terminus (300 meters)"
+    },
+    "nearbyAttractions": [
+      "Belur Math - 2 km (across Hooghly River)",
+      "Ramakrishna Mission - 2 km",
+      "Vivekananda Setu (Bridge) - 1 km",
+      "Cossipore Gun Powder Factory - 3 km",
+      "Baranagar Math - 4 km"
+    ],
+    "nearbyHotels": [
+      "Hotel Sonar Bangla",
+      "Ramakrishna Mission Guest House",
+      "Hotel Ganges View",
+      "Dakshineswar Lodge",
+      "Pilgrim Rest House"
+    ],
+    "nearbyRestaurants": [
+      "Bhojanalaya near Temple",
+      "Bengali Traditional Food Stalls",
+      "Prasad Bhandar",
+      "Tea Gardens Restaurant",
+      "Local Fish Market Eateries"
+    ],
+    "specialFeatures": [
+      "Sri Ramakrishna's room preserved as museum",
+      "Twelve Shiva temples in temple complex",
+      "Beautiful architecture with nine spires",
+      "Sacred Hooghly River bathing ghat",
+      "Rani Rashmoni's historical legacy",
+      "Spiritual significance in Hindu philosophy",
+      "Regular cultural programs and bhajans",
+      "Meditation and prayer halls"
+    ]
+  },
+  {
+    "id": "kalighat-temple",
+    "name": "Kalighat Kali Temple",
+    "type": "Temple",
+    "typeColor": "bg-orange-100 text-orange-800",
+    "state": "West Bengal",
+    "location": "Kalighat, Kolkata",
+    "description": "Kalighat Kali Temple is one of the 51 Shakti Peethas and the most famous Kali temple in Kolkata. According to legend, the toes of Goddess Sati's right foot fell here. The temple is over 200 years old and attracts thousands of devotees daily who come to seek blessings from Goddess Kali.",
+    "image": "https://www.fabhotels.com/blog/wp-content/uploads/2018/09/600x400-5.jpg:cf-webp:w-450:h-240",
+    "timings": "5:00 AM - 2:00 PM, 5:00 PM - 10:30 PM",
+    "prasad": "Kheer, Luchi, Alur Dom, Sweets, Fruits",
+    "amenities": [
+      "Paid parking facility",
+      "Prasad shops nearby",
+      "Drinking water points",
+      "Public restrooms",
+      "Shoe keeping service",
+      "Police security",
+      "Medical assistance",
+      "Donation counters",
+      "Information desk",
+      "CCTV monitoring",
+      "Crowd management system",
+      "Emergency services"
+    ],
+    "festivals": [
+      "Kali Puja (October/November)",
+      "Durga Puja (September/October)",
+      "Poila Boishakh",
+      "Diwali celebrations",
+      "Jagaddhatri Puja",
+      "Makar Sankranti"
+    ],
+    "contact": "+91 33 2455 1752",
+    "nearestTransport": {
+      "railway": "Kalighat Metro Station (500 meters)",
+      "airport": "Netaji Subhas Chandra Bose International Airport (8 km)",
+      "bus": "Kalighat Bus Stop (200 meters)"
+    },
+    "nearbyAttractions": [
+      "Mother Teresa's House - 2 km",
+      "Victoria Memorial - 3 km",
+      "Birla Planetarium - 3 km",
+      "Indian Museum - 4 km",
+      "Rabindra Sarovar - 2 km"
+    ],
+    "nearbyHotels": [
+      "Hotel Hindustan International",
+      "The Kenilworth Hotel",
+      "Hotel Victerrace",
+      "Budget lodges near temple",
+      "Dharamshala facilities"
+    ],
+    "nearbyRestaurants": [
+      "Kewpie's Kitchen",
+      "Bhojohori Manna",
+      "Local Bengali restaurants",
+      "Street food vendors",
+      "Traditional sweet shops"
+    ],
+    "specialFeatures": [
+      "One of 51 Shakti Peethas",
+      "Ancient black stone idol of Goddess Kali",
+      "Historical significance in Bengali culture",
+      "Traditional Bengali temple architecture",
+      "Sacred pond for ritual bathing",
+      "Daily animal sacrifice rituals",
+      "Spiritual healing beliefs",
+      "Cultural hub of South Kolkata"
+    ]
+  },
+  {
+    "id": "tarapith-temple",
+    "name": "Tarapith Temple",
+    "type": "Temple",
+    "typeColor": "bg-orange-100 text-orange-800",
+    "state": "West Bengal",
+    "location": "Tarapith, Birbhum",
+    "description": "Tarapith Temple is a famous Shakti Peetha dedicated to Goddess Tara, located in Birbhum district. This temple is renowned for Tantric practices and is associated with the famous saint Bamakhepa. The temple attracts devotees seeking spiritual powers and blessings from the fierce form of Goddess Tara.",
+    "image": "https://www.40kmph.com/wp-content/uploads/2022/01/Tarapith-Temple-Tarapith-Birbhum-West-Bengal.jpg",
+    "timings": "6:00 AM - 1:00 PM, 3:00 PM - 9:00 PM",
+    "prasad": "Rice, Fish curry, Sweets, Fruits, Sacred ash",
+    "amenities": [
+      "Parking facility",
+      "Prasad distribution center",
+      "Drinking water supply",
+      "Restroom facilities",
+      "Shoe keeping area",
+      "Security arrangements",
+      "Medical aid post",
+      "Information counter",
+      "Donation office",
+      "Photography restrictions",
+      "Crowd control measures",
+      "Emergency assistance"
+    ],
+    "festivals": [
+      "Tara Puja (May/June)",
+      "Kali Puja (October/November)",
+      "Durga Puja (September/October)",
+      "Poila Boishakh",
+      "Makar Sankranti",
+      "Bamakhepa Jayanti"
+    ],
+    "contact": "+91 3463 255 108",
+    "nearestTransport": {
+      "railway": "Rampurhat Railway Station (8 km)",
+      "airport": "Netaji Subhas Chandra Bose International Airport (235 km)",
+      "bus": "Tarapith Bus Stand (1 km)"
+    },
+    "nearbyAttractions": [
+      "Bamakhepa Ashram - 1 km",
+      "Nalhati - 15 km",
+      "Shantiniketan - 40 km",
+      "Bakreshwar Hot Springs - 25 km",
+      "Mayurbhanj Palace - 30 km"
+    ],
+    "nearbyHotels": [
+      "Hotel Tarapith Residency",
+      "Bamakhepa Guest House",
+      "Tara Lodge",
+      "Pilgrim Rest House",
+      "Local dharamshalas"
+    ],
+    "nearbyRestaurants": [
+      "Annapurna Restaurant",
+      "Local Bengali eateries",
+      "Prasad Bhandar",
+      "Tea stalls",
+      "Traditional food vendors"
+    ],
+    "specialFeatures": [
+      "Famous Shakti Peetha temple",
+      "Associated with Tantric practices",
+      "Bamakhepa's spiritual legacy",
+      "Unique fish and meat offerings",
+      "Ancient cremation ground nearby",
+      "Mystical and spiritual atmosphere",
+      "Traditional Bengali temple architecture",
+      "Center for Tantric learning"
+    ]
+  },
+  {
+    "id": "belur-math",
+    "name": "Belur Math",
+    "type": "Temple",
+    "typeColor": "bg-orange-100 text-orange-800",
+    "state": "West Bengal",
+    "location": "Belur, Howrah",
+    "description": "Belur Math is the headquarters of the Ramakrishna Math and Mission, founded by Swami Vivekananda in 1897. This spiritual center combines the architectural features of a church, mosque, and temple, symbolizing the unity of all religions. It houses the temple of Sri Ramakrishna and serves as a major pilgrimage site.",
+    "image": "https://s7ap1.scene7.com/is/image/incredibleindia/belur-math-kolkata-wb-2-attr-hero?qlt=82&ts=1726644232767",
+    "timings": "6:00 AM - 11:30 AM, 4:00 PM - 7:00 PM",
+    "prasad": "Prasad from Sri Ramakrishna Temple, Fruits, Sweets",
+    "amenities": [
+      "Large parking area",
+      "Museum and library",
+      "Boat service to Dakshineswar",
+      "Drinking water facility",
+      "Clean restrooms",
+      "Meditation halls",
+      "Bookstore",
+      "Guest house facility",
+      "Photography allowed",
+      "Wheelchair accessibility",
+      "Information center",
+      "Security services"
+    ],
+    "festivals": [
+      "Ramakrishna Jayanti (February/March)",
+      "Vivekananda Jayanti (January)",
+      "Durga Puja (September/October)",
+      "Kali Puja (October/November)",
+      "Christmas celebration",
+      "Buddha Purnima"
+    ],
+    "contact": "+91 33 2654 9999",
+    "website": "http://belurmath.org",
+    "nearestTransport": {
+      "railway": "Belur Railway Station (1 km)",
+      "airport": "Netaji Subhas Chandra Bose International Airport (22 km)",
+      "bus": "Belur Math Bus Stop (500 meters)"
+    },
+    "nearbyAttractions": [
+      "Dakshineswar Kali Temple - 2 km",
+      "Ramakrishna Mission - 1 km",
+      "Vivekananda Setu - 2 km",
+      "Hooghly River Ghat - 500 meters",
+      "Cossipore Gun Powder Factory - 5 km"
+    ],
+    "nearbyHotels": [
+      "Ramakrishna Mission Guest House",
+      "Hotel Sonar Bangla",
+      "Belur Math Lodge",
+      "Hotel Ganges View",
+      "Pilgrim accommodation"
+    ],
+    "nearbyRestaurants": [
+      "Math Canteen",
+      "Bengali traditional restaurants",
+      "Vegetarian food centers",
+      "Tea gardens",
+      "Local eateries"
+    ],
+    "specialFeatures": [
+      "Headquarters of Ramakrishna Mission",
+      "Unique architectural synthesis",
+      "Swami Vivekananda's samadhi",
+      "Spiritual library and museum",
+      "Regular spiritual discourses",
+      "Meditation and yoga programs",
+      "Cultural and educational activities",
+      "Symbol of religious harmony"
+    ]
+  },
+  {
+    "id": "iskcon-mayapur",
+    "name": "ISKCON Mayapur",
+    "type": "Temple",
+    "typeColor": "bg-orange-100 text-orange-800",
+    "state": "West Bengal",
+    "location": "Mayapur, Nadia",
+    "description": "ISKCON Mayapur is the world headquarters of the International Society for Krishna Consciousness, located at the birthplace of Sri Chaitanya Mahaprabhu. This magnificent temple complex is dedicated to Lord Krishna and promotes the teachings of Bhakti Yoga. The temple is famous for its spiritual atmosphere and grand festivals.",
+    "image": "https://temple.yatradham.org/public/Product/temple/temple_BaN6T9u1_202408041620190.webp",
+    "timings": "4:30 AM - 1:00 PM, 4:00 PM - 9:00 PM",
+    "prasad": "Krishna Prasadam, Vegetarian meals, Sweets, Fruits",
+    "amenities": [
+      "Large parking facility",
+      "Guest house accommodation",
+      "Prasadam distribution hall",
+      "Drinking water stations",
+      "Clean restrooms",
+      "Bookstore and gift shop",
+      "Museum and exhibitions",
+      "Meditation rooms",
+      "Cultural hall",
+      "Medical center",
+      "Information desk",
+      "Security arrangements"
+    ],
+    "festivals": [
+      "Janmashtami (August/September)",
+      "Gaura Purnima (March)",
+      "Radhashtami (August/September)",
+      "Kartik month celebrations",
+      "Ratha Yatra (June/July)",
+      "Govardhan Puja"
+    ],
+    "contact": "+91 3472 245 240",
+    "website": "http://mayapur.com",
+    "nearestTransport": {
+      "railway": "Navadwip Railway Station (15 km)",
+      "airport": "Netaji Subhas Chandra Bose International Airport (130 km)",
+      "bus": "Mayapur Bus Stand (2 km)"
+    },
+    "nearbyAttractions": [
+      "Chaitanya Mahaprabhu's birthplace - 1 km",
+      "Navadwip - 15 km",
+      "Shantipur - 20 km",
+      "Krishnanagar - 25 km",
+      "Ganga Sagar confluence - 30 km"
+    ],
+    "nearbyHotels": [
+      "ISKCON Guest House",
+      "Mayapur Lodge",
+      "Ganga Kinare Hotel",
+      "Pilgrim Rest House",
+      "Local accommodations"
+    ],
+    "nearbyRestaurants": [
+      "ISKCON Prasadam Hall",
+      "Govinda's Restaurant",
+      "Vegetarian food centers",
+      "Local Bengali restaurants",
+      "Prasad distribution centers"
+    ],
+    "specialFeatures": [
+      "World headquarters of ISKCON",
+      "Birthplace of Sri Chaitanya",
+      "Magnificent temple architecture",
+      "Spiritual education programs",
+      "International devotee community",
+      "Regular kirtan and bhajan",
+      "Vedic cultural center",
+      "Eco-friendly temple complex"
+    ]
+  },
+  {
+    "id": "jairambati-temple",
+    "name": "Jairambati Temple",
+    "type": "Temple",
+    "typeColor": "bg-orange-100 text-orange-800",
+    "state": "West Bengal",
+    "location": "Jairambati, Bankura",
+    "description": "Jairambati Temple is located at the birthplace of Sri Sarada Devi, the Holy Mother and spiritual consort of Sri Ramakrishna. This sacred place attracts devotees who come to pay homage to the Divine Mother. The temple complex includes the ancestral home of Sarada Devi and various shrines dedicated to her memory.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Sarada_Devi_Jayrambati.jpg",
+    "timings": "6:00 AM - 12:00 PM, 3:00 PM - 8:00 PM",
+    "prasad": "Kheer, Fruits, Sweets, Sacred offerings",
+    "amenities": [
+      "Parking facility",
+      "Drinking water supply",
+      "Restroom facilities",
+      "Shoe keeping area",
+      "Prasad distribution",
+      "Information center",
+      "Museum displays",
+      "Meditation hall",
+      "Library",
+      "Guest house",
+      "Security services",
+      "Medical aid"
+    ],
+    "festivals": [
+      "Sarada Devi Jayanti (December)",
+      "Durga Puja (September/October)",
+      "Kali Puja (October/November)",
+      "Poila Boishakh",
+      "Ramakrishna Jayanti",
+      "Vivekananda Jayanti"
+    ],
+    "contact": "+91 3244 245 678",
+    "nearestTransport": {
+      "railway": "Vishnupur Railway Station (35 km)",
+      "airport": "Netaji Subhas Chandra Bose International Airport (180 km)",
+      "bus": "Jairambati Bus Stand (1 km)"
+    },
+    "nearbyAttractions": [
+      "Kamarpukur (Sri Ramakrishna's birthplace) - 8 km",
+      "Tarakeswar Temple - 15 km",
+      "Vishnupur Terracotta Temples - 35 km",
+      "Arambagh - 20 km",
+      "Hooghly River - 25 km"
+    ],
+    "nearbyHotels": [
+      "Sarada Devi Guest House",
+      "Jairambati Lodge",
+      "Pilgrim Rest House",
+      "Local accommodations",
+      "Dharamshala facilities"
+    ],
+    "nearbyRestaurants": [
+      "Annapurna Restaurant",
+      "Local Bengali eateries",
+      "Prasad Bhandar",
+      "Traditional food stalls",
+      "Tea shops"
+    ],
+    "specialFeatures": [
+      "Birthplace of Sri Sarada Devi",
+      "Holy Mother's ancestral home",
+      "Spiritual significance for devotees",
+      "Traditional Bengali architecture",
+      "Sacred pond and gardens",
+      "Museum with historical artifacts",
+      "Peaceful meditation environment",
+      "Connection to Ramakrishna Mission"
+    ]
+  },
+  {
+    "id": "st-pauls-cathedral",
+    "name": "St. Paul's Cathedral",
+    "type": "Church",
+    "typeColor": "bg-purple-100 text-purple-800",
+    "state": "West Bengal",
+    "location": "Cathedral Road, Kolkata",
+    "description": "St. Paul's Cathedral is the Anglican cathedral of Kolkata and the first episcopal church in Asia. Built in Indo-Gothic style, this magnificent cathedral was consecrated in 1847. The cathedral features beautiful stained glass windows, impressive architecture, and serves as an important center for Christian worship in Eastern India.",
+    "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2024/10/ksp_4397-2.jpg",
+    "timings": "9:00 AM - 6:00 PM (Daily), Sunday Service: 8:30 AM & 6:00 PM",
+    "amenities": [
+      "Parking facility",
+      "Guided tours available",
+      "Drinking water",
+      "Restrooms",
+      "Gift shop",
+      "Photography allowed",
+      "Wheelchair accessible",
+      "Information desk",
+      "Security services",
+      "Audio system",
+      "Air conditioning",
+      "Library"
+    ],
+    "festivals": [
+      "Christmas (December 25)",
+      "Easter (March/April)",
+      "Good Friday",
+      "Palm Sunday",
+      "Thanksgiving Service",
+      "Harvest Festival"
+    ],
+    "contact": "+91 33 2223 1402",
+    "website": "http://stpaulscathedralkolkata.in",
+    "nearestTransport": {
+      "railway": "Park Street Metro Station (1 km)",
+      "airport": "Netaji Subhas Chandra Bose International Airport (8 km)",
+      "bus": "Park Street Bus Stop (500 meters)"
+    },
+    "nearbyAttractions": [
+      "Victoria Memorial - 1 km",
+      "Indian Museum - 2 km",
+      "Park Street - 1 km",
+      "Maidan - 500 meters",
+      "Birla Planetarium - 1.5 km"
+    ],
+    "nearbyHotels": [
+      "The Park Hotel",
+      "Hotel Hindustan International",
+      "The Kenilworth Hotel",
+      "Hotel Victerrace",
+      "Budget hotels on Park Street"
+    ],
+    "nearbyRestaurants": [
+      "Peter Cat",
+      "Flurys",
+      "Mocambo",
+      "Trincas",
+      "Park Street restaurants"
+    ],
+    "specialFeatures": [
+      "First episcopal church in Asia",
+      "Indo-Gothic architecture",
+      "Beautiful stained glass windows",
+      "Historical significance",
+      "Impressive bell tower",
+      "Memorial plaques and monuments",
+      "Regular choir performances",
+      "Cultural heritage site"
+    ]
+  },
+  {
+    "id": "bandel-church",
+    "name": "Bandel Church",
+    "type": "Church",
+    "typeColor": "bg-purple-100 text-purple-800",
+    "state": "West Bengal",
+    "location": "Bandel, Hooghly",
+    "description": "Bandel Church, officially known as the Basilica of the Holy Rosary, is one of the oldest churches in India, built by Portuguese missionaries in 1599. This historic church is dedicated to Our Lady of the Rosary and attracts thousands of pilgrims annually. The church showcases Portuguese colonial architecture and houses several religious artifacts.",
+    "image": "https://media.istockphoto.com/id/1212994452/photo/bandel-church.jpg?s=612x612&w=0&k=20&c=LwH5JNzdy645BXPIAHgGPgQ9UEfc0af0nC0_g86IWX8=",
+    "timings": "6:00 AM - 7:00 PM (Daily), Sunday Mass: 7:00 AM, 9:00 AM, 6:00 PM",
+    "amenities": [
+      "Parking area",
+      "Drinking water facility",
+      "Restrooms",
+      "Candle lighting area",
+      "Prayer hall",
+      "Gift and souvenir shop",
+      "Information center",
+      "Photography allowed",
+      "Wheelchair access",
+      "Security arrangements",
+      "Audio system for mass",
+      "Confession booth"
+    ],
+    "festivals": [
+      "Feast of Our Lady of the Rosary (October)",
+      "Christmas (December 25)",
+      "Easter (March/April)",
+      "Good Friday",
+      "Assumption of Mary (August 15)",
+      "All Saints Day (November 1)"
+    ],
+    "contact": "+91 33 2680 2259",
+    "nearestTransport": {
+      "railway": "Bandel Railway Station (1 km)",
+      "airport": "Netaji Subhas Chandra Bose International Airport (55 km)",
+      "bus": "Bandel Bus Stand (500 meters)"
+    },
+    "nearbyAttractions": [
+      "Hooghly Imambara - 2 km",
+      "Chinsurah - 3 km",
+      "Serampore - 8 km",
+      "Chandannagar - 10 km",
+      "Hooghly River Ghat - 1 km"
+    ],
+    "nearbyHotels": [
+      "Hotel Bandel Heritage",
+      "Hooghly Guest House",
+      "River View Lodge",
+      "Local accommodations",
+      "Pilgrim rest houses"
+    ],
+    "nearbyRestaurants": [
+      "Portuguese Kitchen",
+      "Local Bengali restaurants",
+      "Hooghly Riverside eateries",
+      "Traditional food stalls",
+      "Tea gardens"
+    ],
+    "specialFeatures": [
+      "One of oldest churches in India",
+      "Portuguese colonial architecture",
+      "Historical religious artifacts",
+      "Beautiful altar and statues",
+      "Pilgrimage destination",
+      "Cultural heritage monument",
+      "Peaceful prayer environment",
+      "Connection to Portuguese history"
+    ]
+  },
+  {
+    "id": "st-johns-church",
+    "name": "St. John's Church",
+    "type": "Church",
+    "typeColor": "bg-purple-100 text-purple-800",
+    "state": "West Bengal",
+    "location": "Dalhousie Square, Kolkata",
+    "description": "St. John's Church is one of the oldest churches in Kolkata, built in 1787. Located in the heart of the city near the GPO, this Anglican church is known for its neoclassical architecture and historical significance. The church houses the tomb of Job Charnock, the founder of Calcutta, and several other British colonial figures.",
+    "image": "https://kevinstandagephotography.wordpress.com/wp-content/uploads/2024/10/cover.jpg",
+    "timings": "9:00 AM - 5:00 PM (Daily), Sunday Service: 8:30 AM & 6:00 PM",
+    "amenities": [
+      "Limited parking",
+      "Drinking water",
+      "Restrooms",
+      "Historical displays",
+      "Photography allowed",
+      "Information plaques",
+      "Security services",
+      "Guided tours",
+      "Memorial garden",
+      "Audio system",
+      "Wheelchair access",
+      "Gift counter"
+    ],
+    "festivals": [
+      "Christmas (December 25)",
+      "Easter (March/April)",
+      "Good Friday",
+      "Harvest Festival",
+      "Memorial services",
+      "Special prayer meetings"
+    ],
+    "contact": "+91 33 2230 3040",
+    "nearestTransport": {
+      "railway": "Esplanade Metro Station (500 meters)",
+      "airport": "Netaji Subhas Chandra Bose International Airport (10 km)",
+      "bus": "Dalhousie Square Bus Stop (200 meters)"
+    },
+    "nearbyAttractions": [
+      "General Post Office - 200 meters",
+      "Writers' Building - 300 meters",
+      "Raj Bhavan - 1 km",
+      "Howrah Bridge - 2 km",
+      "Eden Gardens - 1.5 km"
+    ],
+    "nearbyHotels": [
+      "The Oberoi Grand",
+      "Hotel Hindustan International",
+      "Budget hotels in central Kolkata",
+      "Guest houses near GPO",
+      "Business hotels"
+    ],
+    "nearbyRestaurants": [
+      "Central Kolkata restaurants",
+      "Street food vendors",
+      "Traditional Bengali eateries",
+      "Coffee shops",
+      "Business district cafes"
+    ],
+    "specialFeatures": [
+      "One of oldest churches in Kolkata",
+      "Neoclassical architecture",
+      "Job Charnock's tomb",
+      "Historical British cemetery",
+      "Colonial heritage site",
+      "Beautiful stained glass",
+      "Memorial plaques",
+      "Central location significance"
+    ]
+  },
+  {
+    "id": "sacred-heart-church",
+    "name": "Sacred Heart Church",
+    "type": "Church",
+    "typeColor": "bg-purple-100 text-purple-800",
+    "state": "West Bengal",
+    "location": "Dharmatala, Kolkata",
+    "description": "Sacred Heart Church is a prominent Catholic church located in the heart of Kolkata. Built in the early 20th century, this church is known for its beautiful Gothic Revival architecture and serves a large Catholic community. The church is famous for its devotion to the Sacred Heart of Jesus and hosts regular masses and religious activities.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Sacred_Heart_Church_Chandannagar_03.jpg/1280px-Sacred_Heart_Church_Chandannagar_03.jpg",
+    "timings": "6:00 AM - 8:00 PM (Daily), Sunday Mass: 7:00 AM, 9:00 AM, 11:00 AM, 6:30 PM",
+    "amenities": [
+      "Parking facility",
+      "Drinking water",
+      "Clean restrooms",
+      "Prayer hall",
+      "Confession booth",
+      "Religious bookstore",
+      "Candle lighting area",
+      "Audio system",
+      "Air conditioning",
+      "Wheelchair accessible",
+      "Security services",
+      "Information desk"
+    ],
+    "festivals": [
+      "Feast of Sacred Heart (June)",
+      "Christmas (December 25)",
+      "Easter (March/April)",
+      "Good Friday",
+      "Assumption of Mary",
+      "All Souls Day"
+    ],
+    "contact": "+91 33 2225 4789",
+    "nearestTransport": {
+      "railway": "Esplanade Metro Station (800 meters)",
+      "airport": "Netaji Subhas Chandra Bose International Airport (9 km)",
+      "bus": "Dharmatala Bus Stop (300 meters)"
+    },
+    "nearbyAttractions": [
+      "New Market - 500 meters",
+      "Park Street - 1 km",
+      "Indian Museum - 1.5 km",
+      "Maidan - 1 km",
+      "Victoria Memorial - 2 km"
+    ],
+    "nearbyHotels": [
+      "Hotel Hindustan International",
+      "The Kenilworth Hotel",
+      "Central Kolkata hotels",
+      "Budget accommodations",
+      "Business hotels"
+    ],
+    "nearbyRestaurants": [
+      "New Market area restaurants",
+      "Park Street eateries",
+      "Local Bengali food",
+      "Street food stalls",
+      "Coffee shops"
+    ],
+    "specialFeatures": [
+      "Gothic Revival architecture",
+      "Devotion to Sacred Heart of Jesus",
+      "Active Catholic community",
+      "Beautiful interior decoration",
+      "Regular religious activities",
+      "Central location",
+      "Historical significance",
+      "Peaceful prayer atmosphere"
+    ]
+  },
+  {
+    "id": "st-thomas-church",
+    "name": "St. Thomas Church",
+    "type": "Church",
+    "typeColor": "bg-purple-100 text-purple-800",
+    "state": "West Bengal",
+    "location": "Middleton Street, Kolkata",
+    "description": "St. Thomas Church is a historic Anglican church located on Middleton Street in Kolkata. Built in the 19th century, this church serves the local Christian community and is known for its simple yet elegant architecture. The church is dedicated to St. Thomas the Apostle and maintains traditional Anglican worship practices.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Middleton_Row_%27St_Thomas_Church%27.jpg",
+    "timings": "8:00 AM - 6:00 PM (Daily), Sunday Service: 8:30 AM & 6:00 PM",
+    "amenities": [
+      "Street parking",
+      "Drinking water",
+      "Restrooms",
+      "Prayer books available",
+      "Information board",
+      "Security arrangements",
+      "Audio system",
+      "Wheelchair access",
+      "Memorial garden",
+      "Community hall",
+      "Library",
+      "Gift shop"
+    ],
+    "festivals": [
+      "St. Thomas Day (July 3)",
+      "Christmas (December 25)",
+      "Easter (March/April)",
+      "Good Friday",
+      "Harvest Festival",
+      "Community celebrations"
+    ],
+    "contact": "+91 33 2287 3456",
+    "nearestTransport": {
+      "railway": "Park Street Metro Station (1.5 km)",
+      "airport": "Netaji Subhas Chandra Bose International Airport (7 km)",
+      "bus": "Middleton Street Bus Stop (200 meters)"
+    },
+    "nearbyAttractions": [
+      "Park Street - 1.5 km",
+      "New Market - 1 km",
+      "Indian Museum - 2 km",
+      "Maidan - 2 km",
+      "Birla Planetarium - 2.5 km"
+    ],
+    "nearbyHotels": [
+      "Local guest houses",
+      "Budget hotels",
+      "Park Street area hotels",
+      "Central Kolkata accommodations",
+      "Business hotels"
+    ],
+    "nearbyRestaurants": [
+      "Middleton Street eateries",
+      "Local Bengali restaurants",
+      "Street food vendors",
+      "Tea stalls",
+      "Community cafes"
+    ],
+    "specialFeatures": [
+      "Dedicated to St. Thomas the Apostle",
+      "Traditional Anglican worship",
+      "Historic church building",
+      "Community-centered activities",
+      "Simple elegant architecture",
+      "Local Christian heritage",
+      "Regular prayer meetings",
+      "Peaceful worship environment"
+    ]
+  },
+  {
+    "id": "our-lady-dolours-church",
+    "name": "Our Lady of Dolours Church",
+    "type": "Church",
+    "typeColor": "bg-purple-100 text-purple-800",
+    "state": "West Bengal",
+    "location": "Sealdah, Kolkata",
+    "description": "Our Lady of Dolours Church is a Catholic church located in the Sealdah area of Kolkata. This church is dedicated to Our Lady of Sorrows and serves the local Catholic community with regular masses and religious services. The church is known for its devotional atmosphere and community involvement in social activities.",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrP3JcwmBuWWIzpASZwWJwj-VfuO-WVJr-5oLd5H7b55WN_ehuVjtl-km5GLh2_DKg9zMIUFbb3_2CCehnXtF9yy6CmvpSa_4I-ZJa1Z2heo2AQDUpxDEU6gYAyizvgBmUwPqI=s1360-w1360-h1020-rw",
+    "timings": "6:30 AM - 7:30 PM (Daily), Sunday Mass: 7:00 AM, 9:00 AM, 6:00 PM",
+    "amenities": [
+      "Parking space",
+      "Drinking water facility",
+      "Restrooms",
+      "Prayer hall",
+      "Confession booth",
+      "Religious articles shop",
+      "Community hall",
+      "Audio system",
+      "Wheelchair accessible",
+      "Security services",
+      "Information center",
+      "Candle stand"
+    ],
+    "festivals": [
+      "Feast of Our Lady of Dolours (September)",
+      "Christmas (December 25)",
+      "Easter (March/April)",
+      "Good Friday",
+      "Assumption of Mary",
+      "Immaculate Conception"
+    ],
+    "contact": "+91 33 2350 6789",
+    "nearestTransport": {
+      "railway": "Sealdah Railway Station (1 km)",
+      "airport": "Netaji Subhas Chandra Bose International Airport (12 km)",
+      "bus": "Sealdah Bus Terminus (800 meters)"
+    },
+    "nearbyAttractions": [
+      "Sealdah Railway Station - 1 km",
+      "Shyama Charan Mukherjee Street - 500 meters",
+      "College Street - 2 km",
+      "Sovabazar - 1.5 km",
+      "Kumartuli - 2 km"
+    ],
+    "nearbyHotels": [
+      "Hotels near Sealdah Station",
+      "Budget accommodations",
+      "Guest houses",
+      "Railway retiring rooms",
+      "Local lodges"
+    ],
+    "nearbyRestaurants": [
+      "Sealdah area restaurants",
+      "Local Bengali food",
+      "Railway station eateries",
+      "Street food vendors",
+      "Tea stalls"
+    ],
+    "specialFeatures": [
+      "Dedicated to Our Lady of Sorrows",
+      "Active Catholic community",
+      "Social service activities",
+      "Regular devotional programs",
+      "Community involvement",
+      "Peaceful prayer environment",
+      "Local religious heritage",
+      "Accessible location"
+    ]
+  },
+  {
+    "id": "nakhoda-mosque",
+    "name": "Nakhoda Mosque",
+    "type": "Mosque",
+    "typeColor": "bg-green-100 text-green-800",
+    "state": "West Bengal",
+    "location": "Chitpur Road, Kolkata",
+    "description": "Nakhoda Mosque is the largest mosque in Kolkata and one of the largest in India. Built in 1926, this magnificent mosque can accommodate over 10,000 worshippers. The mosque is built in the Mughal architectural style with red sandstone and features beautiful minarets, domes, and intricate carvings.",
+    "image": "https://media.gettyimages.com/id/2121056409/photo/kolkata-west-bengal-india-an-areal-view-of-the-principal-mosque-of-kolkata-nakhoda-mosque.jpg?s=612x612&w=gi&k=20&c=etaxYkHhFOpH2GEHPphf4gdlJODkWf2scFzsOEULy38=",
+    "timings": "5:00 AM - 10:00 PM (Daily), Friday Prayer: 1:00 PM",
+    "amenities": [
+      "Large parking area",
+      "Ablution facilities (Wudu)",
+      "Separate prayer area for women",
+      "Drinking water supply",
+      "Restrooms",
+      "Shoe keeping facility",
+      "Islamic bookstore",
+      "Audio system for Azaan",
+      "Air conditioning in main hall",
+      "Security arrangements",
+      "Information desk",
+      "Wheelchair accessibility"
+    ],
+    "festivals": [
+      "Eid ul-Fitr",
+      "Eid ul-Adha",
+      "Ramadan prayers",
+      "Shab-e-Barat",
+      "Shab-e-Qadr",
+      "Milad-un-Nabi"
+    ],
+    "contact": "+91 33 2350 8765",
+    "nearestTransport": {
+      "railway": "Sealdah Railway Station (2 km)",
+      "airport": "Netaji Subhas Chandra Bose International Airport (12 km)",
+      "bus": "Chitpur Road Bus Stop (200 meters)"
+    },
+    "nearbyAttractions": [
+      "Marble Palace - 1 km",
+      "Jorasanko Thakur Bari - 2 km",
+      "College Street - 2.5 km",
+      "Kumartuli - 1.5 km",
+      "Hooghly River - 3 km"
+    ],
+    "nearbyHotels": [
+      "Hotels in Central Kolkata",
+      "Budget accommodations",
+      "Guest houses",
+      "Sealdah area hotels",
+      "Railway retiring rooms"
+    ],
+    "nearbyRestaurants": [
+      "Halal restaurants nearby",
+      "Mughlai cuisine",
+      "Local Bengali food",
+      "Street food vendors",
+      "Traditional biriyani shops"
+    ],
+    "specialFeatures": [
+      "Largest mosque in Kolkata",
+      "Mughal architectural style",
+      "Beautiful red sandstone construction",
+      "Capacity for 10,000+ worshippers",
+      "Impressive minarets and domes",
+      "Historical significance",
+      "Center of Islamic culture",
+      "Regular religious education"
+    ]
+  },
+  {
+    "id": "tipu-sultan-mosque",
+    "name": "Tipu Sultan Mosque",
+    "type": "Mosque",
+    "typeColor": "bg-green-100 text-green-800",
+    "state": "West Bengal",
+    "location": "Dharmatala, Kolkata",
+    "description": "Tipu Sultan Mosque is a historic mosque located in the heart of Kolkata, built in 1832. Named after the famous ruler Tipu Sultan of Mysore, this mosque showcases Indo-Islamic architecture and serves the Muslim community in central Kolkata. The mosque is known for its beautiful design and historical significance.",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqZ0JsrNnC8Q16rrOX0uCn5JSZqk6asrHCvOHSKCxeYMWiACit29BW4qoFjlybFV-1A4uNLHd6HvnxfMKK7aOFhNupZibfoSN6wTVJMOBDhCLvCIHrUZBL43az5C42WcH8TYm6EOw=s1360-w1360-h1020-rw",
+    "timings": "5:00 AM - 9:00 PM (Daily), Friday Prayer: 1:00 PM",
+    "amenities": [
+      "Parking facility",
+      "Ablution area",
+      "Prayer hall",
+      "Drinking water",
+      "Restrooms",
+      "Shoe storage",
+      "Islamic library",
+      "Audio system",
+      "Security services",
+      "Information board",
+      "Wheelchair access",
+      "Community hall"
+    ],
+    "festivals": [
+      "Eid ul-Fitr",
+      "Eid ul-Adha",
+      "Ramadan prayers",
+      "Shab-e-Barat",
+      "Muharram",
+      "Milad-un-Nabi"
+    ],
+    "contact": "+91 33 2225 9876",
+    "nearestTransport": {
+      "railway": "Esplanade Metro Station (500 meters)",
+      "airport": "Netaji Subhas Chandra Bose International Airport (9 km)",
+      "bus": "Dharmatala Bus Stop (300 meters)"
+    },
+    "nearbyAttractions": [
+      "New Market - 500 meters",
+      "Park Street - 1 km",
+      "Maidan - 1 km",
+      "Indian Museum - 1.5 km",
+      "Victoria Memorial - 2 km"
+    ],
+    "nearbyHotels": [
+      "Central Kolkata hotels",
+      "Budget accommodations",
+      "Business hotels",
+      "Guest houses",
+      "Heritage hotels"
+    ],
+    "nearbyRestaurants": [
+      "Halal restaurants",
+      "Mughlai cuisine",
+      "New Market eateries",
+      "Street food",
+      "Traditional biriyani"
+    ],
+    "specialFeatures": [
+      "Named after Tipu Sultan",
+      "Indo-Islamic architecture",
+      "Historical significance",
+      "Central location",
+      "Beautiful design elements",
+      "Community gathering place",
+      "Regular religious activities",
+      "Cultural heritage site"
+    ]
+  },
+  {
+    "id": "adina-mosque",
+    "name": "Adina Mosque",
+    "type": "Mosque",
+    "typeColor": "bg-green-100 text-green-800",
+    "state": "West Bengal",
+    "location": "Pandua, Malda",
+    "description": "The Adina Mosque, located in Pandua, Malda, West Bengal, is a historic royal mosque built during the Bengal Sultanate. It was once the largest mosque in the Indian subcontinent and is now a preserved monument. Constructed in 1373–1375 by Sikandar Shah, the mosque reflects the imperial aspirations of the Ilyas Shahi dynasty after its victories over the Delhi Sultanate.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTE4WKRGOEoHlH7HTaSO3k-QdSNd2gz9kjTA&s",
+    "timings": "6:00 AM - 6:00 PM (Daily) - Historical Monument",
+    "amenities": [
+      "Archaeological site parking",
+      "Guided tours available",
+      "Information boards",
+      "Photography allowed",
+      "Historical displays",
+      "Drinking water facility",
+      "Restrooms",
+      "Security arrangements",
+      "Wheelchair accessible paths",
+      "Educational materials",
+      "Research facilities",
+      "Monument preservation"
+    ],
+    "festivals": [
+      "Heritage Day celebrations",
+      "Archaeological exhibitions",
+      "Cultural programs",
+      "Educational tours",
+      "Historical commemorations",
+      "Research conferences"
+    ],
+    "contact": "+91 3512 222 456",
+    "nearestTransport": {
+      "railway": "Malda Town Railway Station (12 km)",
+      "airport": "Bagdogra Airport (200 km)",
+      "bus": "Pandua Bus Stand (2 km)"
+    },
+    "nearbyAttractions": [
+      "Gour Archaeological Site - 5 km",
+      "Baro Shona Masjid - 8 km",
+      "Choto Sona Masjid - 10 km",
+      "Malda Museum - 12 km",
+      "Ramkeli - 15 km"
+    ],
+    "nearbyHotels": [
+      "Malda Heritage Hotel",
+      "Tourist Lodge Malda",
+      "Local guest houses",
+      "Archaeological rest house",
+      "Budget accommodations"
+    ],
+    "nearbyRestaurants": [
+      "Local Bengali restaurants",
+      "Traditional food stalls",
+      "Malda city eateries",
+      "Tea gardens",
+      "Regional cuisine centers"
+    ],
+    "specialFeatures": [
+      "Largest mosque in medieval India",
+      "Built by Sikandar Shah (1373-1375)",
+      "Dimensions: 172m × 97m",
+      "260 pillars and 387 domed bays",
+      "Monumental ribbed barrel vault",
+      "Persian architectural influences",
+      "Sultan's tomb within complex",
+      "UNESCO heritage significance"
+    ]
+  },
+  {
+    "id": "baro-shona-masjid",
+    "name": "Baro Shona Masjid",
+    "type": "Mosque",
+    "typeColor": "bg-green-100 text-green-800",
+    "state": "West Bengal",
+    "location": "Gour, Malda",
+    "description": "The Baro Shona Masjid (Great Golden Mosque), also known as the Baroduari Masjid (12-Gated Mosque), is a historic Indo-Islamic monument in Gour, Malda. Built in 1526 CE by Nasiruddin Nasrat Shah, it is the largest monument in Gour. The mosque was originally decorated with glazed colored tile mosaics and had 44 gilded domes.",
+    "image": "https://content.jdmagicbox.com/comp/malda/i9/9999p3512.3512.190827060211.a1i9/catalogue/boro-sona-masjid-gour-malda-mosques-eibitzjaow.jpg",
+    "timings": "6:00 AM - 6:00 PM (Daily) - Historical Monument",
+    "amenities": [
+      "Archaeological parking",
+      "Heritage site tours",
+      "Information displays",
+      "Photography permitted",
+      "Historical documentation",
+      "Drinking water",
+      "Visitor facilities",
+      "Security services",
+      "Accessible pathways",
+      "Educational resources",
+      "Research center",
+      "Monument conservation"
+    ],
+    "festivals": [
+      "Heritage conservation events",
+      "Archaeological exhibitions",
+      "Cultural heritage programs",
+      "Educational workshops",
+      "Historical commemorations",
+      "Tourism festivals"
+    ],
+    "contact": "+91 3512 223 567",
+    "nearestTransport": {
+      "railway": "Malda Town Railway Station (12 km)",
+      "airport": "Bagdogra Airport (200 km)",
+      "bus": "Gour Bus Stand (2 km)"
+    },
+    "nearbyAttractions": [
+      "Adina Mosque - 8 km",
+      "Choto Sona Masjid - 5 km",
+      "Gour Archaeological Complex - 1 km",
+      "Ramkeli - 10 km",
+      "Malda Museum - 12 km"
+    ],
+    "nearbyHotels": [
+      "Gour Heritage Lodge",
+      "Malda Tourist Hotel",
+      "Archaeological guest house",
+      "Local accommodations",
+      "Heritage homestays"
+    ],
+    "nearbyRestaurants": [
+      "Heritage site cafeteria",
+      "Local Bengali cuisine",
+      "Traditional food vendors",
+      "Malda regional dishes",
+      "Tea stalls"
+    ],
+    "specialFeatures": [
+      "Built by Nasiruddin Nasrat Shah (1526)",
+      "Largest monument in Gour",
+      "Originally had 44 gilded domes",
+      "Dimensions: 51m × 23m",
+      "12 arched entrances (11 remain)",
+      "Glazed tile mosaic decoration",
+      "Indo-Islamic architecture",
+      "Monument of National Importance"
+    ]
+  },
+  {
+    "id": "choto-sona-masjid",
+    "name": "Choto Sona Masjid",
+    "type": "Mosque",
+    "typeColor": "bg-green-100 text-green-800",
+    "state": "West Bengal",
+    "location": "Gour, Malda",
+    "description": "Choto Sona Masjid, also known as the \"Small Golden Mosque,\" was built during the reign of Sultan Alauddin Husain Shah (1493–1519). This mosque is famous for its intricate stone carvings and once had gilded domes, giving it the name \"Sona\" (gold). It represents the finest example of Bengali Islamic architecture.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Choto_Shona_Mosque_Rajshahi.jpg",
+    "timings": "6:00 AM - 6:00 PM (Daily) - Historical Monument",
+    "amenities": [
+      "Heritage site parking",
+      "Archaeological tours",
+      "Information panels",
+      "Photography allowed",
+      "Historical exhibits",
+      "Drinking water supply",
+      "Visitor restrooms",
+      "Security monitoring",
+      "Accessible routes",
+      "Educational materials",
+      "Research documentation",
+      "Conservation facilities"
+    ],
+    "festivals": [
+      "Archaeological heritage days",
+      "Cultural exhibitions",
+      "Educational programs",
+      "Historical tours",
+      "Conservation awareness",
+      "Tourism events"
+    ],
+    "contact": "+91 3512 224 678",
+    "nearestTransport": {
+      "railway": "Malda Town Railway Station (15 km)",
+      "airport": "Bagdogra Airport (205 km)",
+      "bus": "Gour Bus Terminal (3 km)"
+    },
+    "nearbyAttractions": [
+      "Baro Shona Masjid - 5 km",
+      "Adina Mosque - 10 km",
+      "Gour Fort - 2 km",
+      "Archaeological Museum - 3 km",
+      "Firoz Minar - 4 km"
+    ],
+    "nearbyHotels": [
+      "Malda Heritage Resort",
+      "Archaeological rest house",
+      "Gour tourist lodge",
+      "Local guest houses",
+      "Heritage accommodations"
+    ],
+    "nearbyRestaurants": [
+      "Archaeological site canteen",
+      "Local Bengali restaurants",
+      "Traditional food stalls",
+      "Regional cuisine",
+      "Heritage cafes"
+    ],
+    "specialFeatures": [
+      "Built during Alauddin Husain Shah era",
+      "Intricate stone carvings",
+      "Originally had gilded domes",
+      "Finest Bengali Islamic architecture",
+      "Terracotta decorations",
+      "Historical significance",
+      "Archaeological importance",
+      "Cultural heritage monument"
+    ]
+  },
+  {
+    "id": "katra-mosque",
+    "name": "Katra Mosque",
+    "type": "Mosque",
+    "typeColor": "bg-green-100 text-green-800",
+    "state": "West Bengal",
+    "location": "Murshidabad, West Bengal",
+    "description": "Katra Mosque was constructed between 1723 and 1724 by Nawab Murshid Quli Khan, the first Nawab of Bengal. This mosque also houses his tomb and is one of the oldest and most historically significant mosques in West Bengal. The mosque represents the architectural style of the Nawabi period.",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npDLAwsQPMN8Kfa4uJqX1VoFGMB3iyQzDcWMY4ThOLh4xrevnrB6QHLZ2m-AUtQShLkX8-HlrtQnOVpYIBtq-zG0ieCMKu05p5KcPnFY2FN0Rad25T1zv5TwwAqTk6DWo6G3O_fNQ=s1360-w1360-h1020-rw",
+    "timings": "5:00 AM - 9:00 PM (Daily), Friday Prayer: 1:00 PM",
+    "amenities": [
+      "Parking facility",
+      "Ablution areas",
+      "Prayer halls",
+      "Drinking water",
+      "Restrooms",
+      "Shoe storage",
+      "Historical displays",
+      "Audio system",
+      "Security services",
+      "Information center",
+      "Wheelchair access",
+      "Tourist facilities"
+    ],
+    "festivals": [
+      "Eid ul-Fitr",
+      "Eid ul-Adha",
+      "Ramadan prayers",
+      "Shab-e-Barat",
+      "Milad-un-Nabi",
+      "Historical commemorations"
+    ],
+    "contact": "+91 3482 270 123",
+    "nearestTransport": {
+      "railway": "Murshidabad Railway Station (2 km)",
+      "airport": "Netaji Subhas Chandra Bose International Airport (220 km)",
+      "bus": "Murshidabad Bus Stand (1 km)"
+    },
+    "nearbyAttractions": [
+      "Hazarduari Palace - 1 km",
+      "Nasipur Palace - 2 km",
+      "Motijheel Park - 1.5 km",
+      "Murshidabad Museum - 1 km",
+      "Bhagirathi River - 500 meters"
+    ],
+    "nearbyHotels": [
+      "Murshidabad Heritage Hotel",
+      "Nawab Lodge",
+      "Palace View Guest House",
+      "Tourist accommodation",
+      "Heritage homestays"
+    ],
+    "nearbyRestaurants": [
+      "Nawabi cuisine restaurants",
+      "Local Bengali food",
+      "Murshidabad specialties",
+      "Traditional biriyani",
+      "Heritage dining"
+    ],
+    "specialFeatures": [
+      "Built by Nawab Murshid Quli Khan (1723-24)",
+      "Houses Nawab's tomb",
+      "Nawabi architectural style",
+      "Historical significance",
+      "First Nawab of Bengal's legacy",
+      "Cultural heritage monument",
+      "Traditional Islamic design",
+      "Tourist attraction"
+    ]
+  },
+  {
+    "id": "furfura-sharif-mosque",
+    "name": "Furfura Sharif Mosque",
+    "type": "Mosque",
+    "typeColor": "bg-green-100 text-green-800",
+    "state": "West Bengal",
+    "location": "Furfura Sharif, Hooghly",
+    "description": "Furfura Sharif Mosque was established in 1375 and gained prominence under Hazrat Abu Bakr Siddique in the 19th century. It is a significant pilgrimage site, especially during the annual Urs festival. The mosque and shrine complex represents the Sufi tradition in Bengal.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Furfura_Mazar.jpg/500px-Furfura_Mazar.jpg",
+    "timings": "5:00 AM - 10:00 PM (Daily), Special timings during Urs",
+    "amenities": [
+      "Large parking area",
+      "Ablution facilities",
+      "Prayer halls",
+      "Drinking water supply",
+      "Restrooms",
+      "Shoe keeping",
+      "Shrine complex",
+      "Langar facility",
+      "Audio system",
+      "Security services",
+      "Information desk",
+      "Pilgrim accommodation"
+    ],
+    "festivals": [
+      "Annual Urs Festival",
+      "Eid ul-Fitr",
+      "Eid ul-Adha",
+      "Ramadan prayers",
+      "Shab-e-Barat",
+      "Milad-un-Nabi"
+    ],
+    "contact": "+91 3211 245 789",
+    "nearestTransport": {
+      "railway": "Furfura Sharif Railway Station (1 km)",
+      "airport": "Netaji Subhas Chandra Bose International Airport (80 km)",
+      "bus": "Furfura Sharif Bus Stand (500 meters)"
+    },
+    "nearbyAttractions": [
+      "Hooghly River - 5 km",
+      "Chinsurah - 15 km",
+      "Bandel Church - 20 km",
+      "Serampore - 25 km",
+      "Chandannagar - 30 km"
+    ],
+    "nearbyHotels": [
+      "Furfura Sharif Guest House",
+      "Pilgrim accommodations",
+      "Local lodges",
+      "Sufi retreat centers",
+      "Heritage stays"
+    ],
+    "nearbyRestaurants": [
+      "Langar at shrine",
+      "Halal restaurants",
+      "Local Bengali cuisine",
+      "Traditional food stalls",
+      "Pilgrim eateries"
+    ],
+    "specialFeatures": [
+      "Established in 1375",
+      "Hazrat Abu Bakr Siddique's legacy",
+      "Sufi tradition center",
+      "Annual Urs pilgrimage",
+      "Shrine and mosque complex",
+      "Spiritual healing center",
+      "Cultural heritage site",
+      "Religious education center"
+    ]
+  },
+  {
+    "id": "gurudwara-bari-sangat",
+    "name": "Gurudwara Bari Sangat",
+    "type": "Gurudwara",
+    "typeColor": "bg-blue-100 text-blue-800",
+    "state": "West Bengal",
+    "location": "Burrabazar, Kolkata",
+    "description": "Gurudwara Bari Sangat is one of the oldest and most prominent Sikh temples in Kolkata, located in the historic Burrabazar area. This gurudwara serves the Sikh community and welcomes people of all faiths. It is known for its langar (community kitchen), religious services, and cultural activities that promote Sikh values and traditions.",
+    "image": "https://www.discoversikhism.com/images/gurdwara/gurdwara_sri_badi_sangat_sahib_kolkata/gurdwara_sri_badi_sangat_sahib_kolkata1.jpg",
+    "timings": "4:00 AM - 10:00 PM (Daily), Morning Prayer: 5:00 AM, Evening Prayer: 7:00 PM",
+    "amenities": [
+      "Parking facility",
+      "Langar hall (free community kitchen)",
+      "Prayer hall (Darbar Sahib)",
+      "Drinking water supply",
+      "Restrooms and washrooms",
+      "Shoe keeping area",
+      "Guest accommodation",
+      "Library with religious books",
+      "Audio system for kirtan",
+      "Security services",
+      "Information desk",
+      "Wheelchair accessibility"
+    ],
+    "festivals": [
+      "Guru Nanak Jayanti (November)",
+      "Guru Gobind Singh Jayanti (January)",
+      "Baisakhi (April)",
+      "Diwali celebrations",
+      "Hola Mohalla",
+      "Martyrdom days of Gurus"
+    ],
+    "contact": "+91 33 2230 5678",
+    "nearestTransport": {
+      "railway": "Howrah Railway Station (2 km)",
+      "airport": "Netaji Subhas Chandra Bose International Airport (12 km)",
+      "bus": "Burrabazar Bus Stop (300 meters)"
+    },
+    "nearbyAttractions": [
+      "Howrah Bridge - 1 km",
+      "Flower Market - 500 meters",
+      "Mullik Ghat - 1 km",
+      "Armenian Church - 1.5 km",
+      "Hooghly River - 1 km"
+    ],
+    "nearbyHotels": [
+      "Hotels near Howrah Station",
+      "Gurudwara guest house",
+      "Budget accommodations",
+      "Business hotels",
+      "Railway retiring rooms"
+    ],
+    "nearbyRestaurants": [
+      "Langar at Gurudwara (free)",
+      "Punjabi restaurants",
+      "Local Bengali eateries",
+      "Street food vendors",
+      "Traditional dhabas"
+    ],
+    "specialFeatures": [
+      "Historic Sikh temple in Kolkata",
+      "Free langar for all visitors",
+      "Traditional Sikh architecture",
+      "Community service center",
+      "Regular kirtan and prayers",
+      "Cultural programs",
+      "Educational activities",
+      "Interfaith harmony promotion"
+    ]
+  },
+  {
+    "id": "gurudwara-guru-nanak-darbar",
+    "name": "Gurudwara Guru Nanak Darbar",
+    "type": "Gurudwara",
+    "typeColor": "bg-blue-100 text-blue-800",
+    "state": "West Bengal",
+    "location": "Shyama Charan Mukherjee Street, Kolkata",
+    "description": "Gurudwara Guru Nanak Darbar is a significant Sikh temple dedicated to Guru Nanak Dev Ji, the founder of Sikhism. Located in central Kolkata, this gurudwara serves the local Sikh community and promotes the teachings of Guru Nanak. The gurudwara is known for its peaceful atmosphere and regular religious activities.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7pYHF2qI_L1uF9dz5pxBYIYdR2UXUGfPFUA&s",
+    "timings": "5:00 AM - 9:00 PM (Daily), Morning Prayer: 6:00 AM, Evening Prayer: 7:00 PM",
+    "amenities": [
+      "Parking space",
+      "Langar hall",
+      "Main prayer hall",
+      "Drinking water facility",
+      "Restrooms",
+      "Shoe storage",
+      "Guest rooms",
+      "Religious bookstore",
+      "Audio system",
+      "Security arrangements",
+      "Information center",
+      "Wheelchair access"
+    ],
+    "festivals": [
+      "Guru Nanak Jayanti (November)",
+      "Guru Gobind Singh Jayanti",
+      "Baisakhi (April)",
+      "Diwali",
+      "Hola Mohalla",
+      "Guru Arjan Dev Martyrdom Day"
+    ],
+    "contact": "+91 33 2350 9012",
+    "nearestTransport": {
+      "railway": "Sealdah Railway Station (1.5 km)",
+      "airport": "Netaji Subhas Chandra Bose International Airport (12 km)",
+      "bus": "Shyama Charan Mukherjee Street Bus Stop (200 meters)"
+    },
+    "nearbyAttractions": [
+      "College Street - 1 km",
+      "Presidency University - 1.5 km",
+      "Coffee House - 1 km",
+      "Sovabazar - 1 km",
+      "Marble Palace - 2 km"
+    ],
+    "nearbyHotels": [
+      "Central Kolkata hotels",
+      "Gurudwara accommodation",
+      "Budget guest houses",
+      "Student hostels",
+      "Local lodges"
+    ],
+    "nearbyRestaurants": [
+      "Gurudwara langar",
+      "Punjabi cuisine",
+      "College Street eateries",
+      "Local Bengali food",
+      "Vegetarian restaurants"
+    ],
+    "specialFeatures": [
+      "Dedicated to Guru Nanak Dev Ji",
+      "Central Kolkata location",
+      "Regular religious services",
+      "Community welfare activities",
+      "Educational programs",
+      "Cultural celebrations",
+      "Peaceful prayer environment",
+      "Sikh heritage preservation"
+    ]
+  },
+  {
+    "id": "gurudwara-singh-sabha",
+    "name": "Gurudwara Singh Sabha",
+    "type": "Gurudwara",
+    "typeColor": "bg-blue-100 text-blue-800",
+    "state": "West Bengal",
+    "location": "Ripon Street, Kolkata",
+    "description": "Gurudwara Singh Sabha is an important Sikh temple located on Ripon Street in Kolkata. This gurudwara follows the Singh Sabha movement principles and serves the Sikh community with religious services, educational programs, and social activities. The gurudwara is known for its commitment to Sikh traditions and community service.",
+    "image": "https://content3.jdmagicbox.com/comp/kolkata/y3/033pxx33.xx33.220309090750.x5y3/catalogue/gurdwara-sri-guru-singh-sabha-kalighat-kolkata-gurudwaras-h1j9tzn2oh.jpg",
+    "timings": "4:30 AM - 9:30 PM (Daily), Morning Prayer: 5:30 AM,Evening Prayer: 7:30 PM",
+    "amenities": [
+      "Parking area",
+      "Community kitchen (Langar)",
+      "Prayer hall (Darbar)",
+      "Drinking water points",
+      "Clean restrooms",
+      "Shoe keeping facility",
+      "Accommodation for pilgrims",
+      "Library and reading room",
+      "Audio-visual system",
+      "Security services",
+      "Information desk",
+      "Wheelchair accessible"
+    ],
+    "festivals": [
+      "Guru Nanak Jayanti",
+      "Guru Gobind Singh Jayanti",
+      "Baisakhi festival",
+      "Diwali celebrations",
+      "Hola Mohalla",
+      "All Guru martyrdom days"
+    ],
+    "contact": "+91 33 2225 3456",
+    "nearestTransport": {
+      "railway": "Park Street Metro Station (1 km)",
+      "airport": "Netaji Subhas Chandra Bose International Airport (8 km)",
+      "bus": "Ripon Street Bus Stop (100 meters)"
+    },
+    "nearbyAttractions": [
+      "New Market - 500 meters",
+      "Park Street - 1 km",
+      "Indian Museum - 1.5 km",
+      "Maidan - 1.5 km",
+      "St. Paul's Cathedral - 1 km"
+    ],
+    "nearbyHotels": [
+      "Park Street area hotels",
+      "Gurudwara guest rooms",
+      "Central Kolkata hotels",
+      "Budget accommodations",
+      "Heritage hotels"
+    ],
+    "nearbyRestaurants": [
+      "Gurudwara langar (free)",
+      "Punjabi restaurants",
+      "Park Street eateries",
+      "Vegetarian food centers",
+      "Traditional dhabas"
+    ],
+    "specialFeatures": [
+      "Singh Sabha movement heritage",
+      "Traditional Sikh architecture",
+      "Regular kirtan programs",
+      "Community education center",
+      "Social service activities",
+      "Cultural preservation",
+      "Interfaith dialogue",
+      "Youth development programs"
+    ]
+  },
+  {
+    "id": "gurudwara-sri-badi-sangat-sahib",
+    "name": "Gurudwara Sri Badi Sangat Sahib",
+    "type": "Gurudwara",
+    "typeColor": "bg-blue-100 text-blue-800",
+    "state": "West Bengal",
+    "location": "Barabazar Market, Kolkata",
+    "description": "Gurdwara Sri Badi Sangat Sahib is a historic Sikh place of worship located in the Barabazar Market area of Kolkata. It holds great significance as it was visited by both Sri Guru Nanak Sahib Ji and Sri Guru Tegh Bahadur Sahib Ji during their travels. This gurudwara has been blessed by two Gurus and serves as an important center of Sikh faith.",
+    "image": "https://www.discoversikhism.com/images/gurdwara/gurdwara_sri_badi_sangat_sahib_kolkata/gurdwara_sri_badi_sangat_sahib_kolkata1.jpg",
+    "timings": "4:00 AM - 10:00 PM (Daily), Morning Prayer: 5:00 AM, Evening Prayer: 7:00 PM",
+    "amenities": [
+      "Large parking facility",
+      "Langar Hall (free community kitchen)",
+      "Diwan Hall for religious discourses",
+      "Library with Sikh literature",
+      "Accommodation (Sarai) for pilgrims",
+      "Charitable services",
+      "Medical aid facilities",
+      "Education and welfare programs",
+      "Audio system for prayers",
+      "Security arrangements",
+      "Information desk",
+      "Wheelchair accessibility"
+    ],
+    "festivals": [
+      "Guru Nanak Jayanti (November)",
+      "Guru Tegh Bahadur Martyrdom Day",
+      "Baisakhi (April)",
+      "Guru Gobind Singh Jayanti",
+      "Diwali celebrations",
+      "Hola Mohalla"
+    ],
+    "contact": "+91 33 2230 4567",
+    "nearestTransport": {
+      "railway": "Howrah Junction (4 km)",
+      "airport": "Netaji Subhas Chandra Bose International Airport (12 km)",
+      "bus": "Barabazar Bus Stop (200 meters)"
+    },
+    "nearbyAttractions": [
+      "Howrah Bridge - 1.5 km",
+      "Flower Market - 800 meters",
+      "Armenian Church - 1 km",
+      "Marble Palace - 2 km",
+      "Hooghly River - 2 km"
+    ],
+    "nearbyHotels": [
+      "Hotels near Howrah Station",
+      "Gurudwara accommodation",
+      "Budget hotels in Central Kolkata",
+      "Business hotels",
+      "Railway retiring rooms"
+    ],
+    "nearbyRestaurants": [
+      "Guru Ka Langar (free meals)",
+      "Punjabi restaurants",
+      "Local Bengali eateries",
+      "Halal food centers",
+      "Traditional dhabas"
+    ],
+    "specialFeatures": [
+      "Visited by Guru Nanak (1510) and Guru Tegh Bahadur (1668)",
+      "Historic significance in Sikh heritage",
+      "Continuous religious programs since 1510",
+      "24-hour Guru Ka Langar service",
+      "Community welfare initiatives",
+      "Educational and medical services",
+      "Interfaith harmony promotion",
+      "Cultural preservation center"
+    ]
+  },
+  {
+    "id": "gurudwara-jagat-sudhar",
+    "name": "Gurudwara Jagat Sudhar",
+    "type": "Gurudwara",
+    "typeColor": "bg-blue-100 text-blue-800",
+    "state": "West Bengal",
+    "location": "Kolkata, West Bengal",
+    "description": "Gurudwara Jagat Sudhar is a Sikh place of worship that embodies the principle of \"World's Reform\". This gurudwara serves as a center for spiritual discourse, prayer, and community service, following the teachings of Guru Granth Sahib and promoting Sikh values of selfless service, righteousness, and spiritual upliftment.",
+    "image": "https://content.jdmagicbox.com/v2/comp/kolkata/35/033p602635/catalogue/jagat-sudhar-gurdwara-kalighat-kolkata-gurudwaras-JlQBK95z2U-250.jpg",
+    "timings": "4:30 AM - 9:30 PM (Daily), Morning Prayer: 5:30 AM, Evening Prayer: 7:30 PM",
+    "amenities": [
+      "Parking facility",
+      "Langar Hall (community kitchen)",
+      "Prayer hall with Guru Granth Sahib",
+      "Drinking water supply",
+      "Clean restrooms",
+      "Shoe keeping area",
+      "Community hall for events",
+      "Educational programs",
+      "Audio system for kirtan",
+      "Security services",
+      "Information desk",
+      "Wheelchair accessibility"
+    ],
+    "festivals": [
+      "Guru Nanak Jayanti",
+      "Guru Gobind Singh Jayanti",
+      "Baisakhi",
+      "Diwali",
+      "Hola Mohalla",
+      "All Guru martyrdom days"
+    ],
+    "contact": "+91 33 2456 7890",
+    "nearestTransport": {
+      "railway": "Kalighat Metro Station (1 km)",
+      "airport": "Netaji Subhas Chandra Bose International Airport (8 km)",
+      "bus": "Kalighat Bus Stop (500 meters)"
+    },
+    "nearbyAttractions": [
+      "Kalighat Kali Temple - 500 meters",
+      "Mother Teresa's House - 1.5 km",
+      "Victoria Memorial - 2 km",
+      "Birla Planetarium - 2.5 km",
+      "Rabindra Sarovar - 1 km"
+    ],
+    "nearbyHotels": [
+      "Kalighat area hotels",
+      "Gurudwara accommodation",
+      "Budget guest houses",
+      "Central Kolkata hotels",
+      "Heritage accommodations"
+    ],
+    "nearbyRestaurants": [
+      "Gurudwara langar (free)",
+      "Punjabi restaurants",
+      "Local Bengali cuisine",
+      "Vegetarian food centers",
+      "Traditional dhabas"
+    ],
+    "specialFeatures": [
+      "Embodies 'World's Reform' principle",
+      "Community service center",
+      "Regular spiritual discourses",
+      "Educational and welfare programs",
+      "Interfaith harmony promotion",
+      "Cultural preservation activities",
+      "Youth development initiatives",
+      "Social upliftment programs"
+    ]
+  },
+  {
+    "id": "ajanta-caves",
+    "name": "Ajanta Caves",
+    "state": "maharashtra",
+    "type": "temple",
+    "location": "Aurangabad, Maharashtra",
+    "image": "https://images.pexels.com/photos/3573382/pexels-photo-3573382.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "UNESCO World Heritage Site featuring ancient Buddhist rock-cut caves with exquisite paintings.",
+    "timings": "9:00 AM - 5:30 PM (Closed on Mondays)",
+    "entryFee": "₹40 for Indians, ₹600 for foreigners",
+    "bestTime": "October to March",
+    "facilities": ["Parking", "Audio Guide", "Museum", "Cafeteria"],
+    "address": "Ajanta Caves, Aurangabad, Maharashtra 431117",
+    "howToReach": "Aurangabad Airport is 99 km away. Bus services available from Aurangabad.",
+    "nearbyHotels": ["The Fern An Ecotel Hotel", "Hotel Kailas", "MTDC Holiday Resort"],
+    "festivals": "Buddha Purnima",
+    "photography": "Photography allowed with additional charges, no flash inside caves"
+  },
+  {
+    "id": "ellora-caves",
+    "name": "Ellora Caves",
+    "state": "maharashtra",
+    "type": "temple",
+    "location": "Aurangabad, Maharashtra",
+    "image": "https://images.pexels.com/photos/3573382/pexels-photo-3573382.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "UNESCO World Heritage Site with rock-cut caves representing Hindu, Buddhist, and Jain traditions.",
+    "timings": "6:00 AM - 6:00 PM (Closed on Tuesdays)",
+    "entryFee": "₹40 for Indians, ₹600 for foreigners",
+    "bestTime": "October to March",
+    "facilities": ["Parking", "Audio Guide", "Museum", "Restrooms"],
+    "address": "Ellora Caves, Aurangabad, Maharashtra 431102",
+    "howToReach": "Aurangabad Airport is 30 km away. Regular bus services from Aurangabad.",
+    "nearbyHotels": ["Vivanta Aurangabad", "Lemon Tree Hotel", "Hotel Panchavati"],
+    "festivals": "Mahashivratri, Ellora Festival",
+    "photography": "Photography allowed with charges, restrictions in certain caves"
+  },
+  {
+    "id": "somnath-temple",
+    "name": "Somnath Temple",
+    "state": "gujarat",
+    "type": "temple",
+    "location": "Somnath, Gujarat",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "One of the twelve Jyotirlinga temples, first among the twelve sacred shrines of Shiva.",
+    "timings": "6:00 AM - 9:00 PM",
+    "entryFee": "Free",
+    "bestTime": "October to March",
+    "facilities": ["Parking", "Prasadam Counter", "Museum", "Light & Sound Show"],
+    "address": "Somnath, Gujarat 362268",
+    "howToReach": "Diu Airport is 63 km away. Veraval railway station is 7 km away.",
+    "nearbyHotels": ["The Fern Residency", "Hotel Abhishek", "Safari Hotel & Resort"],
+    "festivals": "Mahashivratri, Kartik Purnima",
+    "photography": "Photography allowed in temple premises"
+  },
+  {
+    "id": "red-fort-delhi",
+    "name": "Red Fort",
+    "state": "delhi",
+    "type": "mosque",
+    "location": "Delhi",
+    "image": "https://images.pexels.com/photos/9867550/pexels-photo-9867550.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "UNESCO World Heritage Site, the main residence of the Mughal emperors for nearly 200 years.",
+    "timings": "9:30 AM - 4:30 PM (Closed on Mondays)",
+    "entryFee": "₹35 for Indians, ₹500 for foreigners",
+    "bestTime": "October to March",
+    "facilities": ["Parking", "Audio Guide", "Museum", "Light & Sound Show"],
+    "address": "Netaji Subhash Marg, Lal Qila, Chandni Chowk, New Delhi, Delhi 110006",
+    "howToReach": "Chandni Chowk Metro Station is nearby. Well connected by road.",
+    "nearbyHotels": ["The Imperial New Delhi", "Maidens Hotel", "Hotel Broadway"],
+    "festivals": "Independence Day celebrations",
+    "photography": "Photography allowed with additional charges"
+  },
+  {
+    "id": "jama-masjid-delhi",
+    "name": "Jama Masjid",
+    "state": "delhi",
+    "type": "mosque",
+    "location": "Delhi",
+    "image": "https://images.pexels.com/photos/9867550/pexels-photo-9867550.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "One of the largest mosques in India, built by Mughal Emperor Shah Jahan.",
+    "timings": "7:00 AM - 12:00 PM, 1:30 PM - 6:30 PM",
+    "entryFee": "Free",
+    "bestTime": "October to March",
+    "facilities": ["Parking", "Ablution Area", "Minaret Climbing"],
+    "address": "Jama Masjid Rd, Jama Masjid, Chandni Chowk, New Delhi, Delhi 110006",
+    "howToReach": "Chawri Bazar Metro Station is nearby. Auto-rickshaws and buses available.",
+    "nearbyHotels": ["Hotel Tara Palace", "Hotel City Palace", "Broadway Hotel"],
+    "festivals": "Eid celebrations, Ramadan",
+    "photography": "Photography allowed, additional charges for camera"
+  },
+  {
+    "id": "golden-temple",
+    "name": "Golden Temple",
+    "state": "punjab",
+    "type": "gurudwara",
+    "location": "Amritsar, Punjab",
+    "image": "https://images.pexels.com/photos/10564425/pexels-photo-10564425.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "The holiest shrine of Sikhism, known for its stunning golden architecture and spiritual significance.",
+    "timings": "24 hours open",
+    "entryFee": "Free",
+    "bestTime": "October to March",
+    "facilities": ["Free Accommodation", "Langar (Free Meals)", "Parking", "Shoe Storage"],
+    "address": "Golden Temple Rd, Atta Mandi, Katra Ahluwalia, Amritsar, Punjab 143006",
+    "howToReach": "Amritsar Airport is 11 km away. Well connected by road and rail.",
+    "nearbyHotels": ["Taj Swarna Amritsar", "Hyatt Amritsar", "Hotel Hong Kong Inn"],
+    "festivals": "Guru Nanak Jayanti, Baisakhi, Diwali",
+    "photography": "Photography allowed, respectful behavior required"
+  },
+  {
+    "id": "gurudwara-bangla-sahib",
+    "name": "Gurudwara Bangla Sahib",
+    "state": "delhi",
+    "type": "gurudwara",
+    "location": "Delhi",
+    "image": "https://images.pexels.com/photos/9867550/pexels-photo-9867550.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "One of the most prominent Sikh gurudwaras in Delhi, known for its golden dome and sarovar.",
+    "timings": "24 hours open",
+    "entryFee": "Free",
+    "bestTime": "October to March",
+    "facilities": ["Langar Hall", "Parking", "Medical Dispensary", "Library"],
+    "address": "Ashoka Rd, Hanuman Rd Area, Connaught Place, New Delhi, Delhi 110001",
+    "howToReach": "Rajiv Chowk Metro Station is nearby. Well connected by road.",
+    "nearbyHotels": ["The Imperial New Delhi", "Hotel Connaught", "The Park New Delhi"],
+    "festivals": "Guru Tegh Bahadur Jayanti, Guru Nanak Jayanti",
+    "photography": "Photography allowed with respect to religious sentiments"
+  },
+  {
+    "id": "charminar",
+    "name": "Charminar",
+    "state": "telangana",
+    "type": "mosque",
+    "location": "Hyderabad, Telangana",
+    "image": "https://images.pexels.com/photos/4825701/pexels-photo-4825701.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "Iconic monument and mosque built in 1591, symbol of Hyderabad with four grand arches and minarets.",
+    "timings": "9:00 AM - 5:30 PM",
+    "entryFee": "₹25 for Indians, ₹300 for foreigners",
+    "bestTime": "October to March",
+    "facilities": ["Parking", "Security", "Shops", "Restrooms"],
+    "address": "Charminar Rd, Char Kaman, Ghansi Bazaar, Hyderabad, Telangana 500002",
+    "howToReach": "Hyderabad Airport is 22 km away. Well connected by metro and road.",
+    "nearbyHotels": ["Taj Falaknuma Palace", "ITC Kakatiya", "Hotel Golkonda"],
+    "festivals": "Eid celebrations, Bonalu festival",
+    "photography": "Photography allowed"
+  },
+  {
+    "id": "thousand-pillar-temple",
+    "name": "Thousand Pillar Temple",
+    "state": "telangana",
+    "type": "temple",
+    "location": "Warangal, Telangana",
+    "image": "https://images.pexels.com/photos/4825701/pexels-photo-4825701.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "12th-century Kakatiya temple dedicated to Shiva, Vishnu, and Surya with intricate stone carvings.",
+    "timings": "6:00 AM - 8:00 PM",
+    "entryFee": "Free",
+    "bestTime": "October to March",
+    "facilities": ["Parking", "Guide Services", "Prasadam Counter", "Restrooms"],
+    "address": "Hanamkonda, Warangal, Telangana 506001",
+    "howToReach": "Warangal Railway Station is 5 km away. Regular bus services available.",
+    "nearbyHotels": ["Hotel Ashoka", "Haritha Hotel", "Hotel Ratna"],
+    "festivals": "Mahashivratri, Kakatiya Festival",
+    "photography": "Photography allowed"
+  },
+  {
+    "id": "cellular-jail",
+    "name": "Cellular Jail",
+    "state": "andaman-nicobar",
+    "type": "monument",
+    "location": "Port Blair, Andaman and Nicobar Islands",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "Historic colonial prison known as 'Kala Pani', now a national memorial showcasing India's freedom struggle.",
+    "timings": "9:00 AM - 12:30 PM, 1:30 PM - 4:45 PM",
+    "entryFee": "₹30 for Indians, ₹100 for foreigners",
+    "bestTime": "October to May",
+    "facilities": ["Museum", "Light & Sound Show", "Parking", "Cafeteria"],
+    "address": "Aberdeen Bazaar, Port Blair, Andaman and Nicobar Islands 744101",
+    "howToReach": "Port Blair Airport is 4 km away. Local buses and taxis available.",
+    "nearbyHotels": ["Sinclairs Bayview", "Hotel Shompen", "TSG Emerald View"],
+    "festivals": "Independence Day celebrations",
+    "photography": "Photography allowed in most areas"
+  },
+  {
+    "id": "ross-island-church",
+    "name": "Ross Island Church",
+    "state": "andaman-nicobar",
+    "type": "church",
+    "location": "Ross Island, Andaman and Nicobar Islands",
+    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "Ruins of a colonial-era church on the former administrative headquarters of the British.",
+    "timings": "8:30 AM - 2:30 PM",
+    "entryFee": "₹20 for Indians, ₹50 for foreigners",
+    "bestTime": "October to May",
+    "facilities": ["Ferry Service", "Guide Services", "Museum"],
+    "address": "Ross Island, South Andaman, Andaman and Nicobar Islands",
+    "howToReach": "Ferry from Aberdeen Jetty, Port Blair (20 minutes)",
+    "nearbyHotels": ["Fortune Resort Bay Island", "Hotel Sentinel", "Peerless Sarovar Portico"],
+    "festivals": "Christmas celebrations",
+    "photography": "Photography allowed"
+  },
+  {
+    "id": "aurobindo-ashram",
+    "name": "Sri Aurobindo Ashram",
+    "state": "puducherry",
+    "type": "ashram",
+    "location": "Puducherry",
+    "image": "https://images.pexels.com/photos/962464/pexels-photo-962464.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "Spiritual center founded by Sri Aurobindo and The Mother, promoting integral yoga and human unity.",
+    "timings": "8:00 AM - 12:00 PM, 2:00 PM - 6:00 PM",
+    "entryFee": "Free",
+    "bestTime": "October to March",
+    "facilities": ["Library", "Meditation Hall", "Bookstore", "Dining Hall"],
+    "address": "Rue de la Marine, White Town, Puducherry 605001",
+    "howToReach": "Puducherry Airport is 4 km away. Well connected by road and rail.",
+    "nearbyHotels": ["The Promenade", "Maison Perumal", "Villa Shanti"],
+    "festivals": "Sri Aurobindo's Birthday, The Mother's Birthday",
+    "photography": "Photography restrictions in certain areas"
+  },
+  {
+    "id": "sacred-heart-basilica",
+    "name": "Sacred Heart Basilica",
+    "state": "puducherry",
+    "type": "church",
+    "location": "Puducherry",
+    "image": "https://images.pexels.com/photos/962464/pexels-photo-962464.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "Beautiful Gothic architecture church built in 1908, one of the most important churches in South India.",
+    "timings": "6:00 AM - 12:00 PM, 4:00 PM - 8:00 PM",
+    "entryFee": "Free",
+    "bestTime": "October to March",
+    "facilities": ["Parking", "Prayer Hall", "Museum"],
+    "address": "Mission St, Heritage Town, Puducherry 605001",
+    "howToReach": "Located in the heart of Puducherry, easily accessible by auto-rickshaw.",
+    "nearbyHotels": ["Le Duplex", "Hotel Atithi", "Richmond Park Hotel"],
+    "festivals": "Christmas, Easter, Feast of Sacred Heart",
+    "photography": "Photography allowed"
+  },
+  {
+    "id": "tirumala-temple",
+    "name": "Tirumala Venkateswara Temple",
+    "state": "andhra-pradesh",
+    "type": "temple",
+    "location": "Tirumala, Andhra Pradesh",
+    "image": "https://images.pexels.com/photos/3811082/pexels-photo-3811082.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "One of the richest and most visited temples in the world, dedicated to Lord Venkateswara.",
+    "timings": "24 hours (Darshan timings vary)",
+    "entryFee": "Free (Special darshan tickets available)",
+    "bestTime": "September to March",
+    "facilities": ["Free Accommodation", "Prasadam", "Medical Center", "Parking"],
+    "address": "Tirumala Hills, Tirupati, Andhra Pradesh 517504",
+    "howToReach": "Tirupati Airport is 15 km away. Special buses and trains available.",
+    "nearbyHotels": ["Marasa Sarovar Premiere", "Hotel Bliss", "Fortune Select Grand Ridge"],
+    "festivals": "Brahmotsavam, Vaikunta Ekadashi",
+    "photography": "Photography not allowed inside temple"
+  },
+  {
+    "id": "lepakshi-temple",
+    "name": "Lepakshi Temple",
+    "state": "andhra-pradesh",
+    "type": "temple",
+    "location": "Lepakshi, Andhra Pradesh",
+    "image": "https://images.pexels.com/photos/3811082/pexels-photo-3811082.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "16th-century Vijayanagara temple famous for its hanging pillar and intricate sculptures.",
+    "timings": "6:00 AM - 6:00 PM",
+    "entryFee": "Free",
+    "bestTime": "October to March",
+    "facilities": ["Parking", "Guide Services", "Restrooms"],
+    "address": "Lepakshi, Hindupur, Anantapur, Andhra Pradesh 515331",
+    "howToReach": "Bangalore Airport is 120 km away. Regular bus services from Hindupur.",
+    "nearbyHotels": ["Haritha Hotel Lepakshi", "Hotel Mayura", "APTDC Guest House"],
+    "festivals": "Maha Shivaratri, Kalyanam festival",
+    "photography": "Photography allowed"
+  }
+]
