@@ -1,0 +1,242 @@
+[
+  {
+    "id": "birla-mandir-hyderabad",
+    "name": "Birla Mandir",
+    "type": "Temple",
+    "typeColor": "bg-orange-100 text-orange-800",
+    "state": "Telangana",
+    "location": "Naubat Pahad, Hyderabad",
+    "description": "Constructed in white marble with panoramic city views. Non-sectarian temple open to all faiths.",
+    "image": "https://i.pinimg.com/736x/45/67/89/456789abc123def456789012345678901.jpg",
+    "timings": "7:00 AM – 12:00 PM, 3:00 PM – 9:00 PM",
+    "prasad": "Lord Venkateswara prasadam, Traditional offerings",
+    "amenities": [
+      "Panoramic city views",
+      "White marble construction",
+      "Non-sectarian worship",
+      "Spacious prayer halls",
+      "Parking facilities",
+      "Tourist information"
+    ],
+    "festivals": [
+      "Vaikunta Ekadasi",
+      "Brahmotsavam",
+      "Janmashtami",
+      "Diwali",
+      "Ram Navami"
+    ],
+    "contact": "+91 40 2345 6789",
+    "nearestTransport": {
+      "airport": "Rajiv Gandhi International Airport (HYD) - 35 km",
+      "railway": "Hyderabad Deccan Railway Station - 8 km",
+      "bus": "Naubat Pahad Bus Stop - 1 km"
+    },
+    "nearbyAttractions": [
+      "Hussain Sagar Lake",
+      "Lumbini Park",
+      "NTR Gardens",
+      "Secretariat",
+      "Assembly Building"
+    ],
+    "nearbyHotels": [
+      "Taj Krishna",
+      "ITC Kakatiya",
+      "Marriott Hyderabad",
+      "The Park Hyderabad"
+    ],
+    "nearbyRestaurants": [
+      "Paradise Restaurant",
+      "Bawarchi",
+      "Shah Ghouse",
+      "Hotel Shadab"
+    ],
+    "specialFeatures": [
+      "Deity: Lord Venkateswara",
+      "White marble construction",
+      "Panoramic city views",
+      "Non-sectarian temple open to all faiths",
+      "Modern temple architecture",
+      "Peaceful hilltop location"
+    ]
+  },
+  {
+    "id": "mecca-masjid-hyderabad",
+    "name": "Mecca Masjid",
+    "type": "Mosque",
+    "typeColor": "bg-green-100 text-green-800",
+    "state": "Telangana",
+    "location": "Near Charminar, Hyderabad",
+    "description": "One of the largest and oldest mosques in India; named after soil brought from Mecca. Features monumental domes and massive prayer halls.",
+    "image": "https://i.pinimg.com/736x/12/34/56/123456789abcdef0123456789abcdef01.jpg",
+    "timings": "4:00 AM – 9:30 PM",
+    "prasad": "Community Iftar meals, Charitable food distribution",
+    "amenities": [
+      "Massive prayer halls",
+      "Monumental domes",
+      "Ablution facilities",
+      "Community gathering spaces",
+      "Historical significance",
+      "Tourist information"
+    ],
+    "festivals": [
+      "Eid al-Fitr",
+      "Eid al-Adha",
+      "Milad-un-Nabi",
+      "Ramadan prayers",
+      "Islamic New Year"
+    ],
+    "contact": "+91 40 2456 7890",
+    "nearestTransport": {
+      "airport": "Rajiv Gandhi International Airport (HYD) - 40 km",
+      "railway": "Hyderabad Deccan Railway Station - 5 km",
+      "bus": "Charminar Bus Stop - 0.5 km"
+    },
+    "nearbyAttractions": [
+      "Charminar",
+      "Laad Bazaar",
+      "Salar Jung Museum",
+      "Chowmahalla Palace",
+      "Golconda Fort"
+    ],
+    "nearbyHotels": [
+      "Taj Falaknuma Palace",
+      "Hotel Golkonda",
+      "Grand Kakatiya",
+      "Local heritage hotels"
+    ],
+    "nearbyRestaurants": [
+      "Hotel Shadab",
+      "Shah Ghouse",
+      "Cafe Bahar",
+      "Hyderabadi Biryani houses"
+    ],
+    "specialFeatures": [
+      "One of the largest mosques in India",
+      "Named after soil brought from Mecca",
+      "Monumental domes and massive prayer halls",
+      "Historical and architectural significance",
+      "Qutb Shahi dynasty construction",
+      "Central location near Charminar"
+    ]
+  },
+  {
+    "id": "st-marys-basilica-secunderabad",
+    "name": "St. Mary's Basilica, Secunderabad",
+    "type": "Church",
+    "typeColor": "bg-purple-100 text-purple-800",
+    "state": "Telangana",
+    "location": "Sarojini Devi Road, Secunderabad",
+    "description": "Oldest Roman Catholic church in the region, built in 1850. Features Gothic arches and serene interior.",
+    "image": "https://i.pinimg.com/736x/98/76/54/987654321fedcba0987654321fedcba0.jpg",
+    "timings": "6:00 AM – 6:30 PM",
+    "prasad": "Holy Communion, Blessed bread, Sacred offerings",
+    "amenities": [
+      "Gothic architecture",
+      "Serene interior",
+      "Historical significance",
+      "Prayer halls",
+      "Confessionals",
+      "Religious education center"
+    ],
+    "festivals": [
+      "Christmas",
+      "Easter",
+      "Good Friday",
+      "Feast of St. Mary",
+      "All Saints Day"
+    ],
+    "contact": "+91 40 2567 8901",
+    "nearestTransport": {
+      "airport": "Rajiv Gandhi International Airport (HYD) - 45 km",
+      "railway": "Secunderabad Railway Station - 3 km",
+      "bus": "Sarojini Devi Road Bus Stop - 0.5 km"
+    },
+    "nearbyAttractions": [
+      "Secunderabad Clock Tower",
+      "Parade Ground",
+      "Trimulgherry",
+      "Hussain Sagar Lake",
+      "Tank Bund"
+    ],
+    "nearbyHotels": [
+      "Hotel Deccan Erragadda",
+      "Green Park Hyderabad",
+      "Secunderabad area hotels",
+      "Local guesthouses"
+    ],
+    "nearbyRestaurants": [
+      "Secunderabad restaurants",
+      "Multi-cuisine eateries",
+      "Christian community dining",
+      "Local cafes"
+    ],
+    "specialFeatures": [
+      "Oldest Roman Catholic church in the region",
+      "Built in 1850",
+      "Gothic arches and serene interior",
+      "Historical and architectural significance",
+      "British colonial period construction",
+      "Active parish community"
+    ]
+  },
+  {
+    "id": "gurudwara-saheb-ameerpet",
+    "name": "Gurudwara Saheb, Ameerpet",
+    "type": "Gurudwara",
+    "typeColor": "bg-blue-100 text-blue-800",
+    "state": "Telangana",
+    "location": "Ameerpet, Hyderabad",
+    "description": "Largest Gurudwara in Hyderabad; provides daily langar. Major center for Sikh religious events.",
+    "image": "https://i.pinimg.com/736x/11/22/33/112233445566778899aabbccddeeff00.jpg",
+    "timings": "Morning and evening prayers, Daily langar service",
+    "prasad": "Langar (community kitchen), Karah Prasad",
+    "amenities": [
+      "Largest Gurudwara in Hyderabad",
+      "Daily langar service",
+      "Community hall",
+      "Religious education facilities",
+      "Accommodation for pilgrims",
+      "Parking facilities"
+    ],
+    "festivals": [
+      "Guru Nanak Jayanti",
+      "Guru Gobind Singh Jayanti",
+      "Baisakhi",
+      "Vaisakhi",
+      "Diwali celebrations"
+    ],
+    "contact": "+91 40 2678 9012",
+    "nearestTransport": {
+      "airport": "Rajiv Gandhi International Airport (HYD) - 30 km",
+      "railway": "Ameerpet Metro Station - 2 km",
+      "bus": "Ameerpet Bus Stop - 1 km"
+    },
+    "nearbyAttractions": [
+      "Ameerpet commercial area",
+      "SR Nagar",
+      "Punjagutta",
+      "Banjara Hills",
+      "Jubilee Hills"
+    ],
+    "nearbyHotels": [
+      "Ameerpet area hotels",
+      "Business hotels",
+      "Local accommodations",
+      "Gurudwara guest house"
+    ],
+    "nearbyRestaurants": [
+      "Gurudwara Langar",
+      "Punjabi cuisine restaurants",
+      "Ameerpet eateries",
+      "Community dining halls"
+    ],
+    "specialFeatures": [
+      "Largest Gurudwara in Hyderabad",
+      "Provides daily langar",
+      "Major center for Sikh religious events",
+      "Community service focus",
+      "Traditional Sikh architecture",
+      "Active religious and social programs"
+    ]
+  }
+]

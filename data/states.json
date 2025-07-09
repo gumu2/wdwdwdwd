@@ -1,75 +1,5 @@
 [
   {
-    "id": "rajasthan",
-    "name": "Rajasthan",
-    "image": "https://images.pexels.com/photos/3581368/pexels-photo-3581368.jpeg?auto=compress&cs=tinysrgb&w=800",
-    "description": "The land of kings, Rajasthan is renowned for its magnificent palaces, imposing forts, colorful festivals, and rich cultural heritage. From the pink city of Jaipur to the golden city of Jaisalmer, every corner tells a story of valor and grandeur.",
-    "monumentCount": 15
-  },
-  {
-    "id": "uttar-pradesh",
-    "name": "Uttar Pradesh",
-    "image": "https://images.pexels.com/photos/1583339/pexels-photo-1583339.jpeg?auto=compress&cs=tinysrgb&w=800",
-    "description": "Home to the iconic Taj Mahal and numerous UNESCO World Heritage Sites, Uttar Pradesh is the heartland of Indian culture and spirituality. The state boasts of ancient temples, magnificent monuments, and sacred ghats along the Ganges.",
-    "monumentCount": 20
-  },
-  {
-    "id": "kerala",
-    "name": "Kerala",
-    "image": "/kerala.jpeg/God, gold and lagoons_ a snapshot of Kerala, India – in pictures.jpeg",
-    "description": "God's Own Country, Kerala is blessed with serene backwaters, lush greenery, and a rich tradition of art and culture. The state features beautiful temples with unique Kerala architecture, ancient churches, and peaceful mosques.",
-    "monumentCount": 12
-  },
-  {
-    "id": "tamil-nadu",
-    "name": "Tamil Nadu",
-    "image": "/tamil-nadu.jpeg/Nataraja Temple, Chidambaram_.jpeg",
-    "description": "Tamil Nadu showcases the magnificent Dravidian architecture through its towering gopurams and intricate stone carvings. The state is home to some of India's most ancient temples, each telling stories of devotion spanning millennia.",
-    "monumentCount": 18
-  },
-  {
-    "id": "karnataka",
-    "name": "Karnataka",
-    "image": "/files_4493969-1751434555315-Coorg.jpg",
-    "description": "Karnataka features diverse architectural styles from Hoysala temples to Vijayanagara monuments. The state showcases rich cultural heritage through its palaces, temples, and historical sites that span different dynasties.",
-    "monumentCount": 14
-  },
-  {
-    "id": "west-bengal",
-    "name": "West Bengal",
-    "image": "/dakshineswar-kali-temple.webp",
-    "description": "West Bengal is home to some of India's most revered temples and spiritual sites, reflecting centuries of devotion and architectural brilliance. The state blends traditional Bengali culture with colonial heritage.",
-    "monumentCount": 16
-  },
-  {
-    "id": "maharashtra",
-    "name": "Maharashtra",
-    "image": "https://images.pexels.com/photos/3573382/pexels-photo-3573382.jpeg?auto=compress&cs=tinysrgb&w=800",
-    "description": "Maharashtra is renowned for its ancient rock-cut caves, magnificent forts, and diverse religious architecture. From the caves of Ajanta and Ellora to the hill stations of the Western Ghats, the state offers rich cultural experiences.",
-    "monumentCount": 22
-  },
-  {
-    "id": "gujarat",
-    "name": "Gujarat",
-    "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?auto=compress&cs=tinysrgb&w=800",
-    "description": "Gujarat showcases a blend of ancient and medieval architecture through its temples, stepwells, and palaces. The state is known for its vibrant culture, business acumen, and architectural marvels like the Somnath Temple.",
-    "monumentCount": 13
-  },
-  {
-    "id": "delhi",
-    "name": "Delhi",
-    "image": "https://images.pexels.com/photos/9867550/pexels-photo-9867550.jpeg?auto=compress&cs=tinysrgb&w=800",
-    "description": "The capital territory of Delhi is a treasure trove of historical monuments spanning different eras. From Mughal architecture to British colonial buildings, Delhi represents the confluence of various cultures and dynasties.",
-    "monumentCount": 25
-  },
-  {
-    "id": "punjab",
-    "name": "Punjab",
-    "image": "https://images.pexels.com/photos/10564425/pexels-photo-10564425.jpeg?auto=compress&cs=tinysrgb&w=800",
-    "description": "Punjab, the land of five rivers, is the spiritual center of Sikhism. The state is home to the magnificent Golden Temple and numerous other gurudwaras that showcase Sikh architecture and hospitality.",
-    "monumentCount": 10
-  },
-  {
     "id": "telangana",
     "name": "Telangana",
     "image": "/telangana.jpeg/what-is-telangana-famous-for.jpg",
@@ -77,24 +7,10 @@
     "monumentCount": 12
   },
   {
-    "id": "andaman-nicobar",
-    "name": "Andaman and Nicobar Islands",
-    "image": "/andaman-nicobar.jpeg/WhatsApp Image 2025-07-02 at 11.12.00_528b19aa.jpg",
-    "description": "These pristine islands feature unique colonial architecture, historic churches, and monuments that reflect the diverse cultural heritage of the indigenous tribes and colonial settlers.",
-    "monumentCount": 8
-  },
-  {
     "id": "puducherry",
     "name": "Puducherry",
     "image": "/bd8f6ee5607298645984876c0e86192.jpg",
     "description": "The former French colony showcases beautiful colonial architecture, ancient temples, and churches that blend French and Tamil cultures in perfect harmony.",
     "monumentCount": 15
-  },
-  {
-    "id": "andhra-pradesh",
-    "name": "Andhra Pradesh",
-    "image": "https://imgs.search.brave.com/eDd-GIOrizn_ku1e9tHxP3NGHhJD-41SjZ4-JneKfh8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zMy5pbmRpYS5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMjQvMTEv/RXhwbG9yZS1UaGUt/VW50b3VjaGVkLUJl/YXV0eS1PZi1BcmFr/dS1WYWxsZXktSW4t/QW5kaHJhLVByYWRl/c2guanBnP2ltcG9s/aWN5PU1lZGl1bV9X/aWR0aG9ubHkmdz04/MDAmaD01NDE",
-    "description": "Andhra Pradesh is renowned for its ancient temples, Buddhist sites, and architectural marvels that span from the Satavahana period to the Vijayanagara empire.",
-    "monumentCount": 20
   }
 ]

@@ -43,23 +43,20 @@ async function initApp() {
 // Load Data
 async function loadData() {
     try {
-        const [statesResponse, monumentsResponse, keralaResponse, westBengalResponse] = await Promise.all([
+        const [statesResponse, telanganaResponse, puducherryResponse] = await Promise.all([
             fetch('./data/states.json'),
-            fetch('./data/monuments.json'),
-            fetch('./data/kerala.json'),
-            fetch('./data/westBengal.json')
+            fetch('./data/telangana.json'),
+            fetch('./data/puducherry.json')
         ]);
         
         appState.statesData = await statesResponse.json();
-        const generalMonuments = await monumentsResponse.json();
-        const keralaMonuments = await keralaResponse.json();
-        const westBengalMonuments = await westBengalResponse.json();
+        const telanganaMonuments = await telanganaResponse.json();
+        const puducherryMonuments = await puducherryResponse.json();
         
         // Combine all monument data
         appState.monumentsData = [
-            ...generalMonuments,
-            ...keralaMonuments,
-            ...westBengalMonuments
+            ...telanganaMonuments,
+            ...puducherryMonuments
         ];
     } catch (error) {
         console.error('Error loading data:', error);
@@ -335,32 +332,18 @@ function debounce(func, wait) {
 function getSampleStatesData() {
     return [
         {
-            id: 'rajasthan',
-            name: 'Rajasthan',
-            image: 'https://images.pexels.com/photos/3581368/pexels-photo-3581368.jpeg?auto=compress&cs=tinysrgb&w=800',
-            description: 'The land of kings, featuring magnificent palaces, forts, and temples.',
-            monumentCount: 15
-        },
-        {
-            id: 'uttar-pradesh',
-            name: 'Uttar Pradesh',
-            image: 'https://images.pexels.com/photos/1583339/pexels-photo-1583339.jpeg?auto=compress&cs=tinysrgb&w=800',
-            description: 'Home to the iconic Taj Mahal and numerous historical monuments.',
-            monumentCount: 20
-        },
-        {
-            id: 'kerala',
-            name: 'Kerala',
-            image: 'https://images.pexels.com/photos/962464/pexels-photo-962464.jpeg?auto=compress&cs=tinysrgb&w=800',
-            description: 'Gods own country with beautiful temples and churches.',
+            id: 'telangana',
+            name: 'Telangana',
+            image: '/telangana.jpeg/what-is-telangana-famous-for.jpg',
+            description: 'Telangana showcases a rich blend of Islamic and Hindu architecture through its historic monuments, temples, and palaces.',
             monumentCount: 12
         },
         {
-            id: 'tamil-nadu',
-            name: 'Tamil Nadu',
-            image: 'https://images.pexels.com/photos/3811082/pexels-photo-3811082.jpeg?auto=compress&cs=tinysrgb&w=800',
-            description: 'Rich Dravidian architecture and ancient temples.',
-            monumentCount: 18
+            id: 'puducherry',
+            name: 'Puducherry',
+            image: '/bd8f6ee5607298645984876c0e86192.jpg',
+            description: 'The former French colony showcases beautiful colonial architecture, ancient temples, and churches.',
+            monumentCount: 15
         }
     ];
 }
@@ -368,40 +351,40 @@ function getSampleStatesData() {
 function getSampleMonumentsData() {
     return [
         {
-            id: 'hawa-mahal',
-            name: 'Hawa Mahal',
-            state: 'rajasthan',
-            type: 'palace',
-            location: 'Jaipur, Rajasthan',
-            image: 'https://images.pexels.com/photos/3581368/pexels-photo-3581368.jpeg?auto=compress&cs=tinysrgb&w=800',
-            description: 'The Palace of Winds, a stunning example of Rajput architecture.',
-            timings: '9:00 AM - 4:30 PM',
-            entryFee: '₹50 for Indians, ₹200 for foreigners',
+            id: 'birla-mandir-hyderabad',
+            name: 'Birla Mandir',
+            state: 'telangana',
+            type: 'temple',
+            location: 'Naubat Pahad, Hyderabad',
+            image: 'https://i.pinimg.com/736x/45/67/89/456789abc123def456789012345678901.jpg',
+            description: 'Constructed in white marble with panoramic city views. Non-sectarian temple open to all faiths.',
+            timings: '7:00 AM – 12:00 PM, 3:00 PM – 9:00 PM',
+            entryFee: 'Free',
             bestTime: 'October to March',
-            facilities: ['Parking', 'Audio Guide', 'Museum', 'Cafeteria'],
-            address: 'Hawa Mahal Rd, Badi Choupad, J.D.A. Market, Pink City, Jaipur, Rajasthan 302002',
-            howToReach: 'Jaipur Airport is 13 km away. Well connected by road and rail.',
-            nearbyHotels: ['Taj Rambagh Palace', 'The Oberoi Rajvilas', 'Hotel Pearl Palace'],
-            festivals: 'Teej Festival, Gangaur Festival',
-            photography: 'Photography allowed with additional charges'
+            facilities: ['Parking', 'Panoramic Views', 'Tourist Information'],
+            address: 'Naubat Pahad, Hyderabad, Telangana',
+            howToReach: 'Rajiv Gandhi International Airport is 35 km away. Well connected by road and metro.',
+            nearbyHotels: ['Taj Krishna', 'ITC Kakatiya', 'Marriott Hyderabad'],
+            festivals: 'Vaikunta Ekadasi, Brahmotsavam, Janmashtami',
+            photography: 'Photography allowed'
         },
         {
-            id: 'taj-mahal',
-            name: 'Taj Mahal',
-            state: 'uttar-pradesh',
-            type: 'mausoleum',
-            location: 'Agra, Uttar Pradesh',
-            image: 'https://images.pexels.com/photos/1583339/pexels-photo-1583339.jpeg?auto=compress&cs=tinysrgb&w=800',
-            description: 'A UNESCO World Heritage Site and symbol of eternal love.',
-            timings: 'Sunrise to Sunset (Closed on Fridays)',
-            entryFee: '₹50 for Indians, ₹1100 for foreigners',
+            id: 'manakula-vinayagar-temple',
+            name: 'Manakula Vinayagar Temple',
+            state: 'puducherry',
+            type: 'temple',
+            location: 'Manakula Vinayagar Koil St, White Town, Puducherry',
+            image: 'https://i.pinimg.com/736x/7e/fc/95/7efc953cfc099fab170d520436c20c7b.jpg',
+            description: 'A very famous and ancient temple dedicated to Lord Ganesha, located in the heart of Puducherry\'s French Quarter.',
+            timings: 'Morning: 5:30 AM to 12:30 PM, Evening: 4:00 PM to 9:00 PM',
+            entryFee: 'Free',
             bestTime: 'October to March',
-            facilities: ['Parking', 'Security', 'Audio Guide', 'Battery Van'],
-            address: 'Dharmapuri, Forest Colony, Tajganj, Agra, Uttar Pradesh 282001',
-            howToReach: 'Agra Airport is 7 km away. Well connected by train and road.',
-            nearbyHotels: ['The Oberoi Amarvilas', 'ITC Mughal', 'Hotel Taj Resorts'],
-            festivals: 'Taj Mahotsav (February)',
-            photography: 'Photography allowed, no tripods inside main mausoleum'
+            facilities: ['Elephant Lakshmi blessings', 'Cultural events', 'Tourist information'],
+            address: 'Manakula Vinayagar Koil St, White Town, Puducherry',
+            howToReach: 'Puducherry Airport is 7 km away. Well connected by road and rail.',
+            nearbyHotels: ['Hotel Atithi', 'The Promenade', 'Villa Shanti'],
+            festivals: 'Ganesh Chaturthi, Vinayaka Chaturthi, Brahmotsavam',
+            photography: 'Photography allowed'
         }
     ];
 }
