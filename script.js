@@ -395,7 +395,7 @@ function getSampleMonumentsData() {
             description: 'A UNESCO World Heritage Site and symbol of eternal love.',
             timings: 'Sunrise to Sunset (Closed on Fridays)',
             entryFee: '₹50 for Indians, ₹1100 for foreigners',
-            bestTime: bestTime: 'October to March',
+            bestTime: 'October to March',
             facilities: ['Parking', 'Security', 'Audio Guide', 'Battery Van'],
             address: 'Dharmapuri, Forest Colony, Tajganj, Agra, Uttar Pradesh 282001',
             howToReach: 'Agra Airport is 7 km away. Well connected by train and road.',
